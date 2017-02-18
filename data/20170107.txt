@@ -1,0 +1,63 @@
+17000616   1/6/2017     37     22 FALMOUTH RD                                                 WARR/SER   HEALY D                507  
+17000618   1/6/2017     46     64 FULLER ST                                                   UNKN PRO   MCLEAN M               MED1 
+17000625   1/6/2017     159    44 SYLVAN AVE                                                  CBN MONO   WILSON J               492  
+17000627   1/6/2017     417    NWH HOSPITAL / 2014 WASHINGTON ST                              WARR/SER   EMMANUEL S             507  
+17000628   1/6/2017     419    ROSEMARY LLC, 'THE BARN' / 509 HAMMOND ST                      ALM/BURG   CONLEY B               494  
+17000630   1/6/2017     626    BLUE RIBBON BARBECUE INC / 45 KENNETH ST                       ALM/BURG   VALENTE D              496  
+17000631   1/6/2017     828    600 BEACON ST                                                  ALM/BURG   BOUDROT E              496  
+17000632   1/6/2017     900    POLICE DEPT ANNEX / 25 CHESTNUT ST                             CHECK PE   WALSH T                492  
+17000635   1/6/2017     929    SARGENT ST & WAVERLEY AVE                                      MVA / MI   PAGLIA RICH            MED2 
+17000642   1/6/2017     1043   JIFFY LUBE INTERNATIONAL / 191 NEEDHAM ST                      MVA        GARCIA J               495  
+17000644   1/6/2017     1053   NONANTUM VILLAGE / 241 WATERTOWN ST #6                         NOTIF      PAGLIA RICH            491  
+17000649   1/6/2017     1137   APARTMENT BUILDING / 2350 COMMONWEALTH AVE                     STRUCT F   GOURDEAU J             MED2 
+17000650   1/6/2017     1143   25 MILO ST                                                     LARCENY    WALSH T                492  
+17000652   1/6/2017     1153   225 TREMONT ST #TOP FL                                         CHECK PE   UMINA S                491  
+17000654   1/6/2017     1208   62 ALEXANDER RD                                                INVEST-G   ADAM R                 999  
+17000656   1/6/2017     1208   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     TRESPASS   ADAM R                 999  
+17000657   1/6/2017     1213   566 AUBURN ST                                                  THREATS    MCCARTHY T             999  
+17000658   1/6/2017     1214   WYMAN STRRET APARTMENTS / 68 WYMAN ST                          HARASS     MCCARTHY T             999  
+17000661   1/6/2017     1244   69 TANGLEWOOD RD                                               ALM/BURG   BOUDROT E              496  
+17000662   1/6/2017     1247   NORTHLAND INVESTMENT CORP. / 2150 WASHINGTON ST                DMV        GOURDEAU J             493  
+17000664   1/6/2017     1256   CVS / 999 WATERTOWN ST                                         SUSP PER   WALSH T                492  
+17000663   1/6/2017     1256   698 BEACON ST                                                  POL/TOW    NORCROSS M             499  
+17000665   1/6/2017     1311   30 PERKINS ST                                                  V/C/ORD    WALSH T                492  
+17000666   1/6/2017     1324   BOX 7263/ TARTUFO RESTARAUNT                                   STRAIGHT   PAGLIA ROBT            494  
+17000669   1/6/2017     1335   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         ALM/BURG   PAGLIA RICH            491  
+17000672   1/6/2017     1424   35 JACONNET ST                                                 INVEST-G   MCCARTHY T             999  
+17000674   1/6/2017     1443   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           CHECK PE   WALSH T                492  
+17000676   1/6/2017     1500   BETH ISRAEL DEACONESS HEALTH C / 200 BOYLSTON ST #4TH FLOOR    BREATH P   SOLOMAN A              AMB1 
+17000681   1/6/2017     1609   10 PEMBROKE ST                                                 DK         HELMS G                AMB2 
+17000687   1/6/2017     1630   388 LEXINGTON ST                                               UNLEASHE   MCSWEENEY M            493  
+17000688   1/6/2017     1638   CONTAINER STORE(THE) / 27 BOYLSTON ST                          FRAUD      COLETTI A              494  
+17000689   1/6/2017     1646   MILLS CONDOMINIUMS / 366 ELLIOT ST #7                          HARASS     POUTAS D               498  
+17000690   1/6/2017     1659   14 ANTHONY RD                                                  FALL/BAC   HELMS G                AMB1 
+17000694   1/6/2017     1757   41 BEECHER PL                                                  KEEP/PCE   BOUDREAU C             499  
+17000696   1/6/2017     1809   MILTON AVE & LEXINGTON                                         MVA        HEALY D                492  
+17000698   1/6/2017     1815   233 CALIFORNIA ST                                              INVEST-G   GUARINO C              WN   
+17000699   1/6/2017     1826   12 DEXTER RD                                                   ILL/PARK   CONLEY B               497  
+17000701   1/6/2017     1830   BLOOMINGDALES FRONT UPPER MALL / 225 BOYLSTON ST               LAR/SHOP   BOUDREAU C             499  
+17000700   1/6/2017     1831   19 ELIOT AVE                                                   FRAUD      MCLEAN M               999  
+17000702   1/6/2017     1845   PRESBYTERIAN CHURCH NURSERY SC / 75 VERNON ST                  LARCENY    GUARINO C              WN   
+17000704   1/6/2017     1854   CHURCH ST & WASHINGTON ST                                      DMV        HELMS G                491  
+17000705   1/6/2017     1905   CENTRE ST & CLINTON PL                                         MV/STOP    POUTAS D               495  
+17000707   1/6/2017     1908   WASHINGTON ST & WOODLAND RD                                    V/C/ORD    MCSWEENEY M            493  
+17000706   1/6/2017     1912   BOYLSTON ST & PARKER ST                                        SIGN/SIG   SOLOMAN A              496  
+17000708   1/6/2017     1913   35 EMERSON ST                                                  COURTDOC   LARSON R               500  
+17000709   1/6/2017     1914   145 PEARL ST                                                   COURTDOC   LARSON R               500  
+17000711   1/6/2017     1917   41 CURVE ST #R                                                 NEIG/PRB   CONLEY B               491  
+17000712   1/6/2017     1926   1075 CHESTNUT ST #4                                            FA ACTV/   POUTAS D               498  
+17000713   1/6/2017     1929   52 BENNINGTON ST                                               COURTDOC   LARSON R               500  
+17000714   1/6/2017     1944   12 DEXTER RD                                                   ILL/PARK   HEALY D                492  
+17000715   1/6/2017     1945   NORUMBEGA GARDENS / 56 ASH ST #A                               ILL/PARK   MCSWEENEY M            493  
+17000716   1/6/2017     1948   46 BOTHFELD RD                                                 CHECK PE   POUTAS D               495  
+17000717   1/6/2017     1953   CHESTNUT HILL MALL - UPPER / 199 BOYLSTON ST                   MV/STOP    CICCONE, A             501  
+17000719   1/6/2017     2014   TOWN HOUSES / 338 BOYLSTON ST                                  LOCK OUT   SOLOMAN A              496  
+17000720   1/6/2017     2030   NORUMBEGA GARDENS / 36 ASH ST #A                               CARD/RES   MCSWEENEY M            493  
+17000721   1/6/2017     2036   EVANS PARK / 430 CENTRE ST #122                                FALL/BAC   HELMS G                MED2 
+17000724   1/6/2017     2047   FRED V FOWLER CO. INC / 66 ROWE ST                             ALM/BURG   CONLEY B               497  
+17000727   1/6/2017     2119   66 THURSTON RD #C                                              REST/ORD   CICCONE, A             501  
+17000728   1/6/2017     2129   MILL ST & WALNUT ST                                            MV/STOP    HELMS G                491  
+17000730   1/6/2017     2153   CVS / 999 WATERTOWN ST                                         ALM/BURG   CICCONE, A             501  
+17000729   1/6/2017     2153   2150 COMMONWEALTH AVE                                          L/NOISE    MCSWEENEY M            493  
+17000732   1/6/2017     2201   24 WHITTEMORE RD                                               CHECK PE   CONLEY B               491  
+17000731   1/6/2017     2202   DR WALKS / 64 COLUMBUS ST                                      ALM/BURG   POUTAS D               495  

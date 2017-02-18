@@ -1,0 +1,83 @@
+17005075   2/9/2017     623    WESTLAND TER                                                   MVA/CITY   BROOKS J               492  
+17005076   2/9/2017     637    58 PARKER ST                                                   OPEN DOO   HOWES C                499  
+17005077   2/9/2017     658    55 NEEDHAM ST                                                  UTIL/HAZ   BOUDREAU M             495  
+17005078   2/9/2017     711    UNDERWOOD SCHOOL / 101 VERNON ST                               ALM/BURG   COLELLA M              491  
+17005079   2/9/2017     717    1538 BEACON ST                                                 ALM/BURG   COTTENS S              493  
+17005080   2/9/2017     752    BILL'S PIZZERIA / 753 BEACON ST #A                             ALM/BURG   MANOUK K               499  
+17005081   2/9/2017     759    IMPERIAL TOWERS / 280 BOYLSTON ST #113                         LF/PROP    GABRIEL A              496  
+17005082   2/9/2017     801    11 FAIRHAVEN RD                                                ALM/BURG   PAGLIA ROBT            495  
+17005083   2/9/2017     804    9 COOK ST                                                      ILL/PARK   COLELLA M              491  
+17005084   2/9/2017     808    WHITE HOUSE BLACK MARKET / 200 BOYLSTON ST #A102               ALM/BURG   VELLO A                501  
+17005088   2/9/2017     846    258 CHERRY ST                                                  CBN MONO   WALSH T                492  
+17005089   2/9/2017     928    COMMONWEALTH AVE & LOWELL AVE                                  MVA        SCHLEGEL J             492  
+17005090   2/9/2017     929    7 PLAYSTEAD RD                                                 V/C/ORD    ANDERSON N             502  
+17005091   2/9/2017     936    VERIZON / 230 NEEDHAM ST                                       ALM/BURG   GABRIEL A              496  
+17005093   2/9/2017     949    14 RICKER TER                                                  V/C/ORD    ANDERSON N             502  
+17005094   2/9/2017     1015   186 CHAPEL ST                                                  V/C/ORD    ANDERSON N             502  
+17005095   2/9/2017     1027   HOWLEY AVE                                                     V/C/ORD    CLAFLIN JR J           507  
+17005096   2/9/2017     1031   HACKEL OFFICE BUILDING / 1320 CENTRE ST                        B&E PAST   SETIABUDI G            495  
+17005097   2/9/2017     1035   110 CHARLEMONT ST                                              ALM/BURG   GABRIEL A              496  
+17005100   2/9/2017     1108   KEYES NORTH ATLANTIC / 459 WATERTOWN ST                        ALM/BURG   IAROSSI M              497  
+17005101   2/9/2017     1115   79 WABAN PK                                                    INVEST-G   GARCIA J               WN   
+17005103   2/9/2017     1115   SANTANDER BANK / 1314 WASHINGTON ST                            ALM/BANK   CHISHOLM G             492  
+17005104   2/9/2017     1124   57 UNION ST                                                    V/C/ORD    CLAFLIN JR J           507  
+17005105   2/9/2017     1127   ELLIOT ST                                                      CHECK PE   SETIABUDI G            495  
+17005106   2/9/2017     1129   74 LANGLEY RD                                                  V/C/ORD    CLAFLIN JR J           507  
+17005107   2/9/2017     1150   10 CHARLEMONT ST                                               V/C/ORD    CLAFLIN JR J           507  
+17005108   2/9/2017     1200   BLOOMINGDALES FRONT UPPER MALL / 225 BOYLSTON ST               MVA/PAST   MANOUK K               494  
+17005110   2/9/2017     1215   27 TANGLEWOOD RD                                               V/C/ORD    CLAFLIN JR J           507  
+17005111   2/9/2017     1220   12 LOUISE RD                                                   V/C/ORD    CLAFLIN JR J           507  
+17005112   2/9/2017     1230   72 PARKER AVE                                                  V/C/ORD    CLAFLIN JR J           495  
+17005113   2/9/2017     1233   55 COLGATE RD                                                  DPW        COTTENS S              493  
+17005114   2/9/2017     1237   CHARLES RIVER C. C. CLUB HOUSE / 483 DEDHAM ST                 ALM/BURG   GABRIEL A              496  
+17005115   2/9/2017     1248   11 AUDUBON DR                                                  V/C/ORD    CLAFLIN JR J           507  
+17005118   2/9/2017     1311   BOYLSTON ST & ELLIOT ST                                        CHECK PE   SETIABUDI G            495  
+17005119   2/9/2017     1329   LINWOOD AVE & NEVADA ST                                        MVA        COLELLA M              491  
+17005120   2/9/2017     1337   77 CLOVERDALE RD                                               V/C/ORD    CLAFLIN JR J           507  
+17005121   2/9/2017     1342   OTIS ST                                                        MV/VIOL    IAROSSI M              497  
+17005123   2/9/2017     1353   CIRCUIT AVE                                                    V/C/ORD    CLAFLIN JR J           507  
+17005124   2/9/2017     1402   WOODLAND MBTA PARKING GARAGE / 1950 WASHINGTON ST              LOST/PER   UMINA S                493  
+17005126   2/9/2017     1425   NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   COLELLA M              491  
+17005128   2/9/2017     1449   BOX 3216/ GRANDVIEW APARTMENTS                                 STRAIGHT   WALSH T                492  
+17005130   2/9/2017     1509   1775 BEACON ST                                                 UTIL/HAZ   SULLIVAN D             493  
+17005131   2/9/2017     1511   BEACON ST & TUDOR RD                                           DMV        SIEGAL D               499  
+17005132   2/9/2017     1519   BOX 181/ LEWIS ST & NEWTONVILLE AVE                            STRAIGHT   MARCH R                491  
+17005133   2/9/2017     1521   HONDA VILLAGE / 371 WASHINGTON ST                              MVA        HELMS G                491  
+17005134   2/9/2017     1522   CHESTNUT HILL MALL - UPPER / 199 BOYLSTON ST                   POL-ASSI   SIEGAL D               499  
+17005136   2/9/2017     1620   RICKER TER & RICKER RD                                         V/C/ORD    MARINI R               537  
+17005137   2/9/2017     1627   PAPA GINOS / 191 WATERTOWN ST                                  ALM/BURG   HELMS G                491  
+17005138   2/9/2017     1639   40 BENCLIFFE CIR                                               FRAUD      BROOKS J               492  
+17005139   2/9/2017     1644   117 CHESTNUT ST                                                MVA        SELIG, J               497  
+17005142   2/9/2017     1709   NEWTONVILLE POST OFFICE / 897 WASHINGTON ST                    V/C/ORD    MARINI R               537  
+17005143   2/9/2017     1712   WALNUT ST & WASHINGTON ST                                      V/C/ORD    MARINI R               537  
+17005144   2/9/2017     1735   63 CHARLEMONT ST                                               SIMPLE A   CONLEY B               496  
+17005145   2/9/2017     1742   SUN HILL LA                                                    V/C/ORD    GAUDET M               525  
+17005147   2/9/2017     1746   WOODLAND PARK APARTMENTS / 278 GROVE ST #3                     NEIG/PRB   SULLIVAN D             493  
+17005146   2/9/2017     1747   PETTEE SQUARE / 1234 CHESTNUT ST                               V/C/ORD    HOWES C                495  
+17005148   2/9/2017     1758   BILL'S PIZZERIA / 753 BEACON ST                                V/C/ORD    GAUDET M               525  
+17005150   2/9/2017     1802   NORTH CROSSING / 47 PARK ST                                    LOST/PER   HELMS G                491  
+17005151   2/9/2017     1816   ALLERTON RD & CENTRE ST                                        DPW        GUARINO C              499  
+17005153   2/9/2017     1902   66 VINE ST                                                     V/C/ORD    GAUDET M               525  
+17005154   2/9/2017     1903   11 GLASTONBURY OVL                                             ILL/PARK   HOWES C                495  
+17005155   2/9/2017     1911   BRIMMER MAY SCHOOL CHASE BUILD / 60 MIDDLESEX RD               ALM/BURG   GUARINO C              494  
+17005156   2/9/2017     1913   BROOKDALE RD                                                   V/C/ORD    BROOKS J               492  
+17005158   2/9/2017     1916   90 LOS ANGELES ST                                              V/C/ORD    MARINI R               537  
+17005159   2/9/2017     1919   NORTH CROSSING / 47 PARK ST                                    LOST/PER   HELMS G                491  
+17005160   2/9/2017     1921   299 AUBURN ST                                                  V/C/ORD    SULLIVAN D             493  
+17005161   2/9/2017     1928   15 WHITTLESEY RD                                               RD/OBST    CONLEY B               496  
+17005162   2/9/2017     1937   WOODLAND PARK APARTMENTS / 278 GROVE ST #3                     NEIG/PRB   SULLIVAN D             493  
+17005163   2/9/2017     1939   73 LEVBERT RD                                                  ILL/PARK   CONLEY B               496  
+17005164   2/9/2017     1943   JEWETT ST & PEARL ST                                           UTIL/HAZ   WALSH T                502  
+17005165   2/9/2017     2005   21 LOUISE RD                                                   V/C/ORD    GAUDET M               525  
+17005167   2/9/2017     2026   ELLIOT ST & WETHERELL ST                                       V/C/ORD    GAUDET M               525  
+17005168   2/9/2017     2027   BOX 44273/ LAS BRAGDON HALL                                    STRAIGHT   SULLIVAN D             493  
+17005171   2/9/2017     2052   64 THURSTON RD #C                                              SICK-A2    POHLMAN, K             504  
+17005173   2/9/2017     2111   15 FURBER LA                                                   ALM/BURG   HOWES C                495  
+17005172   2/9/2017     2111   180 WINCHESTER ST                                              V/C/ORD    CONLEY B               496  
+17005174   2/9/2017     2119   27 PLACID RD                                                   SUSP PER   SIEGAL D               496  
+17005175   2/9/2017     2205   ADAMS ST & CHANDLER ST                                         PUB/HAZ    HELMS G                491  
+17005176   2/9/2017     2212   9 COLUMBIA AVE                                                 UTIL/HAZ   HOWES C                495  
+17005177   2/9/2017     2241   92 DORCAR RD                                                   V/C/ORD    GAUDET M               525  
+17005178   2/9/2017     2306   CENTRE ST & HOLLIS ST                                          V/C/ORD    MARINI R               537  
+17005181   2/9/2017     2329   BIGELOW MIDDLE SCHOOL / 42 VERNON ST                           ALM/BURG   CONLEY B               491  
+17005182   2/9/2017     2340   INTERMIX / 33 BOYLSTON ST                                      ALM/BURG   GUARINO C              499  

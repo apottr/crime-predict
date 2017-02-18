@@ -1,0 +1,61 @@
+17006065   2/15/2017    38     NORTH CROSSING / 47 PARK ST                                    FND/PERS   LAZARAKIS Z            491  
+17006081   2/15/2017    642    6 ARDEN RD                                                     CBN MONO   BROOKS J               492  
+17006083   2/15/2017    719    AVALON AT NEWTON HIGHLANDS / 99 NEEDHAM ST                     ALM/BURG   CONLEY B               495  
+17006084   2/15/2017    737    540 COMMONWEALTH AVE                                           DMV        BENES R                494  
+17006086   2/15/2017    753    MT IDA ACADEMIC BUILDING / 816 DEDHAM ST                       DMV        BOUDROT E              496  
+17006087   2/15/2017    832    770 DEDHAM ST                                                  WARR/SER   BOUDROT E              496  
+17006089   2/15/2017    854    140 COMMONWEALTH AVE                                           MVA        BENES R                494  
+17006090   2/15/2017    900    78 BEACON ST                                                   POL-ASSI   BENES R                494  
+17006092   2/15/2017    916    GOLDEN LIVING CENTERS / 188 FLORENCE ST                        POL-ASSI   BOUDROT E              496  
+17006097   2/15/2017    943    BEACON ST & WINDSOR RD                                         DIRECTED   GOURDEAU J             493  
+17006096   2/15/2017    944    22 CRAGMORE RD                                                 UTIL/HAZ   SETIABUDI G            495  
+17006099   2/15/2017    948    AUTO VIDEO INTEGRATION / 12 HAWTHORN ST                        FRAUD      COLELLA M              491  
+17006102   2/15/2017    1026   117 HIGH ST                                                    UTIL/HAZ   MANOUK K               498  
+17006103   2/15/2017    1029   23 HAMLET ST                                                   ALM/BURG   BENES R                494  
+17006104   2/15/2017    1031   WALES ST & WASHINGTON ST                                       SIGN/SIG   GOURDEAU J             493  
+17006106   2/15/2017    1040   306 FRANKLIN ST                                                DMV        COLELLA M              491  
+17006108   2/15/2017    1053   NWH HOSPITAL / 2014 WASHINGTON ST                              WARR/SER   GOURDEAU J             493  
+17006109   2/15/2017    1100   BOSTON TRANSPORTATION / 44 MECHANIC ST                         MVA/PAST   SETIABUDI G            495  
+17006110   2/15/2017    1111   LAS VILLAGE / MONTESSORI / 80C SEMINARY AVE #362               INVEST-G   ROSENBAUM E            608  
+17006113   2/15/2017    1126   360 WATERTOWN ST                                               SNOW COM   DEVINE D               525  
+17006115   2/15/2017    1134   CENTRE ST & WASHINGTON ST                                      MV/VIOL    COLELLA M              491  
+17006116   2/15/2017    1140   DESIGN CONTINUUM / 1220 WASHINGTON ST                          ALM/BURG   COTTENS S              492  
+17006117   2/15/2017    1143   428 CHERRY ST                                                  SNOW COM   GAUDET M               525  
+17006119   2/15/2017    1150   91 UNION ST                                                    DMV        BENES R                494  
+17006120   2/15/2017    1150   NORTH CROSSING / 47 PARK ST                                    LOST/PER   COLELLA M              491  
+17006123   2/15/2017    1205   APARTMENT BUILDING / 2340 COMMONWEALTH AVE #3-2                MVA/PAST   GOURDEAU J             493  
+17006125   2/15/2017    1315   120 WABAN AVE                                                  ALM/BURG   MANOUK K               498  
+17006126   2/15/2017    1321   250 WOODWARD ST                                                CENT STA   SETIABUDI G            495  
+17006127   2/15/2017    1334   52 WINTHROP ST                                                 ALM/BURG   COTTENS S              492  
+17006133   2/15/2017    1501   SHIFT COMMUNICATIONS / 275 WASHINGTON ST                       911 HANG   COLELLA M              491  
+17006134   2/15/2017    1534   HAMMOND ST & MIDDLESEX RD                                      OUTSIDE    DURICKAS K             499  
+17006135   2/15/2017    1542   111 MANET RD                                                   WATER PR   CROWE, J               494  
+17006136   2/15/2017    1550   GARDEN REMEDIES / 697 WASHINGTON ST                            CENT STA   HELMS G                491  
+17006137   2/15/2017    1557   200 ALLEN AVE                                                  CENT STA   MCNEIL R               495  
+17006139   2/15/2017    1615   24 ESSEX RD                                                    ALM/BURG   CROWE, J               494  
+17006143   2/15/2017    1647   235 FULLER ST                                                  CENT STA   SULLIVAN D             493  
+17006144   2/15/2017    1649   MASSWATER RESOURCE AUTH / 999 WATERTOWN ST                     911 HANG   HOWES C                492  
+17006146   2/15/2017    1702   T J MAXX / 260 NEEDHAM ST                                      MVA        GAMBLE N               496  
+17006148   2/15/2017    1733   WEEKS HOUSING / 7 HEREWARD RD                                  WARR/SER   KOERBER P              495  
+17006149   2/15/2017    1739   258 DERBY ST #6                                                CENT STA   HOWES C                492  
+17006150   2/15/2017    1741   BOX 72352/ WEGMANS                                             STRAIGHT   GAMBLE N               496  
+17006157   2/15/2017    1811   7 BERNARD ST                                                   CBN MONO   GAMBLE N               496  
+17006158   2/15/2017    1844   FLORAL ST & WALNUT ST                                          MV/STOP    MCNEIL R               495  
+17006160   2/15/2017    1854   BEACON ST & LAWRENCE AVE                                       ILL/PARK   CROWE, J               494  
+17006162   2/15/2017    1904   5 MELBOURNE AVE                                                ANIMAL R   TORRES R               538  
+17006163   2/15/2017    1924   78 BEACON ST                                                   REST/ORD   KOERBER P              501  
+17006164   2/15/2017    1926   29 NOBLE ST                                                    CBN MONO   HOWES C                492  
+17006165   2/15/2017    1929   CRAFTS ST & RICHARDS CIR                                       MV/STOP    HOWES C                492  
+17006166   2/15/2017    1930   CVS / 304 WALNUT ST                                            F.A. ACT   HELMS G                491  
+17006167   2/15/2017    1933   199 OTIS ST                                                    CHECK PE   BROOKS J               502  
+17006168   2/15/2017    1935   LANGLEY RD & MAPLE PK                                          ILL/PARK   DURICKAS K             494  
+17006180   2/15/2017    2144   RODSKY'S  / 3 BOYLSTON ST #A                                   ALM/BURG   CROWE, J               494  
+17006182   2/15/2017    2146   LEXINGTON STREET APARTMENTS / 89 LEXINGTON ST #26              SUSP PER   HOWES C                501  
+17006183   2/15/2017    2157   NORTH CROSSING / 47 PARK ST                                    FND/PERS   OBRIEN D               500  
+17006184   2/15/2017    2211   ADAMS ST & WASHINGTON ST                                       MVA        GUARINO C              500  
+17006185   2/15/2017    2214   28 LANGLEY RD                                                  POL/TOW    HELMS G                999  
+17006186   2/15/2017    2216   354 WATERTOWN ST                                               POL/TOW    MCLEAN M               998  
+17006189   2/15/2017    2226   BOX 42515/ RIVERSIDE CENTER                                    STRAIGHT   SULLIVAN D             493  
+17006191   2/15/2017    2303   514 CHESTNUT ST                                                911 HANG   MCNEIL R               495  
+17006192   2/15/2017    2319   TREFLER & SONS / 29 TOWER RD                                   ALM/BURG   KOERBER P              495  
+17006197   2/15/2017    2350   BOX 42515/ RIVERSIDE CENTER                                    STRAIGHT   VALENTE D              493  

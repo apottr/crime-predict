@@ -1,0 +1,69 @@
+17001139   1/10/2017    18     BOX 7711/ OFFICES 53 LANGLEY RD                                STRAIGHT   CICCONE, A             494  
+17001155   1/10/2017    201    WALTHAM POLICE DEPT. / 155 LEXINGTON ST                        O/AGENCY   FERGUSON A             498  
+17001161   1/10/2017    430    WEEKS HOUSING / 7 HEREWARD RD #17                              CONV/SEI   DURICKAS K             MED1 
+17001162   1/10/2017    440    NEWTON CENTRE MBTA STATION / 70 UNION ST                       DK         SIEGAL SC              508  
+17001164   1/10/2017    706    15 FURBER LA                                                   ALM/BURG   SIEGAL SC              495  
+17001165   1/10/2017    709    SPEEDWAY GAS / 2370 COMMONWEALTH AVE                           MVA        SELIG, J               493  
+17001166   1/10/2017    715    COUNTRY CLUB RD & ROSALIE RD                                   SIGN/SIG   BOUDROT E              496  
+17001167   1/10/2017    733    THE FARMS CONDOS BUILDING #20 / 99 FLORENCE ST #3A             ALM/BURG   BOUDROT E              496  
+17001168   1/10/2017    743    COMMONWEALTH AVE & GRANT AVE                                   MVA        PAGLIA ROBT            499  
+17001169   1/10/2017    808    GARRET BROWN  / 997 CHESTNUT ST #5                             ALM/BURG   CLAFLIN G              498  
+17001170   1/10/2017    841    BOYLSTON ST & ELLIOT ST                                        MVA        VELLO A                495  
+17001171   1/10/2017    849    CRAFTS ST & NORTH ST                                           MVA        WALSH T                492  
+17001172   1/10/2017    856    DAVIS CT & WATERTOWN ST                                        MVA        IAROSSI M              AMB1 
+17001173   1/10/2017    907    DUNKIN DONUTS / 1250 WASHINGTON ST                             ALM/BURG   WALSH T                492  
+17001174   1/10/2017    909    BROOKDALE RD                                                   MVA        COLELLA M              491  
+17001176   1/10/2017    919    26 MORTON ST                                                   INVEST-G   ROSENBAUM E            999  
+17001175   1/10/2017    919    BOX 22512/ 471 WATERTOWN ST                                    STRAIGHT   COLELLA M              491  
+17001178   1/10/2017    1003   CENTRE AVE & CENTRE ST                                         MVA        COLELLA M              491  
+17001181   1/10/2017    1021   BOX 88146/ 55 BOYLSTON ST                                      STRAIGHT   BENES R                494  
+17001185   1/10/2017    1040   144 DERBY ST                                                   SICK-D     WALSH T                MED2 
+17001189   1/10/2017    1127   BEACON ST & GRANT AVE                                          SIGN/SIG   BENES R                494  
+17001190   1/10/2017    1130   HOSPITAL IQ / 55 CHAPEL ST #100                                911 HANG   COLELLA M              491  
+17001191   1/10/2017    1131   216 WINSLOW RD                                                 NOTIF      VELLO A                495  
+17001193   1/10/2017    1149   CARLTON RD & QUINOBEQUIN RD                                    MVA / MI   GARCIA J               AMB1 
+17001196   1/10/2017    1225   OUR LADYS CHURCH / 563 WASHINGTON ST                           LOCK OUT   COLELLA M              491  
+17001197   1/10/2017    1230   BOX 2335/ OFFICE BUILDING                                      STRAIGHT   COLELLA M              491  
+17001200   1/10/2017    1246   245 ADAMS ST                                                   MVA/PAST   RAYMOND Z              503  
+17001201   1/10/2017    1246   BERTUCCIS / 275 CENTRE ST                                      ILL/PARK   WALSH T                492  
+17001204   1/10/2017    1313   CLINE REALTY / 49 WINCHESTER ST                                INVEST-G   DANGELO K              999  
+17001206   1/10/2017    1323   SULLIVAN TIRE / 1180 WASHINGTON ST                             ILL/PARK   IAROSSI M              497  
+17001207   1/10/2017    1334   BERKELEY ST & CHESTNUT ST                                      DMV        IAROSSI M              497  
+17001208   1/10/2017    1352   NEW ENGLAND OB-GYN ASSOCIATES / 200 BOYLSTON ST #301           911 HANG   BOUDROT E              496  
+17001209   1/10/2017    1419   BOWEN SCHOOL / 280 CYPRESS ST                                  INVEST-G   UMINA S                999  
+17001210   1/10/2017    1427   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         MVA        COLELLA M              491  
+17001211   1/10/2017    1434   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           911 HANG   IAROSSI M              492  
+17001213   1/10/2017    1437   56 FREEMAN ST                                                  CHECK PE   IAROSSI M              AMB2 
+17001212   1/10/2017    1438   BEACON ST & CENTRE ST                                          DMV        VELLO A                495  
+17001214   1/10/2017    1504   27 NOBLE ST FL 1                                               B&E PAST   IAROSSI M              491  
+17001215   1/10/2017    1518   FIRST CHURCH IN CHESTNUT HILL / 26 SUFFOLK RD                  ALM/BURG   PAGLIA ROBT            499  
+17001216   1/10/2017    1519   46 PELHAM ST                                                   LAR/BIKE   FERGUSON A             498  
+17001218   1/10/2017    1522   39 BOYLSTON RD                                                 CHECK PE   SIEGAL SC              494  
+17001217   1/10/2017    1522   96 ADELINE RD                                                  CHECK PE   DURICKAS K             AMB1 
+17001221   1/10/2017    1558   17 DUNSTAN ST                                                  CHOKING-   BROOKS J               AMB2 
+17001224   1/10/2017    1634   SHADY HILL RD                                                  IND/EXP    SIEGAL SC              495  
+17001231   1/10/2017    1705   RASHI SCHOOL / 15 WALNUT PK                                    ALM/BURG   BROOKS J               492  
+17001235   1/10/2017    1741   WALNUT ST & WASHINGTON ST                                      MVA        MARCH R                497  
+17001236   1/10/2017    1744   BRAE BURN COUNTRY CLUB / 326 FULLER ST                         ALM/BURG   SELIG, J               493  
+17001238   1/10/2017    1804   110 ROUNDWOOD RD                                               SUSP PER   CONLEY B               495  
+17001242   1/10/2017    1829   24 HALE ST                                                     ILL/PARK   FERGUSON A             498  
+17001243   1/10/2017    1850   42 CRESCENT ST #B                                              ALM/BURG   BROOKS J               492  
+17001244   1/10/2017    1854   ONE NEWTON PLACE / 275 WASHINGTON ST                           MVA        HELMS G                491  
+17001245   1/10/2017    1915   ALBEMARLE RD & CRAFTS ST                                       MV/STOP    MARCH R                497  
+17001246   1/10/2017    1934   28 ORIENT AVE                                                  UNCONS/F   CONLEY B               AMB2 
+17001248   1/10/2017    1939   CLAY AUTO BODY / 444 WATERTOWN ST                              ALM/BURG   MARCH R                497  
+17001251   1/10/2017    1945   33 GORDON RD                                                   CBN MONO   CONLEY B               495  
+17001252   1/10/2017    1955   67 PUTNAM ST                                                   SUSP PER   BROOKS J               492  
+17001254   1/10/2017    2019   BEACON ST & HAMMOND ST                                         MV/VIOL    CROWE, J               494  
+17001255   1/10/2017    2021   1151 COMMONWEALTH AVE                                          SUSP PER   MARCH R                492  
+17001256   1/10/2017    2044   AREN / 11 JOHN ST                                              ALM/BURG   CROWE, J               494  
+17001257   1/10/2017    2054   409 AUBURN ST                                                  ANIMAL R   SELIG, J               493  
+17001258   1/10/2017    2058   2148 COMMONWEALTH AVE                                          THREATS    FERGUSON A             493  
+17001260   1/10/2017    2150   BEACON ST & ROSLYN RD                                          MV/STOP    DURICKAS K             499  
+17001261   1/10/2017    2151   42 CRESCENT ST #B                                              ALM/BURG   MARCH R                492  
+17001262   1/10/2017    2216   BROOKLIONE LIQUOR  / 7 BOYLSTON ST                             ALM/BURG   CROWE, J               494  
+17001263   1/10/2017    2222   241 NAHANTON ST                                                MV/STOP    SIEGAL SC              496  
+17001264   1/10/2017    2229   JP LICKS AT NEWTON CTR INC / 46 LANGLEY RD                     DK         WILSON J               AMB2 
+17001265   1/10/2017    2232   ANITA CIR                                                      ALM/BURG   CONLEY B               495  
+17001267   1/10/2017    2316   BOX 7614/ HACKEL OFFICE BUILDING                               STRAIGHT   WALTON T               495  
+17001268   1/10/2017    2319   CVS / 304 WALNUT ST                                            911 HANG   OBRIEN D               500  

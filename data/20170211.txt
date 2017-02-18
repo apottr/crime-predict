@@ -1,0 +1,78 @@
+17005185   2/10/2017    1      CARE ONE / 2101 WASHINGTON ST #243                             POL-ASSI   CHIEU R                493  
+17005189   2/10/2017    20     CENTRE ST & CHURCH ST                                          V/C/ORD    BROOKS J               500  
+17005193   2/10/2017    43     LAS FOREST SUITES / 33 FOREST AVE                              DMV        CHIEU R                493  
+17005197   2/10/2017    123    52 FOREST AVE                                                  DMV        CHIEU R                493  
+17005201   2/10/2017    128    CENTRE ST & COMMONWEALTH AVE                                   CHECK PE   WALTON T               495  
+17005202   2/10/2017    137    MONADNOCK RD & TUDOR RD                                        V/C/ORD    CROWE, J               501  
+17005203   2/10/2017    143    117 FULLER ST                                                  ALM/BURG   VALENTE D              493  
+17005205   2/10/2017    204    CENTRAL ST & FERN ST                                           V/C/ORD    BROOKS J               500  
+17005206   2/10/2017    206    1616 CENTRE ST                                                 SNOW COM   GUARINO C              494  
+17005208   2/10/2017    224    KU DE TA / 33 BOYLSTON ST                                      ALM/BURG   GUARINO C              499  
+17005212   2/10/2017    422    19 LANSING RD                                                  ALM/BURG   CHIEU R                493  
+17005213   2/10/2017    434    WILLIAM JONES COLLEGE / 1 WELLS AVE                            ALM/BURG   CALDERON D             496  
+17005217   2/10/2017    806    COMMONWEALTH AVE & LEXINGTON ST                                POL-ASSI   VELLO A                493  
+17005219   2/10/2017    823    CRYSTAL LAKE / 44 ROGERS ST                                    CHECK PE   SETIABUDI G            495  
+17005221   2/10/2017    827    17 RACHEL RD                                                   MVA        BOUDROT E              496  
+17005222   2/10/2017    832    1874 BEACON ST                                                 ALM/BURG   CLAFLIN G              498  
+17005224   2/10/2017    845    NEWTON POLICE DEPT / 1321 WASHINGTON ST                        IDENTITY   DANGELO K              OIC  
+17005225   2/10/2017    849    TEMPLE BETH EL / 561 WARD ST                                   DEFAULT    BENES R                494  
+17005226   2/10/2017    852    12 IRVING ST                                                   IDENTITY   GARCIA J               WN   
+17005227   2/10/2017    852    2ND TIME AROUND / 67 UNION ST                                  ALM/BURG   BENES R                494  
+17005228   2/10/2017    905    PARK ST & SARGENT ST                                           MVA        COLELLA M              491  
+17005229   2/10/2017    916    CHAPEL ST & WATERTOWN ST                                       ALM-M/V    COLELLA M              491  
+17005230   2/10/2017    926    1189 BOYLSTON ST                                               LOCK OUT   SETIABUDI G            495  
+17005231   2/10/2017    926    69 MAYNARD ST                                                  LARCENY    IAROSSI M              491  
+17005234   2/10/2017    940    BEACON ST & IRVINGTON ST                                       UTIL/HAZ   VELLO A                493  
+17005237   2/10/2017    1020   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         DMV        COLELLA M              491  
+17005238   2/10/2017    1023   30 CLIFF RD                                                    POL-ASSI   SETIABUDI G            495  
+17005239   2/10/2017    1028   50 FAIRHAVEN RD                                                ALM/BURG   COTTENS S              499  
+17005240   2/10/2017    1029   32 BALDPATE HILL RD                                            ANIMAL P   TORRES R               538  
+17005241   2/10/2017    1037   NONANTUM VILLAGE / 241 WATERTOWN ST #16                        IDENTITY   GARCIA J               WN   
+17005242   2/10/2017    1108   85 FLORAL ST                                                   CBN MONO   SETIABUDI G            495  
+17005243   2/10/2017    1108   CONTAINER STORE(THE) / 27 BOYLSTON ST                          MVA        BENES R                494  
+17005245   2/10/2017    1123   CRAFTS ST & WASHINGTON ST                                      CHECK PE   COLELLA M              491  
+17005247   2/10/2017    1134   33 EMERSON ST                                                  ALM/BURG   IAROSSI M              497  
+17005248   2/10/2017    1143   MASON-RICE SCHOOL / 149 PLEASANT ST                            NATURL G   SETIABUDI G            495  
+17005249   2/10/2017    1144   BEACON ST & HAMMOND ST                                         MV/VIOL    BENES R                494  
+17005253   2/10/2017    1210   91 BISHOPSGATE RD                                              ALM/BURG   BENES R                494  
+17005255   2/10/2017    1211   BOX 6242/ PARAGON TOWERS                                       STRAIGHT   BOUDROT E              496  
+17005262   2/10/2017    1244   39 BYFIELD RD                                                  ALM/BURG   COTTENS S              499  
+17005260   2/10/2017    1244   MAIN LIBRARY / 330 HOMER ST                                    WARR/SER   SETIABUDI G            495  
+17005264   2/10/2017    1253   HOMER ST & WALNUT ST                                           MVA/PAST   BENES R                494  
+17005267   2/10/2017    1313   CRAFTS ST & WALTHAM ST                                         SIGN/SIG   IAROSSI M              497  
+17005268   2/10/2017    1317   UNITED PRESBYTERIAN CHURCH / 75 VERNON ST                      F.A. ACT   COLELLA M              491  
+17005269   2/10/2017    1318   STONE AVE                                                      DMV        COTTENS S              499  
+17005272   2/10/2017    1359   355 CALIFORNIA ST                                              IDENTITY   WALSH T                492  
+17005273   2/10/2017    1411   1201 COMMONWEALTH AVE                                          ANIMAL P   TORRES R               538  
+17005277   2/10/2017    1430   CRYSTAL LAKE / 44 ROGERS ST                                    CHECK PE   SETIABUDI G            495  
+17005278   2/10/2017    1432   CHESTNUT ST & ELLIOT ST                                        CHECK PE   SETIABUDI G            495  
+17005279   2/10/2017    1446   COMMONWEALTH AVE & ISLINGTON RD                                MVA        WALSH T                492  
+17005280   2/10/2017    1454   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        O/AGENCY   MARCH R                497  
+17005281   2/10/2017    1459   NWH HOSPITAL / 2014 WASHINGTON ST                              DMV        VELLO A                493  
+17005282   2/10/2017    1503   2065 COMMONWEALTH AVE                                          IDENTITY   GUARINO C              497  
+17005284   2/10/2017    1518   RIVER ST & SHERIDAN ST                                         MVA        KANE A                 492  
+17005286   2/10/2017    1541   CRAFTS ST & WALTHAM ST                                         SIGN/SIG   DUFFEY K               999  
+17005287   2/10/2017    1543   47 CARLETON ST                                                 LARCENY    POHLMAN, K             491  
+17005288   2/10/2017    1602   UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   SIEGAL D               494  
+17005289   2/10/2017    1608   300 WASHINGTON ST                                              THREATS    SPINNEY A              WN   
+17005291   2/10/2017    1619   199 TEMPLE ST                                                  BARKING    GUARINO C              497  
+17005295   2/10/2017    1635   MT IDA SECURITY GATE / 777 DEDHAM ST                           MVA        CALDERON D             496  
+17005294   2/10/2017    1635   832 CHESTNUT ST                                                CHECK PE   WALTON T               495  
+17005299   2/10/2017    1658   GORDONS WINE STORAGE  / 137 CALIFORNIA ST                      ALM/BURG   POHLMAN, K             491  
+17005303   2/10/2017    1711   90 MANCHESTER RD                                               LARCENY    GUARINO C              497  
+17005307   2/10/2017    1748   LINCOLN ST                                                     MV/STOP    VALENTE D              504  
+17005308   2/10/2017    1802   CHARLES RIVER ASSOCIATION / 538 CALIFORNIA ST                  A&B        GUARINO C              495  
+17005309   2/10/2017    1817   118 KIRKSTALL RD                                               ALM/BURG   WILSON J               499  
+17005310   2/10/2017    1820   LEWIS TER & WASHINGTON ST                                      CHECK PE   POHLMAN, K             491  
+17005314   2/10/2017    1849   NORTH CROSSING / 47 PARK ST                                    LOST/PER   GUARINO C              491  
+17005316   2/10/2017    1904   18 BULLOUGH PK                                                 OPEN DOO   SIEGAL D               499  
+17005317   2/10/2017    1911   INDIANA TER & OAK ST                                           UTIL/HAZ   WALTON T               495  
+17005319   2/10/2017    1923   SHREVE CRUMP & LOW / 232 BOYLSTON ST                           ALM/BURG   CALDERON D             496  
+17005320   2/10/2017    1931   ADAMS STREET APARTMENTS / 175 ADAMS ST                         WARR/SER   OBRIEN D               504  
+17005322   2/10/2017    1939   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           ILL/PARK   KANE A                 492  
+17005324   2/10/2017    2022   GOLDEN LIVING CENTER / 25 ARMORY ST #208                       CHECK PE   KANE A                 492  
+17005327   2/10/2017    2051   BOX 88176/ STAR MARKET                                         STRAIGHT   SIEGAL D               494  
+17005328   2/10/2017    2115   WATERTOWN ST                                                   V/C/ORD    KANE A                 492  
+17005329   2/10/2017    2136   FOREVER FIT / 191 WATERTOWN ST                                 OPEN DOO   GUARINO C              497  
+17005332   2/10/2017    2159   NEWTON HIGHLANDS SQUARE AREA / 0 LINCOLN ST                    V/C/ORD    POUTAS D               495  
+17005333   2/10/2017    2255   BK REALTY TRUST / 41 COMMONWEALTH AVE                          PRI/TOW    DUFFEY K               999  

@@ -1,0 +1,62 @@
+17003045   1/25/2017    150    ADAMS ST & WASHINGTON ST                                       UTIL/HAZ   CICCONE, A             497  
+17003047   1/25/2017    155    WALGREENS / 1101 BEACON ST                                     ALM/BURG   BERGDORF,J             495  
+17003054   1/25/2017    234    BROOKLINE BANK / 323 WALNUT ST                                 911 HANG   SPINNEY A              492  
+17003058   1/25/2017    443    TOMMY DOYLES RESTAURANT / 349 WATERTOWN ST                     ALM/BURG   VALENTE D              491  
+17003061   1/25/2017    728    20 KENWOOD AVE                                                 SP/INCD    GABRIEL A              495  
+17003060   1/25/2017    728    GARDEN CITY AUTO BODY / 1207 WASHINGTON ST                     MVA OR F   LARSON R               491  
+17003062   1/25/2017    732    CENTRE ST & WINCHESTER ST                                      UNLEASHE   BOUDROT E              496  
+17003064   1/25/2017    735    73 WALNUT ST #4                                                PSY/EVAL   PAGLIA RICH            AMB1 
+17003065   1/25/2017    750    31 BURNHAM RD                                                  ALM/BURG   COTTENS S              493  
+17003067   1/25/2017    801    11 FURBUSH AVE                                                 ALM/BURG   RAYMOND Z              498  
+17003070   1/25/2017    845    184 ADAMS ST                                                   B&E/ATT    COTTENS S              497  
+17003073   1/25/2017    856    40 CLARK ST                                                    ALM/BURG   PAGLIA ROBT            494  
+17003074   1/25/2017    900    GATEWAY CENTER / 300 WASHINGTON ST #911                        ALM/BURG   PAGLIA RICH            500  
+17003076   1/25/2017    931    ADAMS ST & WASHINGTON ST                                       SIGN/SIG   LARSON R               491  
+17003077   1/25/2017    933    86 WASHINGTON PK                                               LOCK OUT   LARSON R               491  
+17003080   1/25/2017    1016   51 GATE HOUSE RD                                               ALM/BURG   PAGLIA ROBT            494  
+17003081   1/25/2017    1020   140 PLYMOUTH RD                                                ALM/BURG   GABRIEL A              495  
+17003082   1/25/2017    1022   FRANKLIN ST & WAVERLEY AVE                                     MVA / MI   LARSON R               AMB1 
+17003085   1/25/2017    1059   WALGREENS / 399 WASHINGTON ST                                  POL/TOW    SULLIVAN P             525  
+17003086   1/25/2017    1104   136 GRASMERE ST                                                UNKN PRO   LARSON R               AMB1 
+17003087   1/25/2017    1114   520 COMMONWEALTH AVE FL 2                                      UNCONS/F   PAGLIA ROBT            MED1 
+17003088   1/25/2017    1124   BROOKS AVE                                                     RD/OBST    WALSH T                492  
+17003089   1/25/2017    1128   21 CROSS HILL RD                                               ALM/BURG   SCALTRETO F            496  
+17003090   1/25/2017    1133   T J MAXX / 260 NEEDHAM ST                                      FALL/BAC   GABRIEL A              MED2 
+17003091   1/25/2017    1137   COMMONWEALTH AVE & VALENTINE ST                                FALL/BAC   WALSH T                492  
+17003095   1/25/2017    1207   PIZZA MARKET / 69 RIVER ST                                     HEMOR/LA   WALSH T                MED2 
+17003096   1/25/2017    1208   60 BROOKS AVE                                                  ILL/PARK   WALSH T                492  
+17003098   1/25/2017    1250   260 RIVER ST                                                   DOG BITE   COTTENS S              AMB2 
+17003099   1/25/2017    1320   COMMUNITY LIVING NETWORK INC. / 390 NEWTONVILLE AVE            HEMOR/LA   WALSH T                MED2 
+17003100   1/25/2017    1333   28 BEMIS ST                                                    ALM/BURG   COTTENS S              492  
+17003101   1/25/2017    1342   40 WHITE PINE RD                                               INVEST-G   MCCARTHY T             999  
+17003102   1/25/2017    1342   THE STREET / 55 BOYLSTON ST                                    SPILL LV   SCALTRETO F            496  
+17003103   1/25/2017    1345   ARBORPOINT BLDG. A-APARTMENTS / 1938 WASHINGTON ST #114        BREATH P   SCHLEGEL J             AMB1 
+17003104   1/25/2017    1357   BOSTON SPORTS CLUB / 1359 WASHINGTON ST                        MVA/H&R    WALSH T                492  
+17003106   1/25/2017    1423   CHURCHILL ST & CRAFTS ST                                       MV/STOP    LARSON R               491  
+17003108   1/25/2017    1436   BOUND BROOK RD & DEDHAM ST                                     ILL/PARK   SCALTRETO F            496  
+17003109   1/25/2017    1453   BROWN MIDDLE SCHOOL / 125 MEADOWBROOK RD                       INVEST-I   ROSENBAUM E            999  
+17003111   1/25/2017    1541   62 STANLEY RD                                                  FALL/BAC   BERGDORF,J             AMB1 
+17003114   1/25/2017    1547   860 CENTRE ST                                                  MVA        FEROLITO B             494  
+17003116   1/25/2017    1554   WEGMANS / 200 BOYLSTON ST                                      FRAUD      GUARINO C              496  
+17003124   1/25/2017    1631   OAK ST & WILLIAMS ST                                           MV/STOP    CICCONE, A             503  
+17003129   1/25/2017    1636   HAMMOND ST & WOODMAN RD                                        DRUGS      FEROLITO B             494  
+17003127   1/25/2017    1638   BOWEN ST                                                       MV/STOP    VALENTE D              504  
+17003128   1/25/2017    1639   68 LEVBERT RD                                                  ALM/BURG   WILSON J               496  
+17003130   1/25/2017    1654   BOYLSTON ST                                                    MV/STOP    VALENTE D              504  
+17003133   1/25/2017    1658   MADISON AVE & WALNUT ST                                        DMV        BOUDREAU M             491  
+17003132   1/25/2017    1659   NEWTON DISTRICT COURT HOUSE / 1309 WASHINGTON ST               ALM/BURG   SPINNEY A              492  
+17003137   1/25/2017    1717   CONCORD STREET APARTMENTS / 153 CONCORD ST #14                 POL-ASSI   GIARDINA S             493  
+17003141   1/25/2017    1803   ROWE ST                                                        MV/STOP    GIARDINA S             493  
+17003144   1/25/2017    1830   HIGHLANDS COMMUNITY CENTER / 90 LINCOLN ST                     MVA/H&R    BERGDORF,J             495  
+17003143   1/25/2017    1831   OAK ST & SWEET ST                                              MV/STOP    CICCONE, A             503  
+17003145   1/25/2017    1841   NEWTON CENTRE MUNICIPAL LOT / 797 BEACON ST                    MV/STOP    VALENTE D              504  
+17003146   1/25/2017    1846   60 LEVBERT RD                                                  ALM/BURG   WILSON J               499  
+17003147   1/25/2017    1915   23 BRIDGES AVE                                                 FRAUD      HAGOPIAN M             999  
+17003150   1/25/2017    2018   52 BRYON RD                                                    CT/ORD     KOERBER P              501  
+17003152   1/25/2017    2027   COMMONWEALTH AVE & LEXINGTON ST                                MV/STOP    SPINNEY A              492  
+17003154   1/25/2017    2107   BOYLSTON ST & PARKER ST                                        MVA        WILSON J               496  
+17003156   1/25/2017    2127   TEDESCHI'S  #465 / 612 WASHINGTON ST                           PSY/EVAL   BOUDREAU M             MED2 
+17003157   1/25/2017    2152   NWW COMMITTEE / 21 BONTEMPO RD                                 CENT STA   GUARINO C              496  
+17003158   1/25/2017    2202   19 PATTEN CIR                                                  L/NOISE    GUARINO C              496  
+17003166   1/25/2017    2353   CVS / 189 WATERTOWN ST                                         ALM/BURG   BROOKS J               492  
+17003167   1/25/2017    2354   WALNUT ST & WASHINGTON ST                                      MV/STOP    CROWE, J               491  

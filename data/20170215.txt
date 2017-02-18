@@ -1,0 +1,83 @@
+17005892   2/14/2017    30     253 RIVER ST                                                   O/AGENCY   BROOKS J               492  
+17005893   2/14/2017    37     12 JEFFERSON ST                                                ILL/PARK   BOUDREAU M             491  
+17005894   2/14/2017    54     21 DANA RD                                                     CHECK PE   BROOKS J               492  
+17005897   2/14/2017    135    24 WARREN ST                                                   POL/TOW    BERGDORF,J             499  
+17005900   2/14/2017    149    THE BARN / 509 HAMMOND ST                                      ALM/BURG   FEROLITO B             494  
+17005903   2/14/2017    310    ARBORPOINT BLDG. A-APARTMENTS / 1938 WASHINGTON ST #207        F.A. ACT   CHIEU R                493  
+17005904   2/14/2017    335    132 HOMER ST                                                   CENT STA   WALTON T               495  
+17005906   2/14/2017    638    WEEKS HOUSING / 7 HEREWARD RD #13                              CHECK PE   FEROLITO B             494  
+17005907   2/14/2017    644    AUBURNDALE PLAYGROUND / 0 WEST PINE ST                         MV/VIOL    BROOKS J               492  
+17005908   2/14/2017    657    69 OLDE FIELD RD                                               MVA        WADE M                 496  
+17005910   2/14/2017    702    86 VARICK RD                                                   UTIL/HAZ   CHIEU R                493  
+17005911   2/14/2017    727    WALES ST & WASHINGTON ST                                       SIGN/SIG   GARCIA J               493  
+17005912   2/14/2017    741    377 LANGLEY RD                                                 DETAIL     LEITCH B               506  
+17005914   2/14/2017    752    350 WOODWARD ST                                                MVA/CITY   GABRIEL A              495  
+17005917   2/14/2017    805    BOX 7813/ ATRIUM MALL                                          STRAIGHT   SETIABUDI G            496  
+17005918   2/14/2017    807    35 FOX LA                                                      ALM/BURG   SETIABUDI G            496  
+17005919   2/14/2017    811    329 HAMMOND ST                                                 ALM/BURG   BENES R                494  
+17005924   2/14/2017    840    137 WASHINGTON ST                                              UTIL/HAZ   MCSWEENEY M            491  
+17005925   2/14/2017    853    WEGMANS / 200 BOYLSTON ST                                      MVA        SETIABUDI G            496  
+17005927   2/14/2017    925    PRANA POWER YOGA / 282 CENTRE ST                               MVA        MCSWEENEY M            491  
+17005929   2/14/2017    925    15 ROGERS ST                                                   V/C/ORD    MCSWEENEY M            491  
+17005928   2/14/2017    928    BOX 9341/ 150 WELLS AVE                                        STRAIGHT   CLAFLIN G              498  
+17005930   2/14/2017    930    800 WASHINGTON ST                                              SNOW COM   GAUDET M               525  
+17005931   2/14/2017    940    CABOT ST & CENTRE ST                                           UTIL/HAZ   COLELLA M              497  
+17005934   2/14/2017    947    BARRY PRICE REHAB / 25 CHRISTINA ST                            911 HANG   CLAFLIN G              495  
+17005935   2/14/2017    954    ROGERS ST                                                      ABAND MV   GAUDET M               525  
+17005936   2/14/2017    1002   190 FOREST AVE                                                 ALM/BURG   MANOUK K               492  
+17005940   2/14/2017    1009   770 DEDHAM ST                                                  WARR/SER   SETIABUDI G            496  
+17005941   2/14/2017    1009   140 ROUNDWOOD RD                                               SNOW COM   GABRIEL A              495  
+17005942   2/14/2017    1011   CHESTNUT HILL POST OFFICE / 12 MIDDLESEX RD                    MVA        BENES R                494  
+17005943   2/14/2017    1011   THE GABLES / 439 DEDHAM ST #D                                  ALM/BURG   SETIABUDI G            496  
+17005946   2/14/2017    1014   MEMORIAL-SPAULDING SCHOOL / 250 BROOKLINE ST                   UTIL/HAZ   SCALTRETO F            504  
+17005949   2/14/2017    1038   ADAMS ST & LINWOOD AVE                                         DPW        MCSWEENEY M            491  
+17005951   2/14/2017    1042   HILLTOP CONDO ASSOCIATION / 11 WASHINGTON ST                   ALM/BURG   MCSWEENEY M            491  
+17005953   2/14/2017    1051   COMMONWEALTH AVE & ROWE ST                                     VAND/PRP   CLAFLIN G              493  
+17005954   2/14/2017    1055   279 CENTRE ST                                                  SNOW COM   GAUDET M               525  
+17005961   2/14/2017    1113   RAND TER                                                       SNOW COM   GARCIA J               493  
+17005960   2/14/2017    1113   CRAFTS ST                                                      SNOW COM   GAUDET M               525  
+17005963   2/14/2017    1129   BOYLSTON ST & CHESTNUT ST                                      CHECK PE   CLAFLIN G              498  
+17005964   2/14/2017    1134   THE CHESTNUT HILL / 219 COMMONWEALTH AVE                       CHECK PE   BENES R                494  
+17005965   2/14/2017    1141   GOLDEN LIVING CENTER / 1650 WASHINGTON ST #307                 SIMPLE A   MANOUK K               492  
+17005966   2/14/2017    1145   28 EDWARD RD                                                   ALM/BURG   COLELLA M              497  
+17005968   2/14/2017    1154   1400 CENTRE ST                                                 POL-ASSI   WADE M                 499  
+17005973   2/14/2017    1237   1727 BEACON ST                                                 UTIL/HAZ   GARCIA J               493  
+17005975   2/14/2017    1254   MYRTLE ST & WASHINGTON ST                                      DMV        COLELLA M              497  
+17005979   2/14/2017    1307   33 NONANTUM ST                                                 ABAND MV   GAUDET M               525  
+17005982   2/14/2017    1345   1220 WASHINGTON ST                                             ALM/BURG   COLELLA M              493  
+17005985   2/14/2017    1409   21 ARLO RD                                                     SUSP PER   GABRIEL A              495  
+17005993   2/14/2017    1458   10 MORRILL ST                                                  IDENTITY   ANNESE S               999  
+17005997   2/14/2017    1511   WEST NEWTON CINEMA / 1296 WASHINGTON ST                        MVA        TRAMONTOZZI B          497  
+17005996   2/14/2017    1513   NORTH CROSSING / 47 PARK ST                                    LOST/PER   BOUDREAU M             491  
+17005998   2/14/2017    1527   6 PAUL ST                                                      MVA/H&R    MARCH R                499  
+17005999   2/14/2017    1544   BOWERS ST & NEWTONVILLE AVE                                    MVA/CITY   TRAMONTOZZI B          492  
+17006003   2/14/2017    1557   BOWERS ST & NEWTONVILLE AVE                                    MVA/H&R    TRAMONTOZZI B          999  
+17006004   2/14/2017    1614   BOYLSTON RD & CENTRE ST                                        MVA        FEROLITO B             494  
+17006007   2/14/2017    1636   6 MORSELAND AVE                                                DOG BITE   TORRES R               538  
+17006009   2/14/2017    1653   36 TAFT AVE                                                    UTIL/HAZ   POHLMAN, K             492  
+17006012   2/14/2017    1715   COMMONWEALTH AVE & LOWELL AVE                                  MV/STOP    POHLMAN, K             492  
+17006015   2/14/2017    1732   WEBSTER BANK / 792 BEACON ST                                   ALM/BANK   BERGDORF,J             498  
+17006016   2/14/2017    1742   54 MARLBORO ST                                                 ALM/BURG   TRAMONTOZZI B          491  
+17006020   2/14/2017    1752   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        MVA        KOERBER P              501  
+17006023   2/14/2017    1807   NEWTON HIGHLANDS  WINE&SPIRITS / 1194 WALNUT ST                LARCENY    WALTON T               495  
+17006026   2/14/2017    1821   CALIFORNIA ST                                                  POL-ASSI   BOUDREAU M             491  
+17006027   2/14/2017    1823   47 CROSBY RD                                                   UTIL/HAZ   FEROLITO B             494  
+17006030   2/14/2017    1839   KENILWORTH ST & WAVERLEY AVE                                   UTIL/HAZ   FEROLITO B             494  
+17006029   2/14/2017    1839   83 WENDELL RD                                                  COURTDOC   WALTON T               495  
+17006031   2/14/2017    1851   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY            MV FIRE    FEROLITO B             494  
+17006032   2/14/2017    1856   252 JACKSON ST                                                 911 HANG   FEROLITO B             494  
+17006033   2/14/2017    1856   690 WATERTOWN ST #D                                            HARASS     POHLMAN, K             492  
+17006036   2/14/2017    1905   62 CYPRESS ST                                                  POL-ASSI   FEROLITO B             494  
+17006035   2/14/2017    1908   540 CENTRE ST                                                  CT/ORD     OBRIEN D               500  
+17006037   2/14/2017    1911   279 TREMONT ST                                                 CT/ORD     OBRIEN D               499  
+17006038   2/14/2017    1918   307 NEWTONVILLE AVE                                            UTIL/HAZ   BOUDREAU M             491  
+17006040   2/14/2017    1938   INDIANA TER & OAK ST                                           POL-ASSI   SIEGAL D               498  
+17006041   2/14/2017    1947   CFE INTERNATIONAL  / 134 RUMFORD AVE                           ALM/BURG   TRAMONTOZZI B          497  
+17006046   2/14/2017    2036   BOYLSTON ST & HAMMOND POND PKWY                                POL-ASSI   BERGDORF,J             504  
+17006045   2/14/2017    2037   CFE / 134 RUMFORD AVE                                          POL-ASSI   POHLMAN, K             492  
+17006048   2/14/2017    2140   460 WATERTOWN ST                                               MVA/PAST   BOUDREAU M             491  
+17006049   2/14/2017    2145   59 HARWICH RD                                                  ALM/BURG   CALDERON D             496  
+17006051   2/14/2017    2216   322 NEWTONVILLE AVE                                            CBN MONO   BOUDREAU M             491  
+17006052   2/14/2017    2246   NORTH CROSSING / 47 PARK ST                                    FND/PERS   HELMS G                491  
+17006058   2/14/2017    2332   SPEEDWAY GAS / 2370 COMMONWEALTH AVE                           DMV        SULLIVAN D             493  
+17006060   2/14/2017    2349   1223 WALNUT ST                                                 MVA/PAST   CONLEY B               495  

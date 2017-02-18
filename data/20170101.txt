@@ -1,0 +1,51 @@
+16048975   12/31/2016   104    20 BUFF CIR                                                    ALM/BURG   SOLOMAN A              496  
+16048979   12/31/2016   120    LOWELL AVE & WASHINGTON ST                                     MV/STOP    MCLEAN S               507  
+16048983   12/31/2016   217    298 PARKER ST                                                  FARE EVA   BOUDREAU C             496  
+16048988   12/31/2016   513    21 GARDNER ST                                                  UNCONS/F   CONLEY B               MED2 
+16048989   12/31/2016   531    25 SKY VIEW CIR                                                ALM/BURG   SOLOMAN A              496  
+16048990   12/31/2016   610    OATH CRAFT PIZZA / 210 BOYLSTON ST #7                          ALM/BURG   SOLOMAN A              496  
+16048991   12/31/2016   648    CLARK & WHITE INC / 777 WASHINGTON ST                          ALM/BURG   KANE A                 491  
+16048992   12/31/2016   721    CENTRE ST & COMMONWEALTH AVE                                   SIGN/SIG   PAGLIA ROBT            494  
+16048993   12/31/2016   726    58 ELINOR RD                                                   LF/PROP    HOWES C                WN   
+16048995   12/31/2016   818    24 CALDON PATH                                                 NOTIF      DEMPSEY S              496  
+16048996   12/31/2016   839    CHINESE CULTURAL CENTER / 437 CHERRY ST                        CENT STA   WALSH T                492  
+16049000   12/31/2016   935    9 OLD ORCHARD RD                                               ALM/BURG   APOTHEKER B            494  
+16049003   12/31/2016   1012   196 WINSLOW RD                                                 ILL/DUMP   SCALTRETO F            495  
+16049005   12/31/2016   1024   10 WILDWOOD AVE                                                ILL/PARK   WALSH T                492  
+16049006   12/31/2016   1057   NWH HOSPITAL / 2014 WASHINGTON ST                              MV/STOP    RAYMOND Z              498  
+16049007   12/31/2016   1111   21 LEXINGTON ST                                                CARD/RES   WALSH T                AMB1 
+16049008   12/31/2016   1137   147 HANCOCK ST                                                 DOG BITE   TORRES R               538  
+16049011   12/31/2016   1202   WABAN LIBRARY / 1608 BEACON ST                                 ALM/BURG   GOURDEAU J             493  
+16049012   12/31/2016   1203   45 GRANT ST                                                    UNWANTED   IAROSSI M              AMB1 
+16049013   12/31/2016   1207   176 ADAMS AVE FL 2                                             CARD/RES   GOURDEAU J             AMB2 
+16049014   12/31/2016   1212   HOME GOODS / 210 NEEDHAM ST                                    MVA        BOUDROT E              496  
+16049015   12/31/2016   1214   BOX 771/ ROGAL ASSOCIATES                                      STRAIGHT   PAGLIA ROBT            494  
+16049019   12/31/2016   1242   BOX 17611/ ELDERLY HOUSING                                     STRAIGHT   PAGLIA RICH            491  
+16049020   12/31/2016   1256   THE CHESTNUT HILL / 219 COMMONWEALTH AVE #12                   DOG BITE   TORRES R               538  
+16049026   12/31/2016   1347   89 ERIE AVE                                                    CBN MONO   SCALTRETO F            AMB1 
+16049028   12/31/2016   1401   59 HYDE AVE                                                    PSY/EVAL   PAGLIA RICH            491  
+16049030   12/31/2016   1413   88 GARLAND RD                                                  LOCK OUT   SCALTRETO F            495  
+16049033   12/31/2016   1520   22 BRACKETT RD                                                 ALM/BURG   BOYLE P                499  
+16049035   12/31/2016   1525   FIRE STATION #7 / 144 ELLIOT ST                                ROAD RAG   SCALTRETO F            495  
+16049036   12/31/2016   1528   23 OAK ST                                                      INVEST-G   POUTAS D               495  
+16049037   12/31/2016   1549   146 LANGLEY RD                                                 LARCENY    HOWES C                WN   
+16049039   12/31/2016   1603   143 ADAMS ST                                                   ILL/PARK   FEROLITO B             491  
+16049045   12/31/2016   1703   86 PARK AVE                                                    ALM/BURG   COLETTI A              494  
+16049047   12/31/2016   1709   NORTH CROSSING / 47 PARK ST                                    LOST/PER   FEROLITO B             507  
+16049048   12/31/2016   1714   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           ALM/BURG   CONLEY B               492  
+16049050   12/31/2016   1724   LEGAL SEA FOOD / 43 BOYLSTON ST                                POL-ASSI   BOYLE P                501  
+16049053   12/31/2016   1737   FULLER AVE & MORRILL ST                                        CHECK PE   SELIG, J               497  
+16049054   12/31/2016   1738   9 HAGAR ST                                                     UNWANTED   DURICKAS K             507  
+16049057   12/31/2016   1808   GARLAND RD & HOMER ST                                          MV/STOP    CLAFLIN JR J           505  
+16049059   12/31/2016   1817   22 BOWERS ST                                                   CBN MONO   BANNON T               500  
+16049067   12/31/2016   2008   HENSHAW ST & RIVER ST                                          MV/STOP    FEROLITO B             491  
+16049068   12/31/2016   2018   AUBURNDALE WINE & SPIRITS / 2102 COMMONWEALTH AVE              UNWANTED   GUARINO C              507  
+16049072   12/31/2016   2116   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   SOLOMAN A              496  
+16049073   12/31/2016   2120   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #403S      UNKN PRO   COLETTI A              AMB2 
+16049076   12/31/2016   2204   AVALON AT CHESTNUT HILL BLDG 1 / 160 BOYLSTON ST               COURTDOC   SOLOMAN A              496  
+16049077   12/31/2016   2231   BOX 6544/ NATIONAL LUMBER                                      STRAIGHT   POUTAS D               495  
+16049078   12/31/2016   2233   EASTWARD CAPITAL PARTNERS LLC / 432 CHERRY ST FL 1             911 HANG   CONLEY B               492  
+16049079   12/31/2016   2323   68 CRAFTS ST                                                   LOUD PAR   BOUDREAU C             500  
+16049080   12/31/2016   2334   115 HUNNEWELL AVE                                              UNCONS/F   BOUDREAU C             AMB2 
+16049081   12/31/2016   2341   28 MANET RD #1                                                 CHECK PE   FEROLITO B             494  
+16049083   12/31/2016   2351   9 CHURCH RD                                                    LOUD PAR   BOUDREAU C             491  

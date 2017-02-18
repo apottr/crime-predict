@@ -1,0 +1,70 @@
+17000465   1/5/2017     4      NEW FALLS  APARTMENTS / 2251 WASHINGTON ST #B                  CHEST PA   CHIEU R                493  
+17000471   1/5/2017     33     EASTWARD CAPITAL PARTNERS LLC / 432 CHERRY ST                  911 HANG   KANE A                 499  
+17000473   1/5/2017     35     OAKWOOD RD & VIRGINIA RD                                       GROUP      GUARINO C              493  
+17000487   1/5/2017     240    CLARK & WHITE INC / 777 WASHINGTON ST                          ALM/BURG   SPINNEY A              491  
+17000489   1/5/2017     248    NORUMBEGA GARDENS / 36 ASH ST                                  FA ACTV/   CHIEU R                493  
+17000493   1/5/2017     317    464 WOLCOTT ST                                                 UNKN PRO   KANE A                 MED2 
+17000496   1/5/2017     549    OATH CRAFT PIZZA / 210 BOYLSTON ST #7                          ALM/BURG   GAMBLE N               496  
+17000498   1/5/2017     644    NEWTON AQUINAS / 15 WALNUT PK                                  ALM/BURG   SPINNEY A              491  
+17000499   1/5/2017     721    THE VILLAGE BANK / 89 WYMAN ST                                 ALM/BANK   GOURDEAU J             493  
+17000501   1/5/2017     729    710 QUINOBEQUIN RD                                             ALM/BURG   CLAFLIN G              498  
+17000505   1/5/2017     743    23 CHATHAM RD                                                  ALM/BURG   HILL R                 495  
+17000507   1/5/2017     747    CHARLESBANK RD & REMICK TER                                    ILL/PARK   BENES R                491  
+17000508   1/5/2017     800    170 HARVARD ST                                                 POL-ASSI   VELLO A                494  
+17000509   1/5/2017     805    AVALON AT NEWTON HIGHLANDS 89C / 89 NEEDHAM ST #2103           BREATH P   HILL R                 MED1 
+17000515   1/5/2017     930    AUBURN ST & COMMONWEALTH AVE WN                                SIGN/SIG   WALSH T                492  
+17000517   1/5/2017     934    CARLISLE ST & LANGLEY RD                                       UTIL/HAZ   VELLO A                494  
+17000518   1/5/2017     942    93 JEWETT ST                                                   PSY/EVAL   SIEGAL SC              MED2 
+17000519   1/5/2017     943    5 HALCYON RD                                                   ALM/BURG   HILL R                 495  
+17000520   1/5/2017     952    15 FURBER LA                                                   ALM/BURG   CLAFLIN G              498  
+17000522   1/5/2017     1018   73 WALNUT ST #4                                                CHECK PE   ROSENBAUM E            608  
+17000529   1/5/2017     1126   BRIMMER AND MAY COED DAY / 69 MIDDLESEX RD                     ANIMAL P   TORRES R               538  
+17000530   1/5/2017     1127   243 UPLAND AVE                                                 ALM/BURG   BOUDROT E              496  
+17000531   1/5/2017     1130   435 DEDHAM ST #E                                               CENT STA   BOUDROT E              496  
+17000535   1/5/2017     1153   ROCKLAND TRUST / 40 AUSTIN ST                                  DIRECTED   BENES R                491  
+17000537   1/5/2017     1153   75 GROVE HILL AVE                                              ALM/BURG   IAROSSI M              491  
+17000540   1/5/2017     1230   104 FAIRWAY DR                                                 DOG BITE   TORRES R               538  
+17000541   1/5/2017     1252   113 CHERRY ST                                                  MV/STOP    GAUDET M               525  
+17000542   1/5/2017     1255   144 DERBY ST                                                   HEMOR/LA   GARCIA J               AMB2 
+17000543   1/5/2017     1308   93 POND BROOK RD                                               CHECK PE   BOUDROT E              496  
+17000545   1/5/2017     1312   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         MVA / MI   BENES R                AMB1 
+17000546   1/5/2017     1346   9 CUMMINGS RD                                                  CHECK PE   HILL R                 495  
+17000547   1/5/2017     1354   STARBUCKS / 200 BOYLSTON ST                                    MVA        BOUDROT E              496  
+17000548   1/5/2017     1426   93 POND BROOK RD                                               CHECK PE   BOUDROT E              496  
+17000550   1/5/2017     1434   HAMMOND PARK CONDOS / 20 HAMMOND POND PKWY #604 FL 6           BREATH P   BOUDROT E              AMB2 
+17000551   1/5/2017     1437   346 OTIS ST                                                    ALM/BURG   IAROSSI M              497  
+17000552   1/5/2017     1437   362 CALIFORNIA ST                                              CHECK PE   BENES R                AMB2 
+17000553   1/5/2017     1444   LANGLEY RD & UNION ST                                          OUTSIDE    VELLO A                494  
+17000557   1/5/2017     1456   65 MARY ELLEN RD                                               LOST/PER   CLAFLIN G              999  
+17000554   1/5/2017     1458   CHESTNUT ST & DAVIS ST                                         ILL/PARK   IAROSSI M              497  
+17000556   1/5/2017     1501   MILLS CONDOMINIUMS / 366 ELLIOT ST #7                          HARASS     MANOUK K               WN   
+17000559   1/5/2017     1532   COMMONWEALTH AVE & SUMNER ST                                   MVA        WILSON J               499  
+17000560   1/5/2017     1535   69 LINCOLN ST                                                  LF/PROP    MANOUK K               999  
+17000561   1/5/2017     1556   ELLIOT ST & RIVER AVE                                          MV/VIOL    WALTON T               495  
+17000565   1/5/2017     1605   METRO CREDIT UNION / 334 WATERTOWN ST                          MVA        GIARDINA S             491  
+17000567   1/5/2017     1606   187 NORTH ST                                                   MVA/H&R    SPINNEY A              491  
+17000566   1/5/2017     1607   BROOKSIDE AVE & WASHINGTON ST                                  MV/STOP    SPINNEY A              491  
+17000571   1/5/2017     1640   PRESBYTERIAN CHURCH NURSERY SC / 75 VERNON ST                  POL-ASSI   KEEFE T                WN   
+17000572   1/5/2017     1656   66 GATE HOUSE RD                                               ALM/BURG   VALENTE D              494  
+17000575   1/5/2017     1707   HARTMAN RD & REDWOOD RD                                        SP/INCD    CALDERON D             496  
+17000577   1/5/2017     1720   25 PAGE RD                                                     COURTDOC   LARSON R               500  
+17000579   1/5/2017     1725   190 CHAPEL ST                                                  UNKN ODO   SPINNEY A              491  
+17000580   1/5/2017     1731   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           MVA        KANE A                 492  
+17000581   1/5/2017     1739   MADISON AVE & WALNUT ST                                        FALL/BAC   KANE A                 AMB1 
+17000582   1/5/2017     1740   BEACON HILL ATHLETIC CLUB / 1089 WASHINGTON ST                 A&B        SPINNEY A              491  
+17000584   1/5/2017     1759   4 WOODHAVEN RD                                                 ALM/BURG   WALTON T               495  
+17000588   1/5/2017     1823   10 CHAPIN RD                                                   LF/PROP    WALTON T               495  
+17000589   1/5/2017     1824   9 CUMMINGS RD                                                  CHECK PE   WALTON T               495  
+17000590   1/5/2017     1836   NWH HOSPITAL / 2014 WASHINGTON ST                              DOG BITE   LARSON R               500  
+17000591   1/5/2017     1845   464 WOLCOTT ST                                                 LOCK OUT   KANE A                 497  
+17000592   1/5/2017     1904   OAK ST & SACO ST                                               MV/STOP    BOYLE P                501  
+17000593   1/5/2017     1910   59 JASSET ST                                                   MVA/UNKN   GIARDINA S             AMB2 
+17000594   1/5/2017     1912   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        LAR/MV     NARDELLI D             493  
+17000595   1/5/2017     1926   15 CHASKE AVE                                                  REST/ORD   OBRIEN D               500  
+17000596   1/5/2017     1941   275 WOODCLIFF RD                                               NOTIF      CALDERON D             496  
+17000597   1/5/2017     2003   BOX 7142/ MEDITERRANEAN GRILL                                  STRAIGHT   VALENTE D              494  
+17000598   1/5/2017     2015   44 ROWENA RD                                                   UNCONS/F   VALENTE D              AMB2 
+17000601   1/5/2017     2045   83 WENDELL RD                                                  OVERDOSE   CICCONE, A             AMB2 
+17000602   1/5/2017     2051   CVS / 304 WALNUT ST                                            LARCENY    KANE A                 492  
+17000605   1/5/2017     2225   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        POL-ASSI   MCLEAN M               492  
+17000611   1/5/2017     2349   CABOTS ICE CREAM INC / 743 WASHINGTON ST                       MV/STOP    HELMS G                491  

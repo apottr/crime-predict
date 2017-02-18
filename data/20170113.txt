@@ -1,0 +1,77 @@
+17001449   1/12/2017    26     483 WALTHAM ST                                                 HEMOR/LA   LAZARAKIS Z            MED2 
+17001453   1/12/2017    101    612 CHESTNUT ST                                                ALM-M/V    MCLEAN M               495  
+17001465   1/12/2017    414    CVS / 304 WALNUT ST                                            911 HANG   BANNON T               491  
+17001466   1/12/2017    449    GEORGE HOWELL COFFEE  / 311 WALNUT ST                          ALM/BURG   HEALY D                492  
+17001467   1/12/2017    639    300 WASHINGTON ST                                              DMV        MCSWEENEY M            497  
+17001468   1/12/2017    654    NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     DEFAULT    BANNON T               491  
+17001469   1/12/2017    700    CENTRE AVE & CENTRE ST                                         MVA        PAGLIA RICH            491  
+17001470   1/12/2017    713    EVANS PARK / 430 CENTRE ST                                     MVA        IAROSSI M              497  
+17001472   1/12/2017    738    41 FENNO RD                                                    ALM/BURG   MCNEIL R               495  
+17001474   1/12/2017    749    BOX 3518/ THE LOCAL                                            STRAIGHT   GOURDEAU J             493  
+17001476   1/12/2017    802    DEL FRISCO GRILLE / 33 BOYLSTON ST #3370                       ALM/BURG   SCALTRETO F            494  
+17001477   1/12/2017    828    BOYLSTON ST & LANGLEY RD                                       MVA        WADE M                 499  
+17001479   1/12/2017    845    82 WAYNE RD                                                    B&E PAST   BOUDROT E              496  
+17001483   1/12/2017    900    ELY CENTER  / 88 ROWE ST                                       CENT STA   COTTENS S              492  
+17001486   1/12/2017    911    BEACON ST & LAWRENCE AVE                                       POL/TOW    NORCROSS M             526  
+17001489   1/12/2017    926    16 WESTCHESTER RD                                              ALM/BURG   SCALTRETO F            494  
+17001490   1/12/2017    927    BOX 6251/ DUNN GAHERINS FOOD & SPIRITS                         STRAIGHT   PAGLIA RICH            491  
+17001491   1/12/2017    927    130 NORTH ST #10                                               THREATS    COTTENS S              491  
+17001492   1/12/2017    935    TD BANK  MA / 1197 CENTRE ST                                   ALM/BANK   SCALTRETO F            494  
+17001498   1/12/2017    1112   QUINOBEQUIN RD & WASHINGTON ST                                 MVA/PAST   CICCONE, A             999  
+17001502   1/12/2017    1135   LOCK BY DESIGN / 40 MILLER RD                                  COURTDOC   UMINA S                1304 
+17001504   1/12/2017    1155   LINCOLN-ELIOT SCHOOL / 191 PEARL ST                            CHECK PE   PAGLIA RICH            491  
+17001506   1/12/2017    1207   9 WACHUSETT RD                                                 ALM/BURG   SCALTRETO F            494  
+17001507   1/12/2017    1211   CHESTNUT ST & DAVIS ST                                         RD/OBST    COTTENS S              492  
+17001508   1/12/2017    1227   25 GRANT AVE                                                   UNKN ODO   SCALTRETO F            494  
+17001510   1/12/2017    1234   39 NORWOOD AVE                                                 UNKN ODO   MCNEIL R               495  
+17001512   1/12/2017    1251   18 VARICK RD                                                   ANIMAL P   TORRES R               538  
+17001513   1/12/2017    1302   NORUMBEGA GARDENS / 36 ASH ST #B                               UNCONS/F   GOURDEAU J             AMB2 
+17001515   1/12/2017    1355   1586 CENTRE ST                                                 INVEST-G   MCMAINS G              999  
+17001516   1/12/2017    1358   CENTURY BANK / 210 BOYLSTON ST                                 911 HANG   BOUDROT E              496  
+17001517   1/12/2017    1400   19 JUDITH RD                                                   CENT STA   MCNEIL R               495  
+17001522   1/12/2017    1414   BRIGHT HORIZONS  / 320 NEEDHAM ST FL 150                       POL-ASSI   BOUDROT E              496  
+17001523   1/12/2017    1421   HOMER ST & WALNUT ST                                           MV/STOP    GAUDET M               493  
+17001524   1/12/2017    1429   16 WALKER ST                                                   F.A. ACT   COTTENS S              492  
+17001526   1/12/2017    1440   PURITAN RD & VAUGHN AVE                                        POL-ASSI   MCNEIL R               495  
+17001527   1/12/2017    1453   241 ELLIOT ST                                                  MVA / MI   OBRIEN D               AMB1 
+17001528   1/12/2017    1510   BEACON ST & DALTON RD                                          MVA        BOUDREAU C             499  
+17001529   1/12/2017    1515   47 WALNUT PL                                                   UNKN PRO   SIEGAL SC              AMB2 
+17001530   1/12/2017    1527   334 KENRICK ST                                                 INVEST-G   BANNON T               494  
+17001532   1/12/2017    1552   85 JOHN F KENNEDY CIR                                          DRUGS      HELMS G                491  
+17001533   1/12/2017    1556   BOSTON OSTEOPATHIC HEALTH / 134 RUMFORD AVE                    GROUP      SIEGAL SC              492  
+17001535   1/12/2017    1557   25 DEVONSHIRE RD                                               CHECK PE   HAMANN,T               493  
+17001536   1/12/2017    1614   42 BOYLSTON RD                                                 CHECK PE   BOUDREAU C             499  
+17001537   1/12/2017    1621   LOWELL AVE & WATERTOWN ST                                      SIGN/SIG   HELMS G                491  
+17001543   1/12/2017    1649   JCC CAMPUS PRE-SCHOOL / 333 NAHANTON ST                        FIREWORK   SOLOMAN A              496  
+17001550   1/12/2017    1653   LESLIE RD & WASHINGTON ST                                      MVA        CONLEY B               498  
+17001547   1/12/2017    1707   64 DEARBORN ST                                                 DRUGS      LAZARAKIS Z            497  
+17001548   1/12/2017    1708   WHOLE FOODS MARKET / 647 WASHINGTON ST                         MVA/PAST   HELMS G                491  
+17001549   1/12/2017    1714   PARK ST & RUTHVEN RD                                           MV/STOP    LARSON R               501  
+17001552   1/12/2017    1725   ALBA CIR & PARK ST                                             MV/STOP    LARSON R               501  
+17001553   1/12/2017    1726   435 DEDHAM ST #C                                               ALM/BURG   SOLOMAN A              496  
+17001554   1/12/2017    1733   THE BAGEL PLACE / 300 NEEDHAM ST                               ALM/BURG   SOLOMAN A              496  
+17001555   1/12/2017    1737   FRANKLIN ST & PARK ST                                          MV/STOP    LARSON R               501  
+17001557   1/12/2017    1745   EDDY ST & WATERTOWN ST                                         MVA/UNKN   LAZARAKIS Z            AMB1 
+17001558   1/12/2017    1757   FRANKLIN ST & WAVERLEY AVE                                     MV/STOP    LARSON R               501  
+17001559   1/12/2017    1806   204 SUMNER ST                                                  ILL/PARK   BOUDREAU C             499  
+17001562   1/12/2017    1816   502 CRAFTS ST                                                  F.A. ACT   LAZARAKIS Z            497  
+17001564   1/12/2017    1816   WALNUT PL                                                      MVA/CITY   SOLOMAN A              497  
+17001563   1/12/2017    1818   CHERRY ST & PLEASANT ST                                        MV/STOP    CLAFLIN JR J           505  
+17001565   1/12/2017    1823   STAR MARKET / 1 BOYLSTON ST                                    MV/STOP    LARSON R               501  
+17001568   1/12/2017    1836   KNOWLES ST & RIPLEY ST                                         OUTSIDE    BOUDREAU C             499  
+17001567   1/12/2017    1837   16 FAIRLEE TER                                                 COURTDOC   OBRIEN D               499  
+17001570   1/12/2017    1844   BOYLSTON ST & QUINOBEQUIN RD                                   ILL/PARK   SELIG, J               495  
+17001569   1/12/2017    1844   19 CHANNING ST                                                 REST/ORD   OBRIEN D               500  
+17001571   1/12/2017    1847   204 SUMNER ST                                                  ILL/PARK   BOUDREAU C             499  
+17001572   1/12/2017    1851   BRAELAND AVE & LANGLEY RD                                      B&E M/V    LARSON R               494  
+17001573   1/12/2017    1853   SHERIDAN ST                                                    MV/STOP    SIEGAL SC              492  
+17001574   1/12/2017    1906   HERRICK RD & UNION ST                                          MV/STOP    CLAFLIN JR J           505  
+17001576   1/12/2017    1956   BOX 6436/ 27 LINCOLN ST                                        STRAIGHT   POUTAS D               495  
+17001577   1/12/2017    1959   CARLSON AVE & DEDHAM ST                                        MVA        HOWES C                999  
+17001580   1/12/2017    2030   108 JOHN F KENNEDY CIR                                         DEFAULT    MCSWEENEY M            601  
+17001581   1/12/2017    2031   JOHN F KENNEDY CIR                                             POL-ASSI   MCSWEENEY M            601  
+17001587   1/12/2017    2117   NWH HOSPITAL / 2014 WASHINGTON ST                              ILL/PARK   HAMANN,T               493  
+17001588   1/12/2017    2202   118 NORWOOD AVE                                                INVEST-G   ADAM R                 999  
+17001590   1/12/2017    2246   BRIDGE ST & LINWOOD AVE                                        GROUP      HELMS G                491  
+17001593   1/12/2017    2310   AUBURNDALE PLAYGROUND / 0 WEST PINE ST                         DMV        SIEGAL SC              492  
+17001596   1/12/2017    2350   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   SOLOMAN A              495  

@@ -1,0 +1,71 @@
+17000331   1/4/2017     43     CHARLESBANK RD                                                 MV/STOP    HELMS G                491  
+17000341   1/4/2017     254    BIGELOW MIDDLE SCHOOL / 42 VERNON ST                           ALM/BURG   HELMS G                491  
+17000342   1/4/2017     303    DUNKIN DONUTS / 138 NEEDHAM ST                                 911 HANG   GAMBLE N               496  
+17000343   1/4/2017     332    MARQUIS JEWELERS / 80 WINCHESTER ST                            MVA        GAMBLE N               495  
+17000345   1/4/2017     535    CTS COMPUTERS INC. / 303 WATERTOWN ST                          ALM/BURG   HELMS G                491  
+17000346   1/4/2017     655    CHARLES RIVER CANOE & KAYAK / 2401 COMMONWEALTH AVE            MVA        BANNON T               492  
+17000347   1/4/2017     724    KOREAN CONSULATE GENERAL / 300 WASHINGTON ST                   ALM/BURG   BENES R                491  
+17000348   1/4/2017     731    CONCORD ST & HAGAR ST                                          DMV        GOURDEAU J             493  
+17000349   1/4/2017     734    UNIQLO USA / 199 BOYLSTON ST #N130A                            911 HANG   VELLO A                499  
+17000351   1/4/2017     740    COMMONWEALTH AVE                                               MV/VIOL    SETIABUDI G            495  
+17000350   1/4/2017     740    NAHANTON ST & WINCHESTER ST                                    RD/OBST    BOUDROT E              496  
+17000352   1/4/2017     757    ALBEMARLE RD & WATERTOWN ST                                    SIGN/SIG   SIEGAL SC              502  
+17000354   1/4/2017     807    NAHANTON ST & WELLS AVE                                        DPW        BOUDROT E              496  
+17000353   1/4/2017     808    32 LEXINGTON ST                                                O/AGENCY   RAYMOND Z              500  
+17000355   1/4/2017     809    BOX 88185/ 33 BOYLSTON ST                                      STRAIGHT   GARCIA J               499  
+17000356   1/4/2017     829    47 LEXINGTON ST                                                DEFAULT    GARCIA J               492  
+17000357   1/4/2017     857    35 HYDE AVE                                                    O/AGENCY   BENES R                491  
+17000360   1/4/2017     925    15 KINGSBURY RD                                                ALM/BURG   MANOUK K               494  
+17000361   1/4/2017     929    BOX 76182/ CRYSTAL LAKE CONDOS                                 STRAIGHT   SETIABUDI G            MED1 
+17000363   1/4/2017     932    29 ARLINGTON ST                                                POL/TOW    NORCROSS M             525  
+17000367   1/4/2017     939    18 HENSHAW TER #2                                              ABDOMINA   WALSH T                MED1 
+17000374   1/4/2017     1039   CHARLESBANK RD & NONANTUM RD                                   MVA / MI   BENES R                AMB1 
+17000376   1/4/2017     1042   245 WISWALL RD                                                 PSY/EVAL   BOUDROT E              MED1 
+17000377   1/4/2017     1048   NEWTON COMM SERVICE DAY CARE / 492 WALTHAM ST                  VAND/PRP   RAYMOND Z              492  
+17000378   1/4/2017     1049   IMPERIAL TOWERS / 280 BOYLSTON ST #112                         FALL/BAC   WALSH T                MED1 
+17000380   1/4/2017     1111   116 MANDALAY RD                                                ALM/BURG   MANOUK K               494  
+17000381   1/4/2017     1115   CARLISLE ST & LANGLEY RD                                       UTIL/HAZ   VELLO A                499  
+17000382   1/4/2017     1133   NONANTUM VILLAGE / 241 WATERTOWN ST                            ALM/BURG   BENES R                491  
+17000383   1/4/2017     1134   38 WENDELL RD                                                  ALM/BURG   BOUDROT E              496  
+17000384   1/4/2017     1143   BANK OF AMERICA / 303 WALNUT ST                                ALM/BANK   WALSH T                497  
+17000386   1/4/2017     1201   34 LAUDHOLM RD                                                 ALM/BURG   BENES R                491  
+17000387   1/4/2017     1209   BERTUCCIS / 275 CENTRE ST                                      MVA/PAST   SIEGAL SC              491  
+17000388   1/4/2017     1215   BURR SCHOOL / 171 PINE ST                                      VAND/CTY   WALSH T                492  
+17000389   1/4/2017     1239   81 NORTH ST                                                    OPEN DOO   BENES R                491  
+17000390   1/4/2017     1247   CAPITOL ENGINEERING / 151 CALIFORNIA ST                        FORESTRY   BENES R                491  
+17000392   1/4/2017     1256   BOX 1174/ SUISSE PLACE                                         STRAIGHT   IAROSSI M              497  
+17000393   1/4/2017     1303   BEACON ST & GRANT AVE                                          MVA        MANOUK K               494  
+17000395   1/4/2017     1330   CHESTNUT 405 CONDO ASS'N / 405 LANGLEY RD #2                   ALM/BURG   GARCIA J               503  
+17000399   1/4/2017     1400   COUNTRY DAY SCHOOL / 785 CENTRE ST                             BREATH P   VELLO A                AMB1 
+17000401   1/4/2017     1410   BLOOMINGDALES FRONT UPPER MALL / 225 BOYLSTON ST               FRAUD      SIEGAL SC              494  
+17000402   1/4/2017     1422   BOX 72524/ PANERA BREAD                                        STRAIGHT   IAROSSI M              497  
+17000403   1/4/2017     1424   WHOLE FOODS MARKET / 647 WASHINGTON ST                         FALL/BAC   BENES R                AMB2 
+17000404   1/4/2017     1430   212 PEARL ST                                                   DRUGS      BENES R                491  
+17000405   1/4/2017     1457   PEIRCE SCHOOL / 170 TEMPLE ST                                  CHECK PE   ADAM R                 1304 
+17000406   1/4/2017     1511   30 GLENDALE RD                                                 RD/OBST    DURICKAS K             499  
+17000407   1/4/2017     1519   KANTAR FINE ARTS / 382 KENRICK ST                              UTIL/HAZ   CROWE, J               494  
+17000408   1/4/2017     1520   38 SHADY HILL RD                                               UTIL/HAZ   CALDERON D             496  
+17000409   1/4/2017     1524   WALGREENS / 1101 BEACON ST                                     LF/PROP    MCNEIL R               495  
+17000410   1/4/2017     1537   BALDWIN ST & VERNON ST'                                        DEFAULT    HELMS G                491  
+17000412   1/4/2017     1553   73 WEST ST                                                     911 HANG   HELMS G                491  
+17000413   1/4/2017     1621   140 PLYMOUTH RD                                                ALM/BURG   MCNEIL R               495  
+17000417   1/4/2017     1644   41 BEECHER PL                                                  REST/ORD   LARSON R               500  
+17000418   1/4/2017     1703   BOX 8816/ MEDICAL OFFICE BUILDING                              STRAIGHT   DURICKAS K             499  
+17000419   1/4/2017     1713   LEXINGTON STREET APARTMENTS / 199 LEXINGTON ST #34             SUSP PER   BANNON T               492  
+17000424   1/4/2017     1728   BRICK FIRE PIZZA CO / 1214 CHESTNUT ST                         FRAUD      SELIG, J               503  
+17000425   1/4/2017     1737   57 HALE ST                                                     SHOTS/HD   DURICKAS K             495  
+17000426   1/4/2017     1747   CENTRE ST & VERNON ST                                          MVA        MARCH R                497  
+17000427   1/4/2017     1758   TD BANK  MA / 1197 CENTRE ST                                   MVA/PAST   MCNEIL R               495  
+17000428   1/4/2017     1759   BOSTON BALLET / 863 WASHINGTON ST #B                           911 HANG   BANNON T               492  
+17000429   1/4/2017     1807   DELUXE STATION DINER / 70 UNION ST                             MVA        CROWE, J               494  
+17000430   1/4/2017     1812   NEW FALLS  APARTMENTS / 2271 WASHINGTON ST                     INVEST-G   HELMS G                491  
+17000432   1/4/2017     1818   BOX 7142/ MEDITERRANEAN GRILL                                  STRAIGHT   DURICKAS K             499  
+17000434   1/4/2017     1825   300 PRINCE ST                                                  ALM/BURG   BANNON T               492  
+17000435   1/4/2017     1829   77 STUART RD                                                   ALM/BURG   CROWE, J               494  
+17000436   1/4/2017     1831   351 LANGLEY RD                                                 UTIL/HAZ   CROWE, J               494  
+17000439   1/4/2017     1928   32 WOODROW AVE                                                 STRUCT F   CONLEY B               MED2 
+17000440   1/4/2017     1954   CENTRE ST & TROWBRIDGE ST                                      LF/PROP    LARSON R               500  
+17000442   1/4/2017     2029   54 ASHMONT AVE                                                 CHECK PE   HELMS G                491  
+17000446   1/4/2017     2146   55 CROSS HILL RD                                               SP/INCD    CALDERON D             496  
+17000447   1/4/2017     2211   26 GREYLOCK RD                                                 OPEN DOO   MARCH R                497  
+17000453   1/4/2017     2348   42 ADELLA AVE                                                  MEDICAL    KANE A                 MED1 

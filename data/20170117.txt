@@ -1,0 +1,60 @@
+17001902   1/16/2017    0      65 HIGH ST                                                     HEMOR/LA   MCNEIL R               MED1 
+17001916   1/16/2017    140    CLARK & WHITE INC / 777 WASHINGTON ST                          ALM/BURG   HELMS G                491  
+17001917   1/16/2017    220    42 WHITTEMORE RD                                               FALL/BAC   HELMS G                MED2 
+17001918   1/16/2017    253    42 WHITTEMORE RD                                               MVA/CITY   HEALY S                999  
+17001919   1/16/2017    305    135 EAST SIDE PKWY                                             FARE EVA   HELMS G                491  
+17001921   1/16/2017    320    154 OLIVER RD                                                  CBN MONO   MCNEIL R               495  
+17001924   1/16/2017    553    ADVISER INVESTMENTS INC / 85 WELLS AVE                         ALM/BURG   GAMBLE N               496  
+17001925   1/16/2017    559    COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FND/PERS   MCNEIL R               508  
+17001926   1/16/2017    639    FRANKLIN SCHOOL / 125 DERBY ST                                 ALM/BURG   BROOKS J               492  
+17001927   1/16/2017    705    SCHOOL ADM BUILD / 100 WALNUT ST                               ALM/BURG   HELMS G                491  
+17001928   1/16/2017    718    DAY MIDDLE SCHOOL / 21 MINOT PL                                ALM/BURG   VELLO A                492  
+17001929   1/16/2017    732    OAK HILL SCHOOL / 130 WHEELER RD                               ALM/BURG   BOUDROT E              496  
+17001930   1/16/2017    807    NEIGHBORHOOD CLUB / 24 BERKELEY ST                             CENT STA   WALSH T                492  
+17001932   1/16/2017    821    36 ERIE AVE                                                    CBN MONO   HILL R                 495  
+17001933   1/16/2017    822    MASON-RICE SCHOOL / 149 PLEASANT ST                            ALM/BURG   HILL R                 503  
+17001935   1/16/2017    822    WILLIAMS SCHOOL / 141 GROVE ST                                 ALM/BURG   GOURDEAU J             493  
+17001936   1/16/2017    823    BURR SCHOOL / 171 PINE ST                                      ALM/BURG   WALSH T                492  
+17001938   1/16/2017    830    44 SYLVAN AVE                                                  ALM/BURG   IAROSSI M              497  
+17001937   1/16/2017    830    EVANS PARK / 430 CENTRE ST #601                                BREATH P   MANOUK K               AMB1 
+17001940   1/16/2017    837    ENTERPRISE RENT A CAR / 1229 WASHINGTON ST                     ABAND MV   IAROSSI M              492  
+17001941   1/16/2017    851    BRIMMER AND MAY COED DAY / 69 MIDDLESEX RD                     V/C/ORD    LEITCH B               506  
+17001942   1/16/2017    907    151 NORTH ST                                                   SICK-D     MANOUK K               AMB1 
+17001944   1/16/2017    918    157 DUDLEY RD                                                  ALM/BURG   BOUDROT E              496  
+17001946   1/16/2017    930    109 WOODCLIFF RD                                               V/C/ORD    SETIABUDI G            499  
+17001947   1/16/2017    932    BOX 7813/ ATRIUM MALL                                          STRAIGHT   SETIABUDI G            496  
+17001950   1/16/2017    1005   TRADER JOES / 1121 WASHINGTON ST                               ILL/PARK   WALSH T                492  
+17001952   1/16/2017    1012   104 HAMMONDSWOOD RD                                            911 HANG   BENES R                494  
+17001955   1/16/2017    1049   15 NIGHTINGALE PATH                                            V/C/ORD    BOUDROT E              496  
+17001956   1/16/2017    1114   15 ATKINSON ST                                                 ALM/BURG   GOURDEAU J             493  
+17001958   1/16/2017    1146   TEMPLE BETH AVODAH / 45 PUDDING STONE LA                       POL-ASSI   SETIABUDI G            499  
+17001959   1/16/2017    1219   15 SHARPE RD                                                   FORESTRY   BOUDROT E              496  
+17001960   1/16/2017    1221   286 DERBY ST                                                   B&E PAST   GARCIA J               WN   
+17001963   1/16/2017    1247   BOSTON SPORTS CLUB / 135 WELLS AVE                             MVA        BOUDROT E              496  
+17001970   1/16/2017    1439   BOX 4411/ MARRIOTT HOTEL                                       STRAIGHT   WALSH T                492  
+17001973   1/16/2017    1555   JEWISH COMMUNITY CENTER / 333 NAHANTON ST                      ROAD RAG   SIEGAL SC              499  
+17001975   1/16/2017    1614   39 LONGWELL RD                                                 UNKN PRO   SULLIVAN D             AMB2 
+17001977   1/16/2017    1620   CABOT ST & LANGDON ST                                          MVA        CONLEY B               491  
+17001978   1/16/2017    1632   DUNKIN DONUTS / 401 WATERTOWN ST                               MVA        HELMS G                491  
+17001980   1/16/2017    1641   REGAN'S SERVICE INC / 2066 COMMONWEALTH AVE                    SUSP PER   SULLIVAN D             493  
+17001982   1/16/2017    1707   CARR SCHOOL / 225 NEVADA ST                                    ALM/BURG   HOWES C                497  
+17001984   1/16/2017    1719   BOX 6154/ ELDERLY HOUSING                                      STRAIGHT   MCNEIL R               495  
+17001985   1/16/2017    1725   152 UPLAND RD                                                  REST/ORD   OBRIEN D               500  
+17001992   1/16/2017    1808   FRANKLIN SCHOOL / 125 DERBY ST                                 MVA/H&R    BROOKS J               492  
+17001993   1/16/2017    1846   73 LEWIS ST                                                    COURTDOC   OBRIEN D               500  
+17001994   1/16/2017    1850   28 MIDDLE ST                                                   COURTDOC   OBRIEN D               500  
+17001995   1/16/2017    1905   BERTUCCIS / 275 CENTRE ST                                      ILL/PARK   HELMS G                491  
+17001998   1/16/2017    1930   16 MARSHALL ST                                                 SUSP PER   CROWE, J               494  
+17001999   1/16/2017    1955   131 PRINCE ST                                                  ALM/BURG   BROOKS J               492  
+17002000   1/16/2017    2002   132 WARREN ST                                                  POL-ASSI   CROWE, J               494  
+17002003   1/16/2017    2050   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        CRUI/TRN   MURRAY K               WN   
+17002005   1/16/2017    2105   PUTNAM ST                                                      MV/STOP    BROOKS J               492  
+17002006   1/16/2017    2129   THE FALLS AT CORDINGLY DAM / 2300 WASHINGTON ST #424           UNCONS/F   SULLIVAN D             AMB2 
+17002007   1/16/2017    2131   DR. BADEN  / 1400 CENTRE ST                                    ALM/BURG   CROWE, J               494  
+17002008   1/16/2017    2138   BROOKLINE BANK / 1160 WALNUT ST                                CHECK PE   MCNEIL R               495  
+17002009   1/16/2017    2142   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         POL-ASSI   SELIG, J               498  
+17002010   1/16/2017    2151   151 WARREN ST                                                  UNKN PRO   CROWE, J               AMB2 
+17002012   1/16/2017    2218   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   GAMBLE N               496  
+17002013   1/16/2017    2237   ASHMONT AVE & CRAFTS ST                                        MV/STOP    CONLEY B               491  
+17002014   1/16/2017    2243   54 HAWTHORN ST                                                 SUSP PER   CONLEY B               491  
+17002015   1/16/2017    2259   COMMONWEALTH AVE & ISLINGTON RD                                MV/STOP    BROOKS J               492  

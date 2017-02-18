@@ -1,0 +1,56 @@
+17003444   1/28/2017    8      75 MANET RD                                                    LOUD PAR   DURICKAS K             494  
+17003447   1/28/2017    22     1778 COMMONWEALTH AVE #2                                       UNCONS/F   EMMANUEL S             MED2 
+17003454   1/28/2017    217    THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #115N      UNKN PRO   CROWE, J               MED1 
+17003455   1/28/2017    223    ANTONELLIS AUTO SERVICE / 70 CRAFTS ST                         ALM/BURG   SIEGAL D               491  
+17003457   1/28/2017    255    BOYLSTON ST & HAMMOND POND PKWY                                MVA / MI   SIEGAL SC              MED1 
+17003459   1/28/2017    505    NEWTON CENTRE POST OFFICE / 211 SUMNER ST                      DK         DURICKAS K             506  
+17003461   1/28/2017    616    376 WARD ST                                                    FALL/BAC   CONLEY B               AMB1 
+17003462   1/28/2017    736    BOX 6544/ NATIONAL LUMBER                                      STRAIGHT   HILL R                 495  
+17003463   1/28/2017    800    WALES ST & WASHINGTON ST                                       SIGN/SIG   MCSWEENEY M            493  
+17003464   1/28/2017    807    31 WOODBINE ST                                                 ALM/BURG   CLAFLIN G              493  
+17003467   1/28/2017    857    WELLS AVE                                                      MV/VIOL    BOUDROT E              496  
+17003468   1/28/2017    923    YMCA / 276 CHURCH ST                                           FALL/BAC   WALSH T                AMB1 
+17003469   1/28/2017    933    96 BROOKLINE ST                                                SUSPICIO   BOUDROT E              496  
+17003471   1/28/2017    945    NEWTONVILLE POST OFFICE / 897 WASHINGTON ST                    VAND/PRP   WALSH T                492  
+17003470   1/28/2017    945    20 SETON HILL RD                                               UNCONS/F   MCSWEENEY M            AMB1 
+17003472   1/28/2017    1046   BOX 72351/ WEGMANS                                             STRAIGHT   BOUDROT E              496  
+17003473   1/28/2017    1053   26 LENGLEN RD                                                  VAND/PRP   LARSON R               497  
+17003475   1/28/2017    1105   WALNUT ST                                                      UTIL/HAZ   MCSWEENEY M            493  
+17003476   1/28/2017    1116   DUNKIN DONUTS / 345 WASHINGTON ST                              CHECK PE   WALSH T                492  
+17003477   1/28/2017    1128   THE FALLS AT CORDINGLY DAM / 2300 WASHINGTON ST #225           UNKN PRO   MCSWEENEY M            AMB1 
+17003479   1/28/2017    1231   90 LAKE AVE                                                    ALM/BURG   HILL R                 495  
+17003480   1/28/2017    1233   732 WATERTOWN ST                                               UTIL/HAZ   WALSH T                492  
+17003482   1/28/2017    1301   PARKER ST & DEDHAM                                             RD/OBST    HILL R                 495  
+17003484   1/28/2017    1318   MT IDA REST HOME / 32 NEWTONVILLE AVE FL 2                     UNCONS/F   RAYMOND Z              MED2 
+17003485   1/28/2017    1324   WEGMANS / 200 BOYLSTON ST                                      LF/PROP    SETIABUDI G            499  
+17003489   1/28/2017    1403   COMMONWEALTH AVE & MT ALVERNIA RD                              SUSP PER   MCLAUGHLIN J           491  
+17003490   1/28/2017    1412   58 ALEXANDER RD                                                ALM/BURG   BOUDROT E              496  
+17003491   1/28/2017    1428   16 KINGSWOOD RD                                                UTIL/HAZ   WALSH T                492  
+17003492   1/28/2017    1441   CASTANE PARTNERS  / 2225 WASHINGTON ST                         ALM/BURG   MCSWEENEY M            493  
+17003495   1/28/2017    1458   49 BALDPATE HILL RD                                            CENT STA   BOUDROT E              496  
+17003496   1/28/2017    1507   76 THURSTON RD #C                                              LOCK OUT   HILL R                 495  
+17003497   1/28/2017    1525   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   SIEGAL SC              496  
+17003498   1/28/2017    1606   MT ALVERNIA HIGH SCHOOL / 790 CENTRE ST                        TRESPASS   CROWE, J               499  
+17003502   1/28/2017    1632   189 WALTHAM ST                                                 UTIL/HAZ   BROOKS J               492  
+17003503   1/28/2017    1635   18 INIS CIR                                                    ILL/PARK   BROOKS J               492  
+17003508   1/28/2017    1709   262 RIVER ST                                                   LF/PROP    BROOKS J               492  
+17003509   1/28/2017    1712   NEWTON EXECUTIVE PARK / 2221 WASHINGTON ST                     PSY/EVAL   CONLEY B               AMB1 
+17003512   1/28/2017    1744   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   HOWES C                496  
+17003514   1/28/2017    1807   TEDESCHI'S / 1639 CENTRE ST                                    ILL/PARK   MCNEIL R               495  
+17003515   1/28/2017    1819   BEACON ST & UPLAND RD                                          MV/STOP    MCNEIL R               495  
+17003517   1/28/2017    1833   CHURCH OF THE MESSIAH / 1900 COMMONWEALTH AVE                  DMV        SULLIVAN D             493  
+17003519   1/28/2017    1855   350 BEACON ST                                                  MVA        CROWE, J               499  
+17003521   1/28/2017    1906   18 INIS CIR                                                    ILL/PARK   BROOKS J               492  
+17003522   1/28/2017    1911   61 WALNUT HILL RD                                              OVERDOSE   SIEGAL SC              MED1 
+17003523   1/28/2017    1921   BETH ISRAEL DEACONESS HEALTH C / 200 BOYLSTON ST #4TH FLOOR    HEADACHE   HOWES C                AMB2 
+17003524   1/28/2017    1930   33 WAYNE RD                                                    LOCK OUT   KOERBER P              501  
+17003526   1/28/2017    2034   34 PEREGRINE RD                                                ALM/BURG   SIEGAL SC              496  
+17003527   1/28/2017    2036   BEACON ST & WALNUT ST                                          MVA        MCNEIL R               495  
+17003530   1/28/2017    2135   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   HOWES C                496  
+17003531   1/28/2017    2209   DEL FRISCO GRILLE / 33 BOYLSTON ST #3370                       911 HANG   CROWE, J               494  
+17003535   1/28/2017    2230   BOYLSTON ST & ELLIOT ST                                        SICK/INJ   TORRES R               538  
+17003536   1/28/2017    2233   160 RIVERVIEW AVE                                              STRUCT F   BROOKS J               MED2 
+17003537   1/28/2017    2237   BOX 42511/ RIVERSIDE CENTER ONE A                              STRAIGHT   SELIG, J               498  
+17003538   1/28/2017    2249   26 WALNUT PL                                                   UNLEASHE   TORRES R               538  
+17003539   1/28/2017    2327   19 VERNON ST                                                   LOUD PAR   POHLMAN, K             491  
+17003544   1/28/2017    2343   NAHANTON ST & WELLS AVE                                        RD/OBST    CALDERON D             496  

@@ -1,0 +1,58 @@
+17002175   1/18/2017    419    AUBURNDALE WINE & SPIRITS / 2102 COMMONWEALTH AVE              911 HANG   HAMANN,T               493  
+17002176   1/18/2017    504    37 ELIOT AVE                                                   ALM/BURG   CONLEY B               492  
+17002177   1/18/2017    545    329 HAMMOND ST                                                 ALM/BURG   COLETTI A              494  
+17002180   1/18/2017    628    CTS COMPUTERS INC. / 303 WATERTOWN ST                          ALM/BURG   BANNON T               491  
+17002181   1/18/2017    643    WALES ST & WASHINGTON ST                                       MVA        HAMANN,T               493  
+17002182   1/18/2017    650    SUNOCO SERVICE STATION / 325 BOYLSTON ST                       O/AGENCY   COLETTI A              494  
+17002183   1/18/2017    719    62 OTIS ST                                                     LF/PROP    IAROSSI M              497  
+17002184   1/18/2017    759    STATION ROW / 41 LINCOLN ST                                    ALM/BURG   GABRIEL A              495  
+17002189   1/18/2017    850    CABOT PARK / 101 EAST SIDE PKWY                                DOG BITE   TORRES R               999  
+17002193   1/18/2017    910    135 RIDGE AVE                                                  FRAUD      PAGLIA ROBT            494  
+17002194   1/18/2017    930    GOLDA MEIR ELDERLY HOUSING / 160 STANTON AVE #244              UNCONS/F   GOURDEAU J             AMB1 
+17002195   1/18/2017    933    JEWISH COMMUNITY CENTER / 333 NAHANTON ST                      BOMB SCA   BOUDROT E              493  
+17002196   1/18/2017    936    MEN'S HEALTH BOSTON / 200 BOYLSTON ST #A-309                   THREATS    SCHLEGEL J             499  
+17002198   1/18/2017    1007   61 WENDELL RD                                                  ALM/BURG   COTTENS S              502  
+17002199   1/18/2017    1017   EVANS PARK / 430 CENTRE ST #204                                BACK PAI   GAUDET M               AMB1 
+17002200   1/18/2017    1025   GARDEN CITY AUTO BODY / 1207 WASHINGTON ST                     POL-ASSI   PAGLIA RICH            492  
+17002201   1/18/2017    1033   AGAWAM RD & BEACON ST                                          UTIL/HAZ   GOURDEAU J             493  
+17002202   1/18/2017    1045   87 LINCOLN ST                                                  HEART PR   GABRIEL A              MED1 
+17002203   1/18/2017    1046   221 WASHINGTON ST                                              KEEP/PCE   MCCARTHY T             491  
+17002208   1/18/2017    1115   BEACON ST & KENNEY PL                                          UTIL/HAZ   GOURDEAU J             493  
+17002209   1/18/2017    1116   ADAMAS FINE JEWLERY / 23 LINCOLN ST                            LF/PROP    GABRIEL A              495  
+17002212   1/18/2017    1133   BEACON ST & KENNEY PL                                          UTIL/HAZ   GOURDEAU J             493  
+17002216   1/18/2017    1206   73 WALNUT ST #4                                                PSY/EVAL   ROSENBAUM E            AMB2 
+17002220   1/18/2017    1324   31 HAMMOND ST                                                  ALM/BURG   WADE M                 499  
+17002224   1/18/2017    1339   31 HAMMOND ST                                                  ALM/BURG   WADE M                 499  
+17002227   1/18/2017    1413   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     INVEST-G   ADAM R                 999  
+17002228   1/18/2017    1421   10 HYDE ST                                                     CENT STA   GABRIEL A              495  
+17002230   1/18/2017    1501   16 HARGRAVE CIR #A                                             INVEST-G   CONLEY B               WN   
+17002231   1/18/2017    1502   APARTMENT BUILDING / 230 WALNUT ST                             CHECK PE   MCSWEENEY M            491  
+17002232   1/18/2017    1523   FESSENDEN LA & CRAFTS ST                                       MVA        LAZARAKIS Z            497  
+17002233   1/18/2017    1524   CRAFTS ST                                                      MVA        CONLEY B               502  
+17002234   1/18/2017    1529   11 LANGDON ST                                                  911 HANG   HELMS G                491  
+17002236   1/18/2017    1558   1868 BEACON ST                                                 UTIL/HAZ   DURICKAS K             498  
+17002237   1/18/2017    1601   86 UPLAND RD                                                   UNKN PRO   POUTAS D               495  
+17002241   1/18/2017    1619   117 FLORENCE ST                                                CENT STA   SOLOMAN A              496  
+17002242   1/18/2017    1620   FRANKLIN (PLOWSHARES) / 125 DERBY ST                           911 HANG   BANNON T               492  
+17002245   1/18/2017    1642   ERIC BLEILER JEWELERS / 28 LINCOLN ST                          PSY/EVAL   POUTAS D               AMB1 
+17002246   1/18/2017    1648   16 HARGRAVE CIR #A                                             INVEST-G   SELIG, J               503  
+17002247   1/18/2017    1658   5 BRUCE LA                                                     ALM/BURG   SIEGAL SC              499  
+17002252   1/18/2017    1736   MOTHERS MILK BANK OF NORTH EAST  / 377 ELLIOT ST #100J         ALM/BURG   POUTAS D               495  
+17002253   1/18/2017    1742   WALNUT ST & WATERTOWN ST                                       CHECK PE   BANNON T               492  
+17002254   1/18/2017    1802   CENTRE ST & COMMONWEALTH AVE                                   MV/STOP    SIEGAL SC              494  
+17002259   1/18/2017    1830   22 BRACKETT RD                                                 ALM/BURG   SIEGAL SC              494  
+17002260   1/18/2017    1838   BOX 9152/ NEWTON SOUTH HIGH SCHOOL                             STRAIGHT   SOLOMAN A              496  
+17002261   1/18/2017    1847   276 WATERTOWN ST                                               MVA        HELMS G                491  
+17002262   1/18/2017    1853   8 WESSEX RD                                                    HEMOR/LA   SIEGAL SC              494  
+17002266   1/18/2017    1917   52 CYPRESS ST                                                  DPW        SIEGAL SC              497  
+17002267   1/18/2017    1919   10 JEFFERSON ST                                                BREATH P   CONLEY B               502  
+17002271   1/18/2017    1959   SCANDINAVIAN LIVING CENTER / 206 WALTHAM ST #115               HEMOR/LA   BANNON T               492  
+17002272   1/18/2017    2012   2 TUDOR RD                                                     HEART PR   SIEGAL SC              499  
+17002276   1/18/2017    2030   ADAMS ST & MURPHY CT                                           ILL/PARK   HELMS G                491  
+17002279   1/18/2017    2032   17 WALNUT PL                                                   POL-ASSI   SOLOMAN A              496  
+17002280   1/18/2017    2048   PEET'S COFFEE & TEA / 776 BEACON ST                            ALM/BURG   SIEGAL SC              494  
+17002283   1/18/2017    2123   108 HULL ST                                                    CHECK PE   BANNON T               492  
+17002285   1/18/2017    2201   NEWTON WELLESLEY PSYCHIATRY / 2364 WASHINGTON ST               ALM/BURG   HAMANN,T               493  
+17002289   1/18/2017    2301   CASSELMAN HOUSE / 195 SUMNER ST #302                           FALL/BAC   SIEGAL SC              499  
+17002290   1/18/2017    2311   BOX 42118/ 276 GROVE ST                                        STRAIGHT   HAMANN,T               493  
+17002291   1/18/2017    2332   CVS / 304 WALNUT ST                                            911 HANG   BOUDREAU M             491  

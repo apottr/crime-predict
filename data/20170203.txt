@@ -1,0 +1,63 @@
+17004065   2/2/2017     157    CAFE ST PETERSBURG / 57 UNION ST #A                            ALM/BURG   FEROLITO B             494  
+17004068   2/2/2017     205    UNDERWOOD SCHOOL / 101 VERNON ST                               ALM/BURG   BOUDREAU M             491  
+17004074   2/2/2017     229    CITIZENS BANK / 300 WASHINGTON ST                              POL-ASSI   BOUDREAU M             491  
+17004077   2/2/2017     357    76 HYDE AVE                                                    CENT STA   BOUDREAU M             491  
+17004081   2/2/2017     702    75 HOMER ST                                                    MVA        WADE M                 495  
+17004082   2/2/2017     719    88 CHARLESBANK RD                                              DMV        POHLMAN, K             502  
+17004084   2/2/2017     801    WALES ST & WASHINGTON ST                                       SIGN/SIG   MACE J                 493  
+17004086   2/2/2017     817    WALES ST & WASHINGTON ST                                       MVA        MACE J                 493  
+17004091   2/2/2017     858    AQUITAINE BIS / 11 BOYLSTON ST                                 ALM/BURG   BENES R                494  
+17004092   2/2/2017     859    MAX & LEO'S ARTISAN PIZZA / 325 WASHINGTON ST                  CHECK PE   MCSWEENEY M            491  
+17004093   2/2/2017     900    NEWTON CENTRE MUNICIPAL LOT / 797 BEACON ST                    LF/PROP    WADE M                 499  
+17004094   2/2/2017     900    27 COTTER RD                                                   MVA/CITY   CLAFLIN G              498  
+17004096   2/2/2017     918    CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         MVA        MCSWEENEY M            491  
+17004098   2/2/2017     920    NAHANTON PARK / 455 NAHANTON ST                                SP/INCD    SETIABUDI G            496  
+17004100   2/2/2017     958    178 WELLS AVE                                                  CHECK PE   SETIABUDI G            496  
+17004103   2/2/2017     1009   WARREN HOUSE / 1600 WASHINGTON ST                              MVA        GARCIA J               502  
+17004104   2/2/2017     1014   NAHANTON WOODS CONDOMINIUMS / 210 NAHANTON ST #203             ALM/BURG   WADE M                 499  
+17004112   2/2/2017     1103   26 MARSHALL ST                                                 ALM/BURG   BENES R                494  
+17004115   2/2/2017     1119   55 ELLIS RD                                                    CENT STA   GARCIA J               502  
+17004114   2/2/2017     1119   17 SACO ST                                                     ALM/BURG   GABRIEL A              495  
+17004117   2/2/2017     1125   NWH HOSPITAL / 2014 WASHINGTON ST                              DOG BITE   MACE J                 493  
+17004121   2/2/2017     1203   DUNKIN DONUTS / 2096 COMMONWEALTH AVE                          UNWANTED   GARCIA J               503  
+17004123   2/2/2017     1206   NWH HOSPITAL / 2014 WASHINGTON ST                              MVA        GARCIA J               493  
+17004122   2/2/2017     1218   DEDHAM ST & SPIERS RD                                          ASSAULT-   SETIABUDI G            496  
+17004125   2/2/2017     1229   REGINA RD                                                      ILL/PARK   MANOUK K               492  
+17004126   2/2/2017     1230   CITIZENS BANK / 1188 CENTRE ST                                 LARCENY    MCCARTHY T             999  
+17004128   2/2/2017     1305   BOX 118/ BIGELOW MIDDLE SCHOOL                                 STRAIGHT   MCSWEENEY M            491  
+17004130   2/2/2017     1312   1261 CENTRE ST                                                 MVA        CLAFLIN G              498  
+17004132   2/2/2017     1349   25 RIDGE RD                                                    ALM/BURG   GARCIA J               503  
+17004134   2/2/2017     1403   151 FRANKLIN ST                                                ALM/BURG   COLELLA M              497  
+17004135   2/2/2017     1413   BOX 6548/ MICK MORGANS                                         STRAIGHT   SETIABUDI G            496  
+17004136   2/2/2017     1426   22 NOBLE ST                                                    CHECK PE   COLELLA M              497  
+17004139   2/2/2017     1453   EQUINOX / 200 BOYLSTON ST                                      LARCENY    SETIABUDI G            496  
+17004140   2/2/2017     1504   SNIP-ITS HAIRCUTS FOR KIDS / 25 BOYLSTON ST                    MVA        MARCH R                499  
+17004141   2/2/2017     1515   EDINBORO ST & WATERTOWN ST                                     FND/PERS   CICCONE, A             492  
+17004142   2/2/2017     1522   735 CENTRE ST                                                  ALM/BURG   MCSWEENEY M            491  
+17004143   2/2/2017     1525   20 CRYSTAL ST                                                  FRAUD      WALTON T               495  
+17004145   2/2/2017     1611   156 COUNTRY CLUB RD                                            ALM/BURG   CALDERON D             496  
+17004146   2/2/2017     1613   RIVER ST & CHERRY                                              MV/VIOL    CICCONE, A             492  
+17004147   2/2/2017     1621   15 SARGENT PK                                                  NEIG/PRB   BOUDREAU M             491  
+17004148   2/2/2017     1622   25 BEMIS ST                                                    ALM/BURG   TRAMONTOZZI B          497  
+17004151   2/2/2017     1656   91 HERRICK RD                                                  ALM/BURG   FEROLITO B             494  
+17004153   2/2/2017     1701   FOLKLORICA / 61 UNION ST                                       HARASS     MARCH R                494  
+17004155   2/2/2017     1712   GREENWOOD ST & HARTMAN RD                                      A&B        LARSON R               999  
+17004157   2/2/2017     1727   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         CHECK PE   BOUDREAU M             491  
+17004158   2/2/2017     1737   80 MANET RD                                                    LOCK OUT   FEROLITO B             494  
+17004159   2/2/2017     1738   47 STUDIO RD                                                   FRAUD      KEEFE T                WN   
+17004160   2/2/2017     1752   COTTAGE CT APARTMENT BUILDING / 12 COTTAGE CT #3               SP/INCD    KEEFE T                999  
+17004161   2/2/2017     1752   WEGMANS / 200 BOYLSTON ST                                      LAR/SHOP   CALDERON D             496  
+17004163   2/2/2017     1757   71 GREENLAWN AVE                                               DOG BITE   TORRES R               538  
+17004166   2/2/2017     1759   THE DOG SCOOP / 216 WEBSTER ST                                 DOG BITE   TORRES R               999  
+17004167   2/2/2017     1806   FIRST HELP FINANCIAL / 199 WELLS AVE                           MVA/PAST   MARCH R                499  
+17004171   2/2/2017     1815   STOP & SHOP PLAZA / 171 WATERTOWN ST                           MVA        BOUDREAU M             491  
+17004174   2/2/2017     1903   BOX 4215/ HOTEL INDIGO                                         STRAIGHT   CHIEU R                493  
+17004175   2/2/2017     1914   THE VILLAGE BANK / 411 WATERTOWN ST                            ALM/BANK   BOUDREAU M             491  
+17004176   2/2/2017     1931   NORTH CROSSING / 47 PARK ST                                    FND/PERS   POHLMAN, K             491  
+17004177   2/2/2017     1935   BEACON ST & LAWRENCE AVE                                       ILL/PARK   BERGDORF,J             494  
+17004179   2/2/2017     1936   FIRE STATION #7 / 144 ELLIOT ST                                POL-ASSI   WALTON T               495  
+17004182   2/2/2017     1954   225 HARTMAN RD                                                 ALM/BURG   BERGDORF,J             496  
+17004183   2/2/2017     2021   ELLIOT ST & OAK ST                                             MV/STOP    LARSON R               501  
+17004184   2/2/2017     2042   CENTRE ST & HOMER ST                                           MV/STOP    WALTON T               495  
+17004185   2/2/2017     2054   EUROPEAN WAX CENTER / 244 NEEDHAM ST                           ALM/BURG   BERGDORF,J             496  
+17004186   2/2/2017     2059   WOODLAND MBTA STATION / 1950 WASHINGTON ST                     ARREST(S   LARSON R               493  

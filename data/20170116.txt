@@ -1,0 +1,40 @@
+17001819   1/15/2017    14     LANGLEY CONDOMINIUMS / 410 LANGLEY RD #4                       HARASS     CICCONE, A             494  
+17001820   1/15/2017    24     NORTH CROSSING / 47 PARK ST                                    FND/PERS   COLETTI A              491  
+17001822   1/15/2017    127    52 PRESCOTT ST                                                 BREATH P   COLETTI A              MED2 
+17001831   1/15/2017    721    EVANS PARK / 430 CENTRE ST #210                                BREATH P   COLELLA M              AMB1 
+17001832   1/15/2017    728    40 PARK AVE                                                    ALM/BURG   BENES R                494  
+17001833   1/15/2017    734    NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   MANOUK K               491  
+17001834   1/15/2017    807    NEWTON POLICE DEPT / 1321 WASHINGTON ST                        SPILL LV   MEAD G                 OIC  
+17001836   1/15/2017    843    BANK OF AMERICA / 303 WALNUT ST                                SP/INCD    WALSH T                492  
+17001837   1/15/2017    854    SAW MILL BROOK PKY CONDO'S / 655 SAW MILL BROOK PKWY #16       CHECK PE   SETIABUDI G            496  
+17001838   1/15/2017    950    CLARK & WHITE INC / 777 WASHINGTON ST                          ALM/BURG   MANOUK K               491  
+17001839   1/15/2017    953    220 TREMONT ST                                                 O/AGENCY   COLELLA M              497  
+17001844   1/15/2017    1004   JACKSON HOMESTEAD / 527 WASHINGTON ST                          ALM/BURG   MANOUK K               491  
+17001846   1/15/2017    1018   TEDESCHI'S FOOD SHOP / 98 WINCHESTER ST                        MVA        SETIABUDI G            496  
+17001849   1/15/2017    1031   1200 CENTRE ST                                                 MV/STOP    OCONNELL J             505  
+17001851   1/15/2017    1122   28 EDWARD RD                                                   CHECK PE   WALSH T                492  
+17001856   1/15/2017    1225   2259 COMMONWEALTH AVE                                          O/AGENCY   WALSH T                497  
+17001857   1/15/2017    1313   11 BOTSFORD RD                                                 HEART PR   WADE M                 AMB1 
+17001859   1/15/2017    1326   PARKER ST & WHEELER RD                                         UNLEASHE   SETIABUDI G            496  
+17001861   1/15/2017    1352   ENTERPRISE RENTAL / 1229 WASHINGTON ST                         ABAND MV   WALSH T                492  
+17001864   1/15/2017    1404   16 ASHTON AVE                                                  CHECK PE   LAU J                  495  
+17001862   1/15/2017    1406   CABOT SCHOOL / 229 CABOT ST                                    ALM/BURG   MANOUK K               497  
+17001865   1/15/2017    1415   42 SEVLAND RD                                                  CENT STA   SETIABUDI G            496  
+17001866   1/15/2017    1430   STAR MARKET / 1 BOYLSTON ST                                    ALM/BURG   BENES R                494  
+17001868   1/15/2017    1455   WEGMANS / 200 BOYLSTON ST                                      MVA/PAST   SETIABUDI G            496  
+17001869   1/15/2017    1500   1481 COMMONWEALTH AVE                                          DMV        TRAMONTOZZI B          497  
+17001871   1/15/2017    1554   BOX 65231/ MCDONALDS RESTAURANT                                STRAIGHT   WALTON T               495  
+17001872   1/15/2017    1555   28 OAKLAND ST                                                  ILL/PARK   HELMS G                491  
+17001873   1/15/2017    1619   18 LORING ST                                                   SUSP PER   BERGDORF,J             494  
+17001874   1/15/2017    1632   WALGREENS / 399 WASHINGTON ST                                  ILL/PARK   TRAMONTOZZI B          497  
+17001875   1/15/2017    1635   CLYDE ST & WALNUT ST                                           MV/STOP    HELMS G                491  
+17001884   1/15/2017    1800   31 LENGLEN RD                                                  NEIG/PRB   HELMS G                491  
+17001885   1/15/2017    1826   5 TENNYSON RD                                                  ALM/BURG   CICCONE, A             492  
+17001886   1/15/2017    1829   16 FAIRLEE TER                                                 COURTDOC   OBRIEN D               500  
+17001888   1/15/2017    1831   BRAE BURN COUNTRY CLUB / 326 FULLER ST                         911 HANG   CHIEU R                493  
+17001891   1/15/2017    1854   GOLDEN LIVING CENTER / 1650 WASHINGTON ST                      PSY/EVAL   CICCONE, A             MED2 
+17001892   1/15/2017    1908   ADAMS ST & WASHINGTON ST                                       DMV        HELMS G                491  
+17001895   1/15/2017    1941   MAX & LEO'S ARTISAN PIZZA / 325 WASHINGTON ST                  UNCONS/F   HELMS G                AMB2 
+17001897   1/15/2017    2101   61 BALLARD ST                                                  SP/INCD    BERGDORF,J             494  
+17001896   1/15/2017    2103   12 GOULD RD                                                    ALM/BURG   CHIEU R                493  
+17001899   1/15/2017    2205   30 MYRTLE ST                                                   O/AGENCY   CICCONE, A             492  

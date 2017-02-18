@@ -1,0 +1,66 @@
+17005337   2/11/2017    0      CVS / 189 WATERTOWN ST                                         ALM/BURG   HELMS G                491  
+17005341   2/11/2017    18     INTERMIX / 33 BOYLSTON ST #00                                  ALM/BURG   COLETTI A              499  
+17005351   2/11/2017    106    50 AUBURN ST                                                   SUSP PER   MCLEAN M               492  
+17005354   2/11/2017    129    FRED V FOWLER CO. INC / 66 ROWE ST                             ALM/BURG   MCLEAN M               492  
+17005359   2/11/2017    149    FOREST AVE & GREYLOCK RD                                       MVA/CITY   MCLEAN M               492  
+17005363   2/11/2017    310    AVALON AT CHESTNUT HILL BLDG 1 / 160 BOYLSTON ST #1429         FA ACTV/   SOLOMAN A              496  
+17005364   2/11/2017    410    BLUE RIBBON BARBECUE INC / 1375 WASHINGTON ST                  CHECK PE   HEALY D                491  
+17005366   2/11/2017    451    WATERTOWN ST                                                   DMV        MCLEAN M               492  
+17005367   2/11/2017    614    252 JACKSON ST                                                 911 HANG   COLETTI A              494  
+17005368   2/11/2017    633    CVS / 999 WATERTOWN ST                                         MVA/PAST   MCLEAN M               492  
+17005370   2/11/2017    704    AUBURNDALE AVE & MURRAY RD                                     THREATS    HEALY D                491  
+17005373   2/11/2017    715    NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   MCSWEENEY M            491  
+17005374   2/11/2017    742    75 HAMMOND ST                                                  ALM/BURG   WADE M                 499  
+17005376   2/11/2017    744    HONDA VILLAGE / 371 WASHINGTON ST                              DETAIL     DEMPSEY S              508  
+17005377   2/11/2017    758    NEWTON NORTH BLDG #1 / 457 WALNUT ST                           POL-ASSI   IAROSSI M              497  
+17005378   2/11/2017    822    ALEXANDRA CONSTRUCTION / 109 OAK ST #101                       ALM/BURG   GABRIEL A              495  
+17005381   2/11/2017    850    ROGERS ST                                                      ILL/PARK   MCSWEENEY M            491  
+17005383   2/11/2017    853    CHERRY ST & WEBSTER ST                                         SNOW COM   WALSH T                492  
+17005388   2/11/2017    922    2007 COMMONWEALTH AVE                                          RD/OBST    WALSH T                492  
+17005390   2/11/2017    944    46 RACHEL RD                                                   DPW        BOUDROT E              496  
+17005391   2/11/2017    947    2ND TIME AROUND / 67 UNION ST                                  ALM/BURG   WADE M                 499  
+17005397   2/11/2017    1044   BOYLSTON ST & ELLIOT ST                                        CHECK PE   GABRIEL A              495  
+17005405   2/11/2017    1117   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        INVEST-G   COTTENS S              WN   
+17005406   2/11/2017    1118   25 MOODY ST                                                    LF/PROP    PAGLIA ROBT            494  
+17005408   2/11/2017    1126   95 LINCOLN ST                                                  ILL/PARK   RAYMOND Z              498  
+17005410   2/11/2017    1138   46 SHORNECLIFFE RD                                             FORESTRY   MCSWEENEY M            491  
+17005416   2/11/2017    1145   NEWTONVILLE CAMERA & VIDEO / 249 WALNUT ST                     INVEST-G   IAROSSI M              998  
+17005420   2/11/2017    1155   16 KERR PATH                                                   RD/OBST    BOUDROT E              496  
+17005421   2/11/2017    1200   NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   SCALTRETO F            491  
+17005424   2/11/2017    1213   AQUA LINE WATER SERVICE / 15 BORDER ST                         ILL/PARK   WALSH T                492  
+17005426   2/11/2017    1223   BOYLSTON ST & WOODWARD ST                                      MVA        SCALTRETO F            502  
+17005428   2/11/2017    1228   91 CHARLESBANK RD                                              MVA        MCSWEENEY M            491  
+17005433   2/11/2017    1256   115 OXFORD RD                                                  CHECK PE   WADE M                 499  
+17005435   2/11/2017    1310   110 DUDLEY RD                                                  FRAUD      COTTENS S              WN   
+17005436   2/11/2017    1327   44 HAMMOND POND PKWY                                           ALM/BURG   WADE M                 499  
+17005437   2/11/2017    1330   203 NORTH ST                                                   PRI/TOW    WALSH T                492  
+17005438   2/11/2017    1341   BROOKLINE BANK / 323 WALNUT ST                                 ILL/PARK   WALSH T                492  
+17005440   2/11/2017    1345   NORTH CROSSING / 47 PARK ST                                    FND/PERS   MCSWEENEY M            491  
+17005439   2/11/2017    1345   320 LOWELL AVE                                                 VAND/PRP   IAROSSI M              497  
+17005441   2/11/2017    1351   6 ANGIER CIR                                                   ALM/BURG   GOURDEAU J             493  
+17005442   2/11/2017    1353   JP LICKS AT NEWTON CTR INC / 46 LANGLEY RD                     ILL/PARK   PAGLIA ROBT            494  
+17005446   2/11/2017    1455   YOGURT BEACH / 665 WATERTOWN ST                                F.A. ACT   WALSH T                492  
+17005448   2/11/2017    1554   RIVER ST & WALTHAM ST                                          MV/VIOL    SPINNEY A              492  
+17005450   2/11/2017    1559   NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   HEALY D                500  
+17005455   2/11/2017    1612   COMEDOR / 105 UNION ST                                         LARCENY    COLETTI A              494  
+17005458   2/11/2017    1626   109 OAK STREET CONDOMINIUM TRU / 109 OAK ST                    ALM/BURG   GUARINO C              495  
+17005465   2/11/2017    1718   NEWTON AUTOMOTIVE SERVICES / 249 CENTRE ST                     MVA        HELMS G                491  
+17005479   2/11/2017    1849   QUINOBEQUIN RD                                                 RD/OBST    BANNON T               493  
+17005477   2/11/2017    1851   WESTON PD /  null                                              O/AGENCY   KANE A                 497  
+17005480   2/11/2017    1904   CENTRE AVE & MASS PIKE                                         MVA        HELMS G                491  
+17005481   2/11/2017    1909   31 BALDPATE HILL RD                                            ALM/BURG   DURICKAS K             496  
+17005483   2/11/2017    1915   45 WATERSTON RD                                                ALM/BURG   HELMS G                491  
+17005484   2/11/2017    1917   62 THURSTON RD #A                                              CHECK PE   LARSON R               501  
+17005485   2/11/2017    1924   PUTNAM ST & WASHINGTON ST                                      DMV        SPINNEY A              492  
+17005490   2/11/2017    1948   BEACON ST & LANGLEY RD                                         MV/STOP    CLAFLIN JR J           505  
+17005494   2/11/2017    2008   UNDERWOOD AVE                                                  ILL/PARK   SPINNEY A              492  
+17005495   2/11/2017    2014   31 BALDPATE HILL RD                                            ALM/BURG   DURICKAS K             496  
+17005496   2/11/2017    2017   439 WASHINGTON ST                                              B&E M/V    HELMS G                491  
+17005498   2/11/2017    2020   79 OSSIPEE RD                                                  V/C/ORD    POUTAS D               495  
+17005501   2/11/2017    2102   8 SYLVAN AVE                                                   POL INFO   HOWES C                WN   
+17005505   2/11/2017    2141   14 BONITA ST                                                   CHECK PE   SPINNEY A              492  
+17005507   2/11/2017    2216   11 JACOBS TER                                                  ALM/BURG   DURICKAS K             496  
+17005509   2/11/2017    2309   36 WASHBURN AVE                                                ALM/BURG   NARDELLI D             492  
+17005510   2/11/2017    2317   NEWTON ARTS CENTER / 61 WASHINGTON PK                          ALM/BURG   POUTAS D               491  
+17005511   2/11/2017    2332   57 NOBLE ST                                                    LOUD PAR   NARDELLI D             492  
+17005512   2/11/2017    2344   NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   POUTAS D               491  

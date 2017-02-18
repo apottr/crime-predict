@@ -1,0 +1,57 @@
+17000001   1/1/2017     9      1875 COMMONWEALTH AVE                                          FIREWORK   NARDELLI D             500  
+17000003   1/1/2017     25     NEWTON CEMETERY CORP/ADMIN BLD / 791 WALNUT ST                 SP/INCD    BERGDORF,J             495  
+17000004   1/1/2017     37     HART LANDSCAPING INC / 32 COLONIAL AVE                         CHECK PE   BOUDREAU C             491  
+17000005   1/1/2017     39     NEWTON POLICE DEPT / 1321 WASHINGTON ST                        HEADACHE   GIARDINA S             AMB2 
+17000006   1/1/2017     40     COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   EMMANUEL S             508  
+17000007   1/1/2017     52     OXFORD RD & PAUL ST                                            LOUD PAR   FEROLITO B             494  
+17000008   1/1/2017     121    139 PARK ST                                                    SICK-A     BOUDREAU C             MED2 
+17000009   1/1/2017     149    200 PARKER ST                                                  ALM/BURG   FEROLITO B             494  
+17000010   1/1/2017     152    81 MONTROSE ST                                                 SUSP PER   VALENTE D              491  
+17000012   1/1/2017     237    8 ALLSTON ST                                                   FARE EVA   NARDELLI D             492  
+17000013   1/1/2017     316    10 FERNWOOD RD                                                 BREATH P   NARDELLI D             MED2 
+17000014   1/1/2017     349    ELLIOT ST & PETTEE ST                                          CHECK PE   BERGDORF,J             495  
+17000016   1/1/2017     446    24 RICHARDSON ST                                               LOST/PER   BOUDREAU C             505  
+17000017   1/1/2017     500    COLD SPRINGS PARK / 1200 BEACON ST                             SP/INCD    GIARDINA S             493  
+17000018   1/1/2017     540    CAFE ST PETERSBURG / 57 UNION ST                               UNCONS/F   VALENTE D              MED1 
+17000019   1/1/2017     553    DERMOVSESIAN RESIDENCE / 231 TREMONT ST                        SP/INCD    BOUDREAU C             491  
+17000020   1/1/2017     606    DUNKIN DONUTS / 940 BOYLSTON ST                                ALM/BURG   BERGDORF,J             495  
+17000021   1/1/2017     636    BOX 5511/ CARE ONE                                             STRAIGHT   EMMANUEL S             498  
+17000022   1/1/2017     641    66 HALCYON RD                                                  CENT STA   SELIG, J               502  
+17000023   1/1/2017     854    89 NORWOOD AVE                                                 PSY/EVAL   COTTENS S              AMB1 
+17000024   1/1/2017     905    WOODLAND PARK APARTMENTS / 280 GROVE ST                        FALL/BAC   GIARDINA S             MED2 
+17000025   1/1/2017     935    43 HIGH ST                                                     CONV/SEI   RAYMOND Z              AMB1 
+17000027   1/1/2017     1018   220 CHAPEL ST                                                  VAND/PRP   COTTENS S              491  
+17000028   1/1/2017     1022   CABOT PARK VILLAGE / 280 NEWTONVILLE AVE                       BREATH P   IAROSSI M              AMB1 
+17000029   1/1/2017     1045   CENTRE ST & WALNUT ST                                          MVA        BOUDROT E              496  
+17000031   1/1/2017     1122   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FND/PERS   CALDERON D             495  
+17000033   1/1/2017     1142   15 SHARON AVE                                                  BREATH P   GIARDINA S             MED2 
+17000034   1/1/2017     1147   5 LINDBERGH AVE                                                SICK-D     IAROSSI M              MED1 
+17000036   1/1/2017     1220   32 FOREST AVE                                                  ALM/BURG   WALSH T                492  
+17000037   1/1/2017     1221   167 WAVERLEY AVE                                               CHEST PA   COTTENS S              AMB2 
+17000038   1/1/2017     1244   205 CYPRESS ST                                                 LF/PROP    RAYMOND Z              498  
+17000039   1/1/2017     1303   307 LEXINGTON ST                                               MV FIRE    WALSH T                508  
+17000040   1/1/2017     1309   NORTH CROSSING / 47 PARK ST                                    FND/PERS   COTTENS S              491  
+17000041   1/1/2017     1348   WEGMANS / 200 BOYLSTON ST                                      LF/PROP    BOUDROT E              496  
+17000042   1/1/2017     1434   36 BUSWELL PK                                                  LOST/PER   WALSH T                999  
+17000043   1/1/2017     1442   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        INVEST-G   IAROSSI M              999  
+17000044   1/1/2017     1454   157 ALLEN AVE                                                  CBN MONO   BERGDORF,J             495  
+17000045   1/1/2017     1509   176 RIVER ST                                                   POL-ASSI   SPINNEY A              492  
+17000047   1/1/2017     1529   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        SICK-D     VALENTE D              AMB2 
+17000048   1/1/2017     1532   HOLDEN RD & WALTHAM ST                                         UTIL/HAZ   TRAMONTOZZI B          497  
+17000049   1/1/2017     1554   CURTIS ST & WINCHESTER ST                                      MVA        BERGDORF,J             495  
+17000055   1/1/2017     1721   702 BOYLSTON ST                                                POL-ASSI   GUARINO C              496  
+17000058   1/1/2017     1741   BOYLSTON RD & CENTRE ST                                        MV/STOP    GUARINO C              496  
+17000059   1/1/2017     1744   63 JASSET ST                                                   ANIMAL R   BOUDREAU M             491  
+17000060   1/1/2017     1748   74 OAK HILL ST                                                 HEART PR   BERGDORF,J             AMB1 
+17000061   1/1/2017     1757   JCC CAMPUS PRE-SCHOOL / 333 NAHANTON ST                        MVA        EMMANUEL S             496  
+17000064   1/1/2017     1847   CVS / 1199 CENTRE ST                                           GAS ODOR   BERGDORF,J             495  
+17000065   1/1/2017     1904   WEGMANS / 200 BOYLSTON ST                                      PSY/EVAL   GUARINO C              AMB2 
+17000067   1/1/2017     1911   175 ADAMS ST #42                                               CHECK PE   BOUDREAU M             491  
+17000068   1/1/2017     1922   UNIQLO / 199 BOYLSTON ST                                       911 HANG   FEROLITO B             494  
+17000075   1/1/2017     2046   75 MAYNARD ST                                                  F.A. ACT   SPINNEY A              492  
+17000080   1/1/2017     2143   NWH HOSPITAL / 2014 WASHINGTON ST                              PSY/EVAL   EMMANUEL S             492  
+17000082   1/1/2017     2146   BEACON ST & HAMMOND POND PKWY                                  SICK/INJ   FEROLITO B             494  
+17000081   1/1/2017     2147   15 WILLISTON RD                                                ALM/BURG   SPINNEY A              492  
+17000084   1/1/2017     2228   305 CABOT ST #2                                                NEIG/PRB   BOUDREAU M             491  
+17000085   1/1/2017     2327   207 SUFFOLK RD                                                 SUSP PER   COLETTI A              494  
+17000088   1/1/2017     2359   HIGHLAND AVE & LOWELL AVE                                      MV/STOP    BROOKS J               492  

@@ -1,0 +1,52 @@
+17002542   1/21/2017    26     236 TREMONT ST                                                 CRUI/TRN   CALDERON D             496  
+17002543   1/21/2017    33     839 BOYLSTON ST                                                SUSP PER   FEROLITO B             494  
+17002545   1/21/2017    112    AVALON AT CHESTNUT HILL BLDG 2 / 160 BOYLSTON ST               SP/INCD    CALDERON D             496  
+17002546   1/21/2017    141    214 ADAMS ST #1                                                F.A. ACT   TRAMONTOZZI B          497  
+17002552   1/21/2017    745    NWH HOSPITAL / 2014 WASHINGTON ST                              CHECK PE   VELLO A                493  
+17002553   1/21/2017    759    NEWTON POLICE DEPT / 1321 WASHINGTON ST                        O/AGENCY   GARCIA J               WN   
+17002555   1/21/2017    838    BERWICK RD & LAKE AVE                                          CHECK PE   GABRIEL A              495  
+17002558   1/21/2017    901    95 ALBEMARLE RD                                                CARD/RES   LARSON R               MED1 
+17002562   1/21/2017    951    HIGHLAND AVE & WALNUT ST                                       LOCK OUT   COLELLA M              492  
+17002563   1/21/2017    956    RIVERSIDE MBTA / 355 GROVE ST                                  O/AGENCY   VELLO A                493  
+17002564   1/21/2017    958    CORNELL ST                                                     VAND/PRP   PAGLIA ROBT            500  
+17002569   1/21/2017    1036   76 CRESCENT ST                                                 CHECK PE   GABRIEL A              495  
+17002568   1/21/2017    1039   52 PRESCOTT ST                                                 SICK-D     COLELLA M              MED2 
+17002573   1/21/2017    1051   BROOKLINE ST & HARTMAN RD                                      DPW        SETIABUDI G            496  
+17002572   1/21/2017    1054   76 CRESCENT ST                                                 CHECK PE   MANOUK K               492  
+17002577   1/21/2017    1111   NEWTON CENTRE MUNICIPAL LOT / 797 BEACON ST                    MVA/PAST   GARCIA J               WN   
+17002580   1/21/2017    1211   LONGWOOD CRICKET CLUB / 564 HAMMOND ST                         ALM/BURG   BENES R                494  
+17002581   1/21/2017    1214   204 FOREST AVE                                                 ALM/BURG   MANOUK K               492  
+17002582   1/21/2017    1216   BRAVO BRIO RESTAURANT GROUP / 200 BOYLSTON ST                  911 HANG   SETIABUDI G            496  
+17002583   1/21/2017    1230   BANK OF AMERICA / 808 BEACON ST                                ALM/BANK   BENES R                494  
+17002584   1/21/2017    1239   EDEN AVE                                                       PUB/HAZ    MANOUK K               492  
+17002585   1/21/2017    1244   74 CLEARWATER RD                                               ILL/PARK   VELLO A                493  
+17002587   1/21/2017    1249   BEACON ST & HOBART RD                                          SIGN/SIG   BENES R                494  
+17002588   1/21/2017    1300   330 HARTMAN RD                                                 ALM/BURG   SETIABUDI G            496  
+17002590   1/21/2017    1344   WATERTOWN POLICE DEPT. / 552 MAIN ST                           O/AGENCY   GARCIA J               WN   
+17002591   1/21/2017    1346   16 VOSS TER                                                    INVEST-G   GARCIA J               WN   
+17002594   1/21/2017    1406   COUNTRYSIDE SCHOOL / 191 DEDHAM ST                             A&B/DW     MCCARTHY T             999  
+17002596   1/21/2017    1428   NEWTON HIGHLANDS PLAYGROUND / 0 DEDHAM ST                      CHECK PE   SETIABUDI G            496  
+17002597   1/21/2017    1431   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   GABRIEL A              495  
+17002598   1/21/2017    1452   9 CUMMINGS RD                                                  CHECK PE   CLAFLIN G              498  
+17002599   1/21/2017    1500   T J MAXX / 260 NEEDHAM ST                                      LARCENY    MCCARTHY T             999  
+17002600   1/21/2017    1502   PADDY'S PUB / 95 ELM ST                                        SICK-C     MANOUK K               MED2 
+17002602   1/21/2017    1513   115 ALBERT RD                                                  MVA        TRAMONTOZZI B          497  
+17002604   1/21/2017    1552   BRAELAND AVE & HERRICK RD                                      MVA        FEROLITO B             494  
+17002606   1/21/2017    1601   BEACON ST & CRESCENT AVE                                       MVA        BERGDORF,J             495  
+17002609   1/21/2017    1632   NEWTON CENTRE POST OFFICE / 716 BEACON ST                      UTIL/HAZ   FEROLITO B             494  
+17002612   1/21/2017    1653   378 CHERRY ST                                                  SP/INCD    CHIEU R                492  
+17002611   1/21/2017    1655   72 PLAINFIELD ST                                               F.A. ACT   BERGDORF,J             495  
+17002613   1/21/2017    1655   CALIFORNIA ST                                                  O/AGENCY   BOUDREAU M             497  
+17002614   1/21/2017    1701   34 HEREWARD RD                                                 F.A. ACT   FEROLITO B             494  
+17002616   1/21/2017    1704   171 PEARL ST                                                   INVEST-G   TRAMONTOZZI B          491  
+17002619   1/21/2017    1717   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   CALDERON D             496  
+17002624   1/21/2017    1813   23 KENILWORTH ST                                               FRAUD      HOWES C                WN   
+17002628   1/21/2017    1841   NEWTONVILLE COMMUTER RAIL STA / 276 WALNUT ST                  OVERDOSE   TRAMONTOZZI B          MED2 
+17002629   1/21/2017    1845   46 MILO ST                                                     ANIMAL P   TORRES R               538  
+17002630   1/21/2017    1851   195 CARLTON RD                                                 SP/INCD    SELIG, J               498  
+17002634   1/21/2017    1923   151 DAY ST                                                     INVEST-G   CHIEU R                999  
+17002635   1/21/2017    2052   CRYSTAL ST & LAKE AVE                                          V/C/ORD    BERGDORF,J             495  
+17002637   1/21/2017    2211   690 WATERTOWN ST #C                                            CHEST PA   WALSH T                MED2 
+17002638   1/21/2017    2240   82 MADISON AVE                                                 DK         BOUDREAU M             MED1 
+17002642   1/21/2017    2306   55 ALGONQUIN RD                                                LOUD PAR   FEROLITO B             494  
+17002644   1/21/2017    2326   105 FARWELL ST                                                 SUSP PER   CICCONE, A             497  

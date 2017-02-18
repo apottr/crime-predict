@@ -1,0 +1,58 @@
+17002026   1/17/2017    7      38 HAMLET ST                                                   B&E PAST   KEEFE T                494  
+17002028   1/17/2017    13     15 BULLOUGH PK                                                 UNKN PRO   VALENTE D              MED2 
+17002032   1/17/2017    48     WALNUT ST & WASHINGTON ST                                      MV/STOP    KANE A                 492  
+17002043   1/17/2017    224    38 HAMLET ST                                                   CHECK PE   KEEFE T                494  
+17002045   1/17/2017    237    WALTHAM POLICE DEPT. / 155 LEXINGTON ST                        O/AGENCY   KANE A                 492  
+17002046   1/17/2017    316    30 SPAULDING LA                                                ABDOMINA   NARDELLI D             MED1 
+17002048   1/17/2017    400    WATERTOWN POLICE DEPT. / 552 MAIN ST                           O/AGENCY   KANE A                 492  
+17002050   1/17/2017    415    STONE INSTITUTE / 277 ELLIOT ST #168                           CARD/RES   SIEGAL D               MED1 
+17002052   1/17/2017    633    LINSKY AND LIEBERMAN LAW OFFIC / 1383 WASHINGTON ST            ALM/BURG   KANE A                 492  
+17002053   1/17/2017    643    STAR MARKET / 1 BOYLSTON ST                                    ALM/BURG   KEEFE T                494  
+17002054   1/17/2017    644    BOSTON COSMETIC CENTER / 575 BOYLSTON ST                       ALM/BURG   VALENTE D              499  
+17002056   1/17/2017    702    2011 BEACON ST                                                 UTIL/HAZ   GOURDEAU J             493  
+17002057   1/17/2017    713    5 SHELDON RD                                                   BREATH P   NARDELLI D             AMB1 
+17002058   1/17/2017    719    23 CHAMPA ST                                                   UNCONS/F   COTTENS S              MED2 
+17002059   1/17/2017    748    NWH HOSPITAL / 2014 WASHINGTON ST                              MV/VIOL    GOURDEAU J             493  
+17002063   1/17/2017    826    NWH HOSPITAL / 2014 WASHINGTON ST                              STRUCT F   GOURDEAU J             MED2 
+17002066   1/17/2017    931    293 ALBEMARLE RD                                               ALM/BURG   WALSH T                492  
+17002068   1/17/2017    955    770 DEDHAM ST                                                  WARR/SER   ROONEY M               496  
+17002069   1/17/2017    1002   WABAN POST OFFICE / 83 WYMAN ST                                ILL/PARK   GOURDEAU J             493  
+17002071   1/17/2017    1019   CARE ONE / 2101 WASHINGTON ST #243                             CHECK PE   RAYMOND Z              492  
+17002072   1/17/2017    1032   39 DEVONSHIRE RD                                               ALM/BURG   COTTENS S              495  
+17002073   1/17/2017    1039   WALGREENS / 22 LANGLEY RD                                      911 HANG   BENES R                494  
+17002074   1/17/2017    1101   1285 BEACON ST                                                 ALM/BURG   COTTENS S              495  
+17002075   1/17/2017    1103   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     911 HANG   BOUDROT E              496  
+17002076   1/17/2017    1109   111 TREMONT ST                                                 MVA / MI   SETIABUDI G            AMB1 
+17002077   1/17/2017    1109   DAY MIDDLE SCHOOL / 21 MINOT PL                                911 HANG   WALSH T                492  
+17002078   1/17/2017    1123   16 MARSHALL ST                                                 ALM/BURG   BENES R                494  
+17002080   1/17/2017    1132   19 JUDITH RD                                                   ALM/BURG   CLAFLIN G              498  
+17002082   1/17/2017    1143   WEGMANS / 200 BOYLSTON ST                                      LAR/SHOP   BOUDROT E              496  
+17002083   1/17/2017    1146   57 EDGEFIELD RD                                                ALM/BURG   GOURDEAU J             493  
+17002089   1/17/2017    1323   2004 BEACON ST                                                 UTIL/HAZ   GOURDEAU J             493  
+17002090   1/17/2017    1325   BROWN MIDDLE SCHOOL / 125 MEADOWBROOK RD                       THREATS    UMINA S                999  
+17002095   1/17/2017    1346   19 JOSSELYN PL                                                 LF/PROP    COTTENS S              495  
+17002096   1/17/2017    1349   167 LAKE AVE                                                   O/AGENCY   CLAFLIN G              498  
+17002097   1/17/2017    1401   110 GLEN AVE                                                   CBN MONO   BENES R                494  
+17002100   1/17/2017    1411   325 HIGHLAND AVE                                               STRUCT F   WALSH T                MED2 
+17002101   1/17/2017    1426   CVS / 999 WATERTOWN ST                                         911 HANG   IAROSSI M              497  
+17002105   1/17/2017    1538   CRYSTAL LAKE / 44 ROGERS ST                                    CRYSTAL    WALTON T               495  
+17002107   1/17/2017    1550   65 MANET RD                                                    LARCENY    POHLMAN, K             WN   
+17002109   1/17/2017    1556   11 HANSON RD                                                   SP/INCD    CALDERON D             496  
+17002111   1/17/2017    1609   CALIFORNIA ST                                                  CHECK PE   HENRICKSON A           505  
+17002112   1/17/2017    1620   440 CALIFORNIA ST                                              CT/ORD     LARSON R               497  
+17002117   1/17/2017    1633   AUSTIN ST & WALNUT ST                                          MV/STOP    LARSON R               497  
+17002124   1/17/2017    1709   33 COURT ST                                                    911 HANG   SPINNEY A              491  
+17002125   1/17/2017    1718   131 CHARLESBANK RD #A                                          LARCENY    POHLMAN, K             WN   
+17002128   1/17/2017    1727   ELLIOT ST & OAK ST                                             CHECK PE   WALTON T               495  
+17002131   1/17/2017    1752   FARM GRILL ROTISSERIA, INC / 40 NEEDHAM ST                     CHECK PE   CALDERON D             496  
+17002132   1/17/2017    1756   CARE ONE / 2101 WASHINGTON ST #242                             POL-ASSI   CHIEU R                493  
+17002134   1/17/2017    1806   WALTHAM POLICE DEPT. / 155 LEXINGTON ST                        O/AGENCY   DUFFEY K               999  
+17002137   1/17/2017    1842   17 DREW RD                                                     UNWANTED   CALDERON D             496  
+17002139   1/17/2017    1914   38 HARGRAVE CIR                                                KEEP/PCE   WALTON T               495  
+17002140   1/17/2017    1923   BEACON ST & WALNUT ST                                          MV/STOP    MARCH R                498  
+17002143   1/17/2017    1943   43 HOBART RD                                                   CHECK PE   KEEFE T                494  
+17002145   1/17/2017    1956   16 HARGRAVE CIR #A                                             CHECK PE   WALTON T               495  
+17002146   1/17/2017    2003   43 HOBART RD                                                   CHECK PE   KEEFE T                AMB2 
+17002147   1/17/2017    2042   BEACON ST & WALNUT ST                                          MVA / MI   WALTON T               AMB2 
+17002152   1/17/2017    2200   WHOLE FOODS MARKET / 647 WASHINGTON ST                         CHECK PE   SPINNEY A              491  
+17002154   1/17/2017    2338   18 ALDEN PL                                                    OVERDOSE   CONLEY B               AMB2 

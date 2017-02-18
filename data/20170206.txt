@@ -1,0 +1,36 @@
+17004466   2/5/2017     40     38 NORTH GATE PK                                               CHECK PE   BANNON T               497  
+17004468   2/5/2017     108    BEACON ST & LANGLEY RD                                         LOST/PER   POUTAS D               495  
+17004471   2/5/2017     153    CVS / 189 WATERTOWN ST                                         ALM/BURG   HOWES C                491  
+17004475   2/5/2017     238    282 COMMONWEALTH AVE                                           ANIMAL R   MCLEAN M               494  
+17004479   2/5/2017     304    CVS / 189 WATERTOWN ST                                         ALM/BURG   HOWES C                491  
+17004483   2/5/2017     433    46 OBER RD                                                     SP/INCD    SOLOMAN A              496  
+17004485   2/5/2017     519    73 FALMOUTH RD                                                 CBN MONO   BANNON T               497  
+17004486   2/5/2017     554    25 COTTON ST                                                   ALM/BURG   MCLEAN M               494  
+17004489   2/5/2017     756    16 CHURCHILL TER                                               CBN MONO   MCSWEENEY M            491  
+17004491   2/5/2017     824    LEARNING PREP / 1522 WASHINGTON ST                             CENT STA   WALSH T                492  
+17004494   2/5/2017     913    14 EXMOOR RD                                                   CENT STA   PAGLIA ROBT            494  
+17004496   2/5/2017     929    7 HEREWARD RD                                                  INVEST-G   PAGLIA ROBT            494  
+17004504   2/5/2017     1121   169 OLIVER RD                                                  MVA        GABRIEL A              495  
+17004506   2/5/2017     1134   ST IGNATIUS RECTORY / 28 COMMONWEALTH AVE                      UNWANTED   WADE M                 499  
+17004510   2/5/2017     1153   NOBLE ST & WASHINGTON AVE                                      FORESTRY   WALSH T                492  
+17004512   2/5/2017     1201   34 FLORAL ST                                                   ALM/BURG   GABRIEL A              495  
+17004513   2/5/2017     1206   18 COCHITUATE RD                                               CBN MONO   GABRIEL A              495  
+17004516   2/5/2017     1243   23 EDDY ST                                                     ALM/BURG   WALSH T                492  
+17004517   2/5/2017     1249   51 PARSONS ST                                                  ILL/PARK   WALSH T                492  
+17004519   2/5/2017     1307   LINSKY AND LIEBERMAN LAW OFFIC / 1383 WASHINGTON ST            ALM/BURG   WALSH T                492  
+17004522   2/5/2017     1321   82 LINCOLN ST #302                                             LOCK OUT   GABRIEL A              495  
+17004521   2/5/2017     1321   LANGLEY RD & LANGLEY PATH                                      MV/VIOL    PAGLIA ROBT            494  
+17004526   2/5/2017     1422   MAIN LIBRARY / 330 HOMER ST                                    ILL/PARK   GABRIEL A              495  
+17004529   2/5/2017     1442   73 LEWIS ST                                                    POL-ASSI   MCSWEENEY M            491  
+17004528   2/5/2017     1442   186 CHERRY ST                                                  OUTSIDE    BANNON T               492  
+17004530   2/5/2017     1446   HIGHLAND ST & WASHINGTON ST                                    DMV        GOURDEAU J             493  
+17004532   2/5/2017     1519   23 PERKINS ST                                                  ALM/BURG   HAMANN,T               493  
+17004534   2/5/2017     1538   BETH ISRAEL DEACONESS HEALTH C / 200 BOYLSTON ST #4TH FLOOR    SP/INCD    CONLEY B               496  
+17004539   2/5/2017     1638   MARSHALL'S MALL / 241 NEEDHAM ST                               ROAD RAG   SELIG, J               495  
+17004546   2/5/2017     1815   584 QUINOBEQUIN RD                                             O/AGENCY   HAMANN,T               493  
+17004545   2/5/2017     1820   95 MADISON AVE                                                 ILL/PARK   GUARINO C              491  
+17004547   2/5/2017     1845   BOX 44293/ 85 SEMINARY AVE                                     STRAIGHT   BOYLE P                500  
+17004549   2/5/2017     1937   413 WOLCOTT ST                                                 ALM/BURG   BANNON T               492  
+17004551   2/5/2017     2020   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   SOLOMAN A              496  
+17004555   2/5/2017     2142   TREMONT ST & WAVERLEY AVE                                      MV/VIOL    GUARINO C              491  
+17004558   2/5/2017     2327   73 LEWIS ST                                                    POL-ASSI   HAMANN,T               491  

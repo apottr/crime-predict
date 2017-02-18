@@ -1,0 +1,47 @@
+17004565   2/6/2017     43     136 BEACON ST                                                  THRT/WEP   CICCONE, A             494  
+17004572   2/6/2017     249    99 KIRKSTALL RD                                                ALM/BURG   CICCONE, A             494  
+17004573   2/6/2017     257    NEWTON NORTH BLDG #1 / 457 WALNUT ST                           ALM/BURG   NARDELLI D             492  
+17004574   2/6/2017     306    BOX 88149/ 55 BOYLSTON ST                                      SPRKLR S   CICCONE, A             494  
+17004575   2/6/2017     401    UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   CICCONE, A             494  
+17004579   2/6/2017     541    BAZA GOURMET FOODS AND SPIRITS / 30 TOWER RD                   ALM/BURG   CONLEY B               499  
+17004580   2/6/2017     542    120 DORSET RD                                                  SUSP PER   GIARDINA S             493  
+17004583   2/6/2017     718    BOYLSTON ST & CHESTNUT ST                                      UTIL/HAZ   WADE M                 499  
+17004584   2/6/2017     721    CHESTNUT ST & WOODWARD ST                                      MVA        GABRIEL A              495  
+17004587   2/6/2017     725    OFFICE BUILDING / 2 WELLS AVE                                  B&E PAST   SCALTRETO F            496  
+17004589   2/6/2017     736    31 BROOKS AVE                                                  UTIL/HAZ   GOURDEAU J             497  
+17004590   2/6/2017     738    BERTUCCIS / 275 CENTRE ST                                      ALM/BURG   MCSWEENEY M            491  
+17004594   2/6/2017     858    19 ROCKLAND PL                                                 RD/OBST    GABRIEL A              495  
+17004598   2/6/2017     934    129 NORTH ST                                                   WARR/SER   SAMPSON R              1314 
+17004599   2/6/2017     953    140 GIBBS ST                                                   MVA        PAGLIA ROBT            494  
+17004606   2/6/2017     1050   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           INVEST-G   PANICA J               1305 
+17004607   2/6/2017     1052   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           INVEST-G   PANICA J               1305 
+17004610   2/6/2017     1103   GROVE ST                                                       UNLEASHE   PAGLIA RICH            493  
+17004611   2/6/2017     1120   20 MAGNOLIA AVE                                                IDENTITY   MCCARTHY T             999  
+17004613   2/6/2017     1121   175 WATERTOWN ST                                               DIRECTED   GOURDEAU J             497  
+17004616   2/6/2017     1135   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     INVEST-G   ADAM R                 999  
+17004621   2/6/2017     1227   143 WOODCLIFF RD                                               LARCENY    SCALTRETO F            496  
+17004623   2/6/2017     1253   PLAINFIELD ST & UPLAND RD                                      LF/PROP    RAYMOND Z              498  
+17004625   2/6/2017     1307   157 DUDLEY RD                                                  ALM/BURG   SCALTRETO F            496  
+17004626   2/6/2017     1322   LAW OFFICE OF WILLIAM J BRISK / 1340 CENTRE ST                 MVA        PAGLIA ROBT            494  
+17004627   2/6/2017     1324   215 WAVERLEY AVE                                               CHECK PE   MCSWEENEY M            491  
+17004628   2/6/2017     1336   CENTRE ST & COMMONWEALTH AVE                                   MV/VIOL    WADE M                 499  
+17004629   2/6/2017     1404   279 COMMONWEALTH AVE                                           ALM/BURG   WADE M                 494  
+17004631   2/6/2017     1417   FRANKLIN ST & PARK ST                                          UTIL/HAZ   MCSWEENEY M            491  
+17004633   2/6/2017     1438   THE VILLAGE BANK / 56 WINCHESTER ST                            DIRECTED   GUARINO C              496  
+17004635   2/6/2017     1531   150 HARTMAN RD                                                 SP/INCD    GUARINO C              496  
+17004636   2/6/2017     1539   68 MAPLEWOOD AVE                                               ALM/BURG   WILSON J               499  
+17004648   2/6/2017     1620   16 HENSHAW TER                                                 ILL/PARK   CICCONE, A             492  
+17004647   2/6/2017     1622   NORTH CROSSING / 47 PARK ST                                    LOST/PER   NARDELLI D             502  
+17004649   2/6/2017     1624   69 CROSS HILL RD                                               CENT STA   WILSON J               496  
+17004652   2/6/2017     1652   12 INDIAN RIDGE RD                                             A&B PAST   KANE A                 WN   
+17004653   2/6/2017     1702   CHEESECAKE FACTORY (THE) / 199 BOYLSTON ST                     LARCENY    FEROLITO B             494  
+17004654   2/6/2017     1704   NORTH CROSSING / 47 PARK ST                                    LOST/PER   TRAMONTOZZI B          497  
+17004663   2/6/2017     1803   NORTH CROSSING / 47 PARK ST                                    LOST/PER   TRAMONTOZZI B          999  
+17004664   2/6/2017     1825   JUDITHS KITCHEN / 1371 WASHINGTON ST                           UNWANTED   CICCONE, A             492  
+17004668   2/6/2017     1918   55 NORWOOD AVE #A                                              MVA/H&R    BERGDORF,J             495  
+17004669   2/6/2017     1925   500 DUDLEY RD                                                  ALM/BURG   GUARINO C              496  
+17004673   2/6/2017     1956   DUNKIN DONUTS / 345 WASHINGTON ST                              CT/ORD     BOYLE P                500  
+17004675   2/6/2017     2009   SEASONS 52 / 220 BOYLSTON ST                                   ALM/BURG   EMMANUEL S             496  
+17004676   2/6/2017     2028   77 WILDWOOD AVE                                                CT/ORD     BOYLE P                500  
+17004681   2/6/2017     2113   ARS RESTORATION SPECIALISTS IN / 38 CRAFTS ST                  ALM/BURG   TRAMONTOZZI B          491  
+17004687   2/6/2017     2314   NORTH CROSSING / 47 PARK ST                                    FND/PERS   CROWE, J               491  

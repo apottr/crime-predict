@@ -1,0 +1,44 @@
+17003948   2/1/2017     357    152 UPLAND RD                                                  911 HANG   MCNEIL R               495  
+17003950   2/1/2017     623    78 BEACON ST                                                   INVEST-G   COLETTI A              494  
+17003951   2/1/2017     709    DELLARIA SALON / 1148 CENTRE ST                                SP/INCD    BOUDREAU C             499  
+17003952   2/1/2017     800    FRANCINE ZASLOW PHOTOGRAPHY  / 320 NEVADA ST #202              ALM/BURG   MCSWEENEY M            491  
+17003953   2/1/2017     806    AVALON AT NEWTON HIGHLANDS / 99 NEEDHAM ST                     ALM/BURG   GABRIEL A              495  
+17003955   2/1/2017     821    LUMIERE / 1293 WASHINGTON ST                                   MVA        COLELLA M              497  
+17003958   2/1/2017     843    WALNUT PL & WALNUT ST                                          MVA/CITY   DEVINE D               504  
+17003962   2/1/2017     922    FABU SALON & SPA BY ROBERT DIC / 26 ELLIOT ST                  MVA        CLAFLIN G              498  
+17003968   2/1/2017     1004   BACON ST & WASHINGTON                                          MVA        MCSWEENEY M            491  
+17003969   2/1/2017     1022   897 CHESTNUT ST                                                FRAUD      GARCIA J               493  
+17003973   2/1/2017     1039   BOX 25211/ DAY MIDDLE SCHOOL                                   STRAIGHT   MANOUK K               492  
+17003976   2/1/2017     1058   181 UPLAND RD                                                  F.A. ACT   BENES R                494  
+17003986   2/1/2017     1127   290 CYPRESS ST                                                 ILL/PARK   BENES R                494  
+17003985   2/1/2017     1128   CITY HALL / 1000 COMMONWEALTH AVE                              911 HANG   CLAFLIN G              498  
+17003989   2/1/2017     1135   74 ATHELSTANE RD                                               ALM/BURG   BENES R                494  
+17003990   2/1/2017     1136   1087 BEACON CONDO TRUST / 1087 BEACON ST                       MVA        GABRIEL A              495  
+17003992   2/1/2017     1216   695 BEACON ST                                                  DMV        BENES R                494  
+17003995   2/1/2017     1235   152 UPLAND RD                                                  SP/INCD    CLAFLIN G              498  
+17004000   2/1/2017     1350   191 CHAPEL ST                                                  SUSP PER   MCSWEENEY M            491  
+17004005   2/1/2017     1430   21 DANA RD                                                     B&E/PROG   COLELLA M              491  
+17004010   2/1/2017     1509   24 LORING ST                                                   ALM/BURG   WADE M                 499  
+17004011   2/1/2017     1536   UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   BOUDREAU C             494  
+17004012   2/1/2017     1554   ANTHONY'S COAL FIRED PIZZA / 180 NEEDHAM ST                    MVA        MCNEIL R               495  
+17004017   2/1/2017     1639   VAINI & CLARKE SALON / 15 CYPRESS ST                           LARCENY    LARSON R               501  
+17004018   2/1/2017     1650   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           INVEST-G   PANICA J               998  
+17004019   2/1/2017     1710   200 BOYLSTON ST                                                DMV        BANNON T               496  
+17004020   2/1/2017     1712   WOODMERE COMMONS / 412 PARKER ST #O                            F.A. ACT   LARSON R               501  
+17004025   2/1/2017     1741   ALBEMARLE RD                                                   MV/STOP    BROOKS J               492  
+17004028   2/1/2017     1757   CHESTNUT ST & OAK ST                                           MV/STOP    LARSON R               501  
+17004032   2/1/2017     1802   BEACON ST & CENTRE ST                                          MV/STOP    CLAFLIN JR J           505  
+17004033   2/1/2017     1804   FIRST  COMMON BANK / 718 BEACON ST                             ALM/BANK   BOUDREAU C             494  
+17004034   2/1/2017     1813   COTTAGE CT APARTMENT BUILDING / 12 COTTAGE CT                  GROUP      CROWE, J               491  
+17004036   2/1/2017     1816   NORTH CROSSING / 47 PARK ST                                    LOST/PER   CROWE, J               491  
+17004038   2/1/2017     1829   174 AUBURN ST                                                  MVA        BROOKS J               492  
+17004039   2/1/2017     1924   21 WALNUT PL                                                   UNWANTED   BANNON T               496  
+17004040   2/1/2017     1925   HARMON LAW / 150 CALIFORNIA ST                                 O/AGENCY   BOYLE P                491  
+17004041   2/1/2017     1931   NAHANTON ST & WELLS AVE                                        SICK/INJ   BANNON T               496  
+17004043   2/1/2017     2008   398 WOODWARD ST                                                CENT STA   POUTAS D               493  
+17004044   2/1/2017     2021   FRANCESCA'S COLLECTION / 210 BOYLSTON ST                       ALM/BURG   BANNON T               496  
+17004045   2/1/2017     2059   149 NORTH ST (NV)                                              MVA        CROWE, J               491  
+17004047   2/1/2017     2107   27 DEBORAH RD                                                  SP/INCD    BANNON T               496  
+17004050   2/1/2017     2216   CENTRE AVE & WASHINGTON ST                                     DMV        CROWE, J               491  
+17004051   2/1/2017     2228   ADELLA AVE & WATERTOWN ST                                      MV/STOP    BROOKS J               492  
+17004052   2/1/2017     2315   CHURCH ST & ELDREDGE ST                                        BARKING    BOUDREAU M             491  

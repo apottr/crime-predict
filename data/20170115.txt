@@ -1,0 +1,52 @@
+17001719   1/14/2017    48     26 PARK ST                                                     DMV        MCSWEENEY M            491  
+17001721   1/14/2017    101    CITIZENS BANK / 300 WASHINGTON ST                              WARR/SER   MCSWEENEY M            507  
+17001728   1/14/2017    426    TEMPLE BETH AVODAH / 45 PUDDING STONE LA                       ALM/BURG   BANNON T               496  
+17001730   1/14/2017    530    127 CHARLEMONT ST                                              ALM/BURG   BANNON T               496  
+17001731   1/14/2017    631    28 LONGMEADOW RD                                               UNKN ODO   BANNON T               496  
+17001734   1/14/2017    755    TEMPLE BETH AVODAH / 45 PUDDING STONE LA                       ALM/BURG   SETIABUDI G            496  
+17001736   1/14/2017    756    88 VINE ST                                                     ALM/BURG   SETIABUDI G            496  
+17001739   1/14/2017    906    MARATHON PHYSICAL THERAPY / 425 CENTRE ST                      MVA        PAGLIA RICH            491  
+17001741   1/14/2017    930    228 GROVE ST                                                   LOCK OUT   VELLO A                493  
+17001742   1/14/2017    955    12 GARRISON ST                                                 ALM/BURG   BENES R                494  
+17001743   1/14/2017    1037   84 WEST PINE ST                                                LARCENY    MCCARTHY T             998  
+17001744   1/14/2017    1039   160 TRUMAN RD                                                  DPW        SETIABUDI G            496  
+17001745   1/14/2017    1052   91 MADISON AVE                                                 ILL/PARK   COLELLA M              497  
+17001746   1/14/2017    1106   237 MILL ST                                                    FALL/BAC   BENES R                AMB1 
+17001750   1/14/2017    1136   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   HAMANN,T               495  
+17001753   1/14/2017    1156   116 CHESTNUT HILL RD                                           ALM/BURG   BENES R                494  
+17001755   1/14/2017    1204   26 MECHANIC ST                                                 STRUCT F   CLAFLIN G              MED1 
+17001757   1/14/2017    1221   12 WABAN ST                                                    POL-ASSI   COLELLA M              497  
+17001758   1/14/2017    1231   143 UPLAND RD                                                  KEEP/PCE   CLAFLIN G              496  
+17001761   1/14/2017    1252   NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   CHISHOLM G             491  
+17001762   1/14/2017    1301   CVS / 189 WATERTOWN ST                                         MVA        PAGLIA RICH            491  
+17001764   1/14/2017    1412   BOX 88141/ 55 BOYLSTON ST                                      STRAIGHT   BENES R                494  
+17001768   1/14/2017    1427   FARWELL ST & NORTH ST                                          UTIL/HAZ   PAGLIA RICH            491  
+17001769   1/14/2017    1444   7 WADE ST                                                      CHEST PA   SETIABUDI G            AMB1 
+17001770   1/14/2017    1446   303 CRAFTS ST                                                  FRAUD      PAGLIA RICH            491  
+17001771   1/14/2017    1457   160 DARTMOUTH ST                                               ALM/BURG   VELLO A                493  
+17001772   1/14/2017    1507   LEXINGTON STREET APARTMENTS / 163 LEXINGTON ST #23             MVA/PAST   MANOUK K               492  
+17001773   1/14/2017    1524   16 ASHTON AVE                                                  SICK-D     MCNEIL R               AMB1 
+17001774   1/14/2017    1543   RASHI SCHOOL / 15 WALNUT PK                                    ALM/BURG   TRAMONTOZZI B          491  
+17001776   1/14/2017    1558   56 VALENTINE ST                                                ALM/BURG   HEALY D                497  
+17001779   1/14/2017    1610   24 WEST ST                                                     MVA / MI   TRAMONTOZZI B          AMB1 
+17001781   1/14/2017    1621   NORTH CROSSING / 47 PARK ST                                    LOST/PER   LARSON R               502  
+17001782   1/14/2017    1641   RIVERVIEW AVE & WABASSO ST                                     DK         MIKOLEIT L             MED2 
+17001785   1/14/2017    1657   18 STUART RD                                                   911 HANG   COLETTI A              494  
+17001786   1/14/2017    1707   221 MT VERNON ST                                               OVERDOSE   BANNON T               MED1 
+17001787   1/14/2017    1709   ADAMAS FINE JEWLERY / 23 LINCOLN ST                            ALM/BURG   MCNEIL R               495  
+17001790   1/14/2017    1720   MARTYS / 675 WASHINGTON ST                                     MVA/PAST   LARSON R               500  
+17001791   1/14/2017    1746   EVANS PARK / 430 CENTRE ST #224                                BREATH P   FERGUSON A             AMB2 
+17001792   1/14/2017    1748   EVANS PARK / 430 CENTRE ST #226                                UNCONS/F   HEALY D                MED1 
+17001793   1/14/2017    1752   GALEN ST                                                       MV/STOP    MCSWEENEY M            502  
+17001795   1/14/2017    1846   CHARLES ST                                                     ILL/PARK   MIKOLEIT L             493  
+17001797   1/14/2017    2000   329 PARKER ST                                                  OUTSIDE    CICCONE, A             496  
+17001799   1/14/2017    2038   134 CHESTNUT HILL RD                                           ALM/BURG   COLETTI A              494  
+17001800   1/14/2017    2041   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FND/PERS   MCNEIL R               495  
+17001802   1/14/2017    2053   109 COMMONWEALTH AVE                                           MVA/PAST   COLETTI A              494  
+17001804   1/14/2017    2152   ADAMS ST & SILVER LAKE AVE                                     MV/STOP    LARSON R               500  
+17001805   1/14/2017    2204   1653 WASHINGTON ST                                             MVA        HEALY D                497  
+17001807   1/14/2017    2235   410 LEXINGTON ST                                               ALM/BURG   LARSON R               500  
+17001808   1/14/2017    2245   WARREN HOUSE / 1600 WASHINGTON ST                              INVEST-G   POUTAS D               WN   
+17001809   1/14/2017    2255   BOWEN SCHOOL / 280 CYPRESS ST                                  L/NOISE    COLETTI A              494  
+17001810   1/14/2017    2316   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   CALDERON D             496  
+17001811   1/14/2017    2335   GOLDEN LIVING CENTER / 25 ARMORY ST #203                       BREATH P   POHLMAN, K             AMB2 

@@ -1,0 +1,64 @@
+17001007   1/9/2017     34     AVALON AT NEWTON HIGHLANDS 99A / 99 NEEDHAM ST                 ALM/BURG   SIEGAL D               495  
+17001009   1/9/2017     54     GOLDEN LIVING CENTERS / 188 FLORENCE ST #308                   CHECK PE   CALDERON D             MED1 
+17001010   1/9/2017     112    MICK MORGANS / 118 NEEDHAM ST                                  DK         BERGDORF,J             496  
+17001014   1/9/2017     146    NEEDHAM / 99 SCHOOL ST                                         O/AGENCY   FERGUSON A             WN   
+17001018   1/9/2017     227    WALTHAM POLICE DEPT. / 155 LEXINGTON ST                        O/AGENCY   CALDERON D             496  
+17001022   1/9/2017     441    INTERMIX / 33 BOYLSTON ST #3300                                ALM/BURG   COLETTI A              494  
+17001023   1/9/2017     459    CARE ONE / 2101 WASHINGTON ST #229                             CARD/RES   CHIEU R                MED2 
+17001025   1/9/2017     518    847 WASHINGTON ST #2                                           FA ACTV/   BROOKS J               492  
+17001027   1/9/2017     704    82 PAULSON RD                                                  MVA/PED    WADE M                 AMB1 
+17001028   1/9/2017     726    15 ALLEN AVE                                                   WATER PR   SCALTRETO F            496  
+17001029   1/9/2017     740    SPEEDWAY GAS / 2370 COMMONWEALTH AVE                           MVA        PAGLIA RICH            498  
+17001030   1/9/2017     747    47 SARGENT ST #R                                               911 HANG   SETIABUDI G            495  
+17001031   1/9/2017     748    89 PARK AVE                                                    STRUCT F   COLELLA M              MED1 
+17001035   1/9/2017     812    1744 WASHINGTON ST                                             A&B        CLAFLIN G              MED2 
+17001037   1/9/2017     822    WALNUT ST & WASHINGTON ST                                      SIGN/SIG   COLELLA M              497  
+17001039   1/9/2017     903    BOYLSTON ST & ELLIOT ST                                        CHECK PE   SETIABUDI G            495  
+17001040   1/9/2017     926    20 DRUMLIN RD                                                  CONV/SEI   SETIABUDI G            AMB1 
+17001041   1/9/2017     947    NEWTON POLICE DEPT / 1321 WASHINGTON ST                        FALL/BAC   LARSON R               AMB1 
+17001043   1/9/2017     958    970 CENTRE ST                                                  MVA / MI   BENES R                494  
+17001045   1/9/2017     1024   WINCHESTER ST OFFICES / 49 WINCHESTER ST                       F.A. ACT   WADE M                 499  
+17001046   1/9/2017     1031   BOX 72524/ PANERA BREAD                                        STRAIGHT   CLAFLIN G              498  
+17001047   1/9/2017     1040   96 ADELINE RD                                                  FALL/BAC   SCALTRETO F            AMB1 
+17001048   1/9/2017     1044   OTIS ST & WALNUT ST                                            MV/STOP    GARCIA J               492  
+17001049   1/9/2017     1052   BEACON ST & WASHINGTON ST                                      MVA/H&R    PAGLIA RICH            498  
+17001050   1/9/2017     1053   70 LEESON LA                                                   ALM/BURG   BENES R                494  
+17001053   1/9/2017     1132   ELM ST MUNICIPAL LOT / 100 ELM ST                              LF/PROP    MCCARTHY T             999  
+17001056   1/9/2017     1159   CAFE ST PETERSBURG / 57 UNION ST                               CENT STA   BENES R                494  
+17001058   1/9/2017     1235   40 MILLER RD #2                                                LARCENY    BENES R                494  
+17001061   1/9/2017     1245   LAGRANGE ST & VINE ST                                          SPILL LV   MCLAUGHLIN J           496  
+17001062   1/9/2017     1252   BEACON ST & MANITOBA RD                                        UTIL/HAZ   PAGLIA RICH            493  
+17001063   1/9/2017     1303   EVANS PARK / 430 CENTRE ST #106                                CHEST PA   MANOUK K               MED2 
+17001065   1/9/2017     1306   25 BORDER ST                                                   RD/OBST    GARCIA J               492  
+17001067   1/9/2017     1308   MAIN LIBRARY / 330 HOMER ST                                    ILL/PARK   SETIABUDI G            495  
+17001068   1/9/2017     1311   LAGRANGE ST & VINE ST                                          SPILL LV   MCLAUGHLIN J           506  
+17001069   1/9/2017     1321   BOX 6154/ ELDERLY HOUSING                                      STRAIGHT   CLAFLIN G              498  
+17001070   1/9/2017     1321   132 BEAUMONT AVE                                               V/C/ORD    GARCIA J               492  
+17001072   1/9/2017     1325   37 WESTBOURNE RD                                               SICK/INJ   WADE M                 499  
+17001071   1/9/2017     1325   15 FURBER LA                                                   ALM/BURG   CLAFLIN G              498  
+17001075   1/9/2017     1354   CENTRE ST & WASHINGTON ST                                      MVA        MANOUK K               491  
+17001077   1/9/2017     1416   96 ADELINE RD                                                  HARASS     WADE M                 499  
+17001079   1/9/2017     1427   UNION TRUST FIRST GENERAL / 57 UNION ST                        CENT STA   SETIABUDI G            495  
+17001083   1/9/2017     1442   56 HAWTHORN ST FL 1                                            CHEST PA   MANOUK K               MED2 
+17001084   1/9/2017     1445   258 CHERRY ST                                                  CBN MONO   GARCIA J               492  
+17001085   1/9/2017     1448   218 WALNUT ST                                                  MVA        CLAFLIN G              498  
+17001086   1/9/2017     1501   YMCA / 276 CHURCH ST                                           RD/OBST    MANOUK K               491  
+17001088   1/9/2017     1525   ADAMS ST & LINCOLN RD                                          RD/OBST    BOUDREAU M             491  
+17001090   1/9/2017     1605   150 HARTMAN RD                                                 ILL/PARK   BERGDORF,J             504  
+17001093   1/9/2017     1627   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        LARCENY    KEEFE T                WN   
+17001096   1/9/2017     1632   MAIDS HOME SERVICES (THE) / 225 RIVERVIEW AVE                  MVA        CICCONE, A             492  
+17001102   1/9/2017     1709   63 WITHINGTON RD                                               MVA/PAST   FEROLITO B             494  
+17001103   1/9/2017     1711   PICCADILLY MARKET / 63 UNION ST                                DK         BERGDORF,J             AMB1 
+17001107   1/9/2017     1728   BRAE BURN C.C. PRO SHOP / 326 FULLER ST                        ALM/BURG   CHIEU R                493  
+17001108   1/9/2017     1729   54 ST MARYS ST                                                 IDENTITY   KEEFE T                999  
+17001109   1/9/2017     1733   36 UNION ST                                                    MVA        MARCH R                499  
+17001111   1/9/2017     1739   67 CANTERBURY RD                                               POL-ASSI   WALTON T               495  
+17001115   1/9/2017     1815   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        O/AGENCY   CALDERON D             494  
+17001118   1/9/2017     1844   180 WINCHESTER ST                                              MV/STOP    MARCH R                499  
+17001119   1/9/2017     1852   19 OHIO AVE #B                                                 CENT STA   WALTON T               495  
+17001121   1/9/2017     1904   51 CURVE ST                                                    O/AGENCY   CICCONE, A             492  
+17001122   1/9/2017     1911   LEWIS TER & NEWTONVILLE AVE                                    MVA/PAST   BOUDREAU M             491  
+17001125   1/9/2017     2038   ADAMS ST & MURPHY CT                                           ILL/PARK   HOWES C                491  
+17001127   1/9/2017     2051   WALGREENS / 22 LANGLEY RD                                      CHECK PE   FEROLITO B             494  
+17001129   1/9/2017     2109   9 MUNROE ST                                                    FRAUD      TRAMONTOZZI B          497  
+17001133   1/9/2017     2251   BUILDING DEPT MAINT BUILD / 52 ELLIOT ST                       ALM/BURG   WALTON T               495  

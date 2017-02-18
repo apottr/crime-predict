@@ -1,0 +1,60 @@
+17003553   1/29/2017    36     BRAE BURN COUNTRY CLUB / 326 FULLER ST                         ALM/BURG   SIEGAL D               493  
+17003556   1/29/2017    58     BERTUCCIS / 275 CENTRE ST                                      ALM/BURG   GIARDINA S             491  
+17003558   1/29/2017    58     CIRCUIT AVE & BOYLSTON ST                                      SICK/INJ   WALTON T               495  
+17003568   1/29/2017    243    TOMMY DOYLES RESTAURANT / 349 WATERTOWN ST                     ALM/BURG   POHLMAN, K             491  
+17003569   1/29/2017    247    183 CHERRY ST                                                  CHECK PE   GIARDINA S             492  
+17003570   1/29/2017    250    34 MOODY ST                                                    FARE EVA   KEEFE T                499  
+17003574   1/29/2017    426    UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   KEEFE T                499  
+17003575   1/29/2017    502    CARE ONE / 2101 WASHINGTON ST #1                               UNCONS/F   CHIEU R                MED2 
+17003578   1/29/2017    627    41 ESTY FARM RD                                                OVERDOSE   SIEGAL SC              MED1 
+17003579   1/29/2017    805    BERTUCCIS / 275 CENTRE ST                                      ALM/BURG   UMINA S                491  
+17003580   1/29/2017    821    LAS VILLAGE / BLOOM / 125 SEMINARY AVE                         B&E M/V    COTTENS S              494  
+17003581   1/29/2017    854    90 CHRISTINA ST #5                                             PSYCH/SU   BOUDROT E              AMB1 
+17003582   1/29/2017    859    BOX 72364/ 160 BOYLSTON ST                                     STRAIGHT   GABRIEL A              495  
+17003583   1/29/2017    907    SOLOMON SCHECHTER DAY SCHOOL / 125 WELLS AVE                   ALM/BURG   CLAFLIN G              498  
+17003585   1/29/2017    949    19 GRAY BIRCH TER                                              ALM/BURG   WALSH T                492  
+17003587   1/29/2017    1015   MASON-RICE SCHOOL / 149 PLEASANT ST                            ANIMAL P   TORRES R               538  
+17003588   1/29/2017    1022   742 COMMONWEALTH AVE                                           CENT STA   COTTENS S              494  
+17003591   1/29/2017    1025   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY            INVEST-G   COTTENS S              494  
+17003590   1/29/2017    1026   NEWTON POLICE GARAGE / 1321 WASHINGTON ST                      ALM/BURG   LARSON R               497  
+17003592   1/29/2017    1046   22 SHEPHERD PK                                                 ALM/BURG   GABRIEL A              495  
+17003596   1/29/2017    1058   244 CONCORD ST                                                 ILL/PARK   GOURDEAU J             493  
+17003597   1/29/2017    1105   92 BEETHOVEN AVE                                               ALM/BURG   GABRIEL A              495  
+17003598   1/29/2017    1107   163 JACKSON RD #2                                              LARCENY    LARSON R               491  
+17003600   1/29/2017    1137   NEWTON NORTH BLDG #2 / 457 WALNUT ST                           LF/PROP    LARSON R               497  
+17003601   1/29/2017    1137   117 WEST ST                                                    PSYCH/SU   UMINA S                AMB1 
+17003604   1/29/2017    1203   COLD SPRINGS PLAYGROUND / 0 DUNCKLEE ST                        ANIMAL P   TORRES R               538  
+17003606   1/29/2017    1217   BEVERLY RD                                                     ILL/PARK   GABRIEL A              495  
+17003610   1/29/2017    1241   53 BEVERLY RD                                                  ILL/PARK   GABRIEL A              495  
+17003611   1/29/2017    1243   HIGHLANDER FARMS / 69 WALTHAM ST                               VAND/PRP   ROONEY M               507  
+17003612   1/29/2017    1250   26 MARSHALL ST                                                 ALM/BURG   COTTENS S              494  
+17003613   1/29/2017    1303   SHOWCASE SUPERLUX / 55 BOYLSTON ST                             SUSP PER   COTTENS S              495  
+17003615   1/29/2017    1312   41 ESTY FARM RD                                                CARD/RES   DEMPSEY S              999  
+17003617   1/29/2017    1325   CASSELMAN HOUSE / 195 SUMNER ST #405                           CHECK PE   COTTENS S              MED2 
+17003620   1/29/2017    1340   GOLDEN LIVING CENTER / 1650 WASHINGTON ST                      911 HANG   WALSH T                492  
+17003619   1/29/2017    1344   BEACON ST & ALLEN                                              MVA / MI   GABRIEL A              AMB2 
+17003622   1/29/2017    1404   HAMMOND POND RESERVATION / 1 HAMMOND POND PKWY                 SUSP PER   COTTENS S              499  
+17003624   1/29/2017    1438   439 WASHINGTON ST                                              MVA/H&R    UMINA S                491  
+17003625   1/29/2017    1441   125 LEXINGTON ST                                               SUSP PER   WALSH T                492  
+17003626   1/29/2017    1455   OUR LADYS CHURCH / 563 WASHINGTON ST                           INVEST-G   LARSON R               999  
+17003628   1/29/2017    1501   12 DEXTER RD                                                   ILL/PARK   WALSH T                492  
+17003627   1/29/2017    1501   90 LARCHMONT AVE                                               ALM/BURG   GABRIEL A              495  
+17003629   1/29/2017    1519   EDMANDS PARK / 94 BLAKE ST                                     OUTSIDE    KEEFE T                494  
+17003630   1/29/2017    1520   16 PARK ST                                                     LARCENY    GUARINO C              491  
+17003631   1/29/2017    1530   JOHN ST                                                        ILL/PARK   KEEFE T                494  
+17003632   1/29/2017    1551   71 CHERRY ST #3                                                O/AGENCY   GIARDINA S             497  
+17003633   1/29/2017    1554   163 JACKSON RD #1                                              KEEP/PCE   GUARINO C              491  
+17003634   1/29/2017    1604   VIDEOLINK, INC / 1230 WASHINGTON ST                            ALM/BURG   KANE A                 492  
+17003635   1/29/2017    1616   FLORENCE CT                                                    ILL/PARK   KANE A                 492  
+17003636   1/29/2017    1619   8 MAPLE ST                                                     UNKN PRO   HOWES C                AMB2 
+17003638   1/29/2017    1639   164 PARKER ST                                                  DIABETIC   WILSON J               AMB1 
+17003639   1/29/2017    1647   315 DEDHAM ST                                                  ALM/BURG   CALDERON D             496  
+17003642   1/29/2017    1700   SPEEDWAY GAS / 2370 COMMONWEALTH AVE                           REST/ORD   BOYLE P                501  
+17003644   1/29/2017    1707   ARTHUR T. GREGORIA, INC / 2284 WASHINGTON ST                   ALM/BURG   HOWES C                493  
+17003655   1/29/2017    1815   9 RIPLEY ST #1                                                 ALM/BURG   KEEFE T                494  
+17003664   1/29/2017    2004   28R MIDDLE ST                                                  COURTDOC   BOYLE P                501  
+17003666   1/29/2017    2024   NWH HOSPITAL / 2014 WASHINGTON ST                              CHECK PE   HOWES C                493  
+17003667   1/29/2017    2027   9 CHARLESBANK RD #1                                            COURTDOC   BOYLE P                501  
+17003669   1/29/2017    2055   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   WILSON J               499  
+17003670   1/29/2017    2106   82 MADISON AVE                                                 COURTDOC   BOYLE P                501  
+17003674   1/29/2017    2329   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   SIEGAL SC              496  

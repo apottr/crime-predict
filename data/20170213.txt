@@ -1,0 +1,94 @@
+17005516   2/12/2017    2      CVS / 189 WATERTOWN ST                                         ALM/BURG   POUTAS D               491  
+17005517   2/12/2017    10     10 JUDITH RD                                                   ALM/BURG   EMMANUEL S             495  
+17005518   2/12/2017    11     69 PRINCE ST                                                   OPEN DOO   NARDELLI D             492  
+17005532   2/12/2017    227    222 CHURCH ST                                                  L/NOISE    POUTAS D               491  
+17005534   2/12/2017    457    29 SUNSET RD                                                   ALM/BURG   FEROLITO B             494  
+17005535   2/12/2017    550    NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   POUTAS D               491  
+17005539   2/12/2017    809    258 CHERRY ST                                                  CENT STA   WALSH T                492  
+17005540   2/12/2017    813    548 CENTRE ST #5                                               SP/INCD    MCSWEENEY M            491  
+17005541   2/12/2017    847    15 BLAKE ST                                                    VAND/PRP   PAGLIA ROBT            494  
+17005545   2/12/2017    858    1400 CENTRE ST                                                 DPW        BOUDROT E              496  
+17005546   2/12/2017    906    ROGERS ST                                                      ILL/PARK   MCSWEENEY M            491  
+17005549   2/12/2017    1021   243 UPLAND AVE                                                 ALM/BURG   BOUDROT E              496  
+17005554   2/12/2017    1044   HUNTER ST                                                      ILL/PARK   WALSH T                492  
+17005555   2/12/2017    1047   115 ANNAWAN RD                                                 CENT STA   SCALTRETO F            493  
+17005558   2/12/2017    1056   25 SHUTE PATH                                                  CHECK PE   BOUDROT E              496  
+17005559   2/12/2017    1110   6 ARDEN RD                                                     CBN MONO   IAROSSI M              497  
+17005562   2/12/2017    1158   COMMONWEALTH AVE & ISLINGTON RD                                DMV        WALSH T                492  
+17005563   2/12/2017    1208   JOHN ST & LANGLEY RD                                           DMV        PAGLIA ROBT            494  
+17005566   2/12/2017    1218   AUBURN ST & GREENOUGH ST                                       MVA        SCALTRETO F            493  
+17005569   2/12/2017    1221   COMMONWEALTH AVE & ISLINGTON RD                                DMV        RAYMOND Z              498  
+17005571   2/12/2017    1230   11 DORCAR RD                                                   FRAUD      LAU J                  WN   
+17005577   2/12/2017    1337   106 PINE ST                                                    CENT STA   WALSH T                492  
+17005579   2/12/2017    1350   86 AVALON RD                                                   CENT STA   GABRIEL A              495  
+17005581   2/12/2017    1355   BOX 8813/ 43 BOYLSTON ST                                       STRAIGHT   PAGLIA ROBT            494  
+17005582   2/12/2017    1417   710 COMMONWEALTH AVE                                           LOCK OUT   GABRIEL A              495  
+17005584   2/12/2017    1446   MT IDA REST HOME / 32 NEWTONVILLE AVE                          LOST/PER   TRAMONTOZZI B          492  
+17005585   2/12/2017    1450   DALBY ST & WATERTOWN ST                                        RD/OBST    MCSWEENEY M            491  
+17005586   2/12/2017    1456   BOSTON SPORTS CLUB / 135 WELLS AVE                             F.A. ACT   BOUDROT E              496  
+17005587   2/12/2017    1502   TANGO MANGO / 1189 CENTRE ST                                   DMV        BERGDORF,J             495  
+17005588   2/12/2017    1505   BIGELOW MIDDLE SCHOOL / 42 VERNON ST                           F.A. ACT   MCSWEENEY M            491  
+17005589   2/12/2017    1512   8 ST JAMES ST                                                  MVA        MCSWEENEY M            491  
+17005590   2/12/2017    1520   12 FURBER LA                                                   ALM/BURG   EMMANUEL S             498  
+17005591   2/12/2017    1526   DUNKIN DONUTS / 1250 WASHINGTON ST                             F.A. ACT   SPINNEY A              497  
+17005592   2/12/2017    1538   FIRE HEADQUARTERS / 106 WABAN ST                               SUSP PER   NARDELLI D             502  
+17005594   2/12/2017    1547   130 BERKELEY ST                                                ALM/BURG   TRAMONTOZZI B          497  
+17005595   2/12/2017    1548   /  DEDHAM ST & RACHEL RD                                       ILL/PARK   BANNON T               496  
+17005596   2/12/2017    1556   HOMER ST & WALNUT ST                                           DPW        CROWE, J               501  
+17005599   2/12/2017    1627   36 ADAMS AVE                                                   SNOW COM   SPINNEY A              492  
+17005600   2/12/2017    1629   184 ADAMS ST                                                   ILL/PARK   LARSON R               491  
+17005601   2/12/2017    1636   17 BROADLAWN DR                                                911 HANG   CROWE, J               496  
+17005607   2/12/2017    1657   ALBEMARLE FIELD / 250 ALBEMARLE RD                             DMV        LARSON R               492  
+17005610   2/12/2017    1708   1209 CHESTNUT ST                                               ANIMAL R   BERGDORF,J             495  
+17005609   2/12/2017    1709   DAVID RD                                                       FORESTRY   BANNON T               496  
+17005611   2/12/2017    1722   126 WARWICK RD                                                 FORESTRY   SPINNEY A              492  
+17005612   2/12/2017    1729   67 CLINTON PL                                                  SNOW COM   LAU J                  494  
+17005613   2/12/2017    1736   209 PLEASANT ST                                                FORESTRY   BERGDORF,J             495  
+17005614   2/12/2017    1737   41 LENOX ST                                                    CENT STA   SPINNEY A              492  
+17005615   2/12/2017    1807   KEYES ST                                                       V/C/ORD    WADE P                 508  
+17005616   2/12/2017    1837   1234 WALNUT ST                                                 FORESTRY   LAU J                  494  
+17005618   2/12/2017    1849   WEST ST                                                        V/C/ORD    WADE P                 508  
+17005619   2/12/2017    1852   MARRIOTT HOTEL / 2345 COMMONWEALTH AVE                         POL-ASSI   SPINNEY A              492  
+17005621   2/12/2017    1901   179 HIGHLAND AVE                                               CENT STA   TRAMONTOZZI B          497  
+17005622   2/12/2017    1909   4 BROOKSIDE AVE #B                                             CHECK PE   LARSON R               500  
+17005624   2/12/2017    1921   BRYON RD                                                       V/C/ORD    SPALDING W             532  
+17005625   2/12/2017    1922   8 BARNSTABLE RD                                                UTIL/HAZ   TRAMONTOZZI B          497  
+17005626   2/12/2017    1939   55 WOODCHESTER DR                                              ALM/BURG   LAU J                  494  
+17005628   2/12/2017    1943   48 HARVARD ST                                                  SNOW COM   NARDELLI D             502  
+17005631   2/12/2017    1956   200 ADAMS ST                                                   V/C/ORD    WADE P                 508  
+17005629   2/12/2017    1957   AUSTIN ST & LOWELL AVE                                         MVA        SPINNEY A              492  
+17005632   2/12/2017    1958   MURPHY CT                                                      V/C/ORD    WADE P                 508  
+17005633   2/12/2017    2005   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   BANNON T               496  
+17005634   2/12/2017    2008   14 VICTORIA CIR                                                FORESTRY   LAU J                  499  
+17005635   2/12/2017    2012   1727 BEACON ST                                                 UTIL/HAZ   MCSWEENEY M            493  
+17005636   2/12/2017    2017   52 JUDKINS ST                                                  V/C/ORD    WADE P                 508  
+17005638   2/12/2017    2021   96 ROWENA RD                                                   V/C/ORD    LAU J                  494  
+17005639   2/12/2017    2044   14 RUSTIC ST                                                   FORESTRY   BOUDREAU M             491  
+17005640   2/12/2017    2044   COMMONWEALTH AVE & MORSELAND AVE                               FORESTRY   LAU J                  499  
+17005642   2/12/2017    2049   24 WOODROW AVE                                                 V/C/ORD    WADE P                 508  
+17005643   2/12/2017    2050   94 NEHOIDEN RD                                                 UTIL/HAZ   MCSWEENEY M            493  
+17005644   2/12/2017    2052   965 WALNUT ST                                                  FORESTRY   BERGDORF,J             495  
+17005645   2/12/2017    2111   CASSELMAN HOUSE / 195 SUMNER ST #403                           UNWANTED   LAU J                  494  
+17005646   2/12/2017    2113   66 FOUNTAIN ST                                                 UTIL/HAZ   SPINNEY A              492  
+17005647   2/12/2017    2113   47 CROSBY RD                                                   UTIL/HAZ   RAYMOND Z              499  
+17005648   2/12/2017    2114   658 DEDHAM ST                                                  FORESTRY   BANNON T               496  
+17005651   2/12/2017    2125   BOYLSTON ST & CHESTNUT ST                                      DMV        BERGDORF,J             495  
+17005650   2/12/2017    2125   9 JAFFREY CIR                                                  UTIL/HAZ   EMMANUEL S             498  
+17005652   2/12/2017    2128   90 EAST SIDE PKWY                                              FORESTRY   BOUDREAU M             491  
+17005653   2/12/2017    2136   82 NEWTONVILLE AVE                                             FORESTRY   LARSON R               500  
+17005655   2/12/2017    2142   VILLAGE FALLS CONDO / 183 OAK ST                               CHECK PE   VALENTE D              496  
+17005656   2/12/2017    2147   ELM ST & RIVER ST                                              FORESTRY   SPINNEY A              492  
+17005657   2/12/2017    2151   MILTON AVE                                                     V/C/ORD    WADE P                 508  
+17005658   2/12/2017    2155   21 ROSE DR                                                     LF/PROP    SPINNEY A              492  
+17005659   2/12/2017    2159   BRIDGES AVE                                                    V/C/ORD    WADE P                 508  
+17005660   2/12/2017    2203   548 CENTRE ST                                                  SNOW COM   BOUDREAU M             491  
+17005661   2/12/2017    2216   221 MT VERNON ST                                               VAND/PRP   LARSON R               497  
+17005662   2/12/2017    2222   21 OAKLAND ST                                                  V/C/ORD    WADE P                 508  
+17005664   2/12/2017    2225   51 FESSENDEN ST                                                FORESTRY   BOUDREAU M             491  
+17005665   2/12/2017    2230   SOFT PAWS / 76 BOWERS ST                                       ALM/BURG   BOUDREAU M             491  
+17005666   2/12/2017    2248   38 WAUWINET RD                                                 DMV        ROONEY M               497  
+17005667   2/12/2017    2303   20 LINCOLN ST                                                  V/C/ORD    SPALDING W             IODX 
+17005669   2/12/2017    2313   WILLIAMS SCHOOL / 141 GROVE ST                                 CHECK PE   BERGDORF,J             493  
+17005670   2/12/2017    2331   400 LANGLEY RD                                                 V/C/ORD    ROONEY M               508  
+17005671   2/12/2017    2337   51 GROVE HILL AVE                                              UTIL/HAZ   BROOKS J               492  
+17005673   2/12/2017    2355   94 MADISON AVE                                                 UTIL/HAZ   BOUDREAU M             497  

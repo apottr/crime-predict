@@ -1,0 +1,57 @@
+17002435   1/20/2017    8      MADISON AVE & WALNUT ST                                        MV/STOP    BANNON T               492  
+17002439   1/20/2017    34     38 NORTH GATE PK                                               CHECK PE   HAMANN,T               507  
+17002443   1/20/2017    117    MAPLE ST & NONANTUM RD                                         MVA / MI   BOUDREAU M             MED2 
+17002445   1/20/2017    151    WATERTOWN POLICE DEPT. / 552 MAIN ST                           O/AGENCY   HAMANN,T               497  
+17002446   1/20/2017    154    390 PARKER ST                                                  SUSP PER   WILSON J               496  
+17002447   1/20/2017    323    21 ELLIOT ST                                                   CHEST PA   MCNEIL R               MED1 
+17002449   1/20/2017    414    UNIQLO USA / 199 BOYLSTON ST #N130A                            911 HANG   HELMS G                494  
+17002450   1/20/2017    538    19 APPLEGARTH ST                                               DEFAULT    HELMS G                494  
+17002453   1/20/2017    643    15 PARKVIEW AVE                                                ALM/BURG   BOUDREAU M             491  
+17002454   1/20/2017    711    96 WASHINGTON PK                                               ALM/BURG   BOUDREAU M             491  
+17002455   1/20/2017    740    EASTERN BANK / 2060 COMMONWEALTH AVE                           ALM/BURG   PAGLIA RICH            493  
+17002456   1/20/2017    804    THE TERRACES / 287 LANGLEY RD #43                              ALM/BURG   WADE M                 499  
+17002457   1/20/2017    805    NEWTON COMM SERVICE DAY CARE / 492 WALTHAM ST                  VAND/PRP   GARCIA J               492  
+17002458   1/20/2017    809    NEWTON POLICE DEPT / 1321 WASHINGTON ST                        O/AGENCY   MANOUK K               491  
+17002461   1/20/2017    823    APARTMENT BUILDING / 2344 COMMONWEALTH AVE                     VAND/PRP   PAGLIA RICH            493  
+17002463   1/20/2017    902    NWH HOSPITAL / 2014 WASHINGTON ST                              INVEST-G   MCCARTHY T             999  
+17002464   1/20/2017    925    27 DUNCKLEE ST                                                 PSY/EVAL   GABRIEL A              AMB1 
+17002467   1/20/2017    1023   41 COTTON ST                                                   UNKN PRO   BENES R                MED1 
+17002470   1/20/2017    1035   BOX 7264/ MARKET PLACE CENTER                                  STRAIGHT   BENES R                494  
+17002471   1/20/2017    1039   99 KIRKSTALL RD                                                LF/PROP    MCCARTHY T             999  
+17002472   1/20/2017    1106   15 VAN ROOSEN RD                                               LARCENY    MCCARTHY T             999  
+17002473   1/20/2017    1109   16 HARGRAVE CIR #A                                             INVEST-G   DOWLING D              MED2 
+17002475   1/20/2017    1204   10 WASHINGTON TER                                              MVA/PAST   LAU J                  497  
+17002476   1/20/2017    1207   1716 BEACON ST                                                 UTIL/HAZ   PAGLIA RICH            493  
+17002477   1/20/2017    1210   89 WINDSOR RD                                                  ALM/BURG   CLAFLIN G              498  
+17002481   1/20/2017    1256   VILLAGE FALLS CONDO / 183 OAK ST                               BREATH P   GABRIEL A              AMB1 
+17002483   1/20/2017    1326   TODYS SERVICE CENTER / 1354 WASHINGTON ST                      POL/TOW    PAGLIA RICH            493  
+17002486   1/20/2017    1354   44 AUDUBON DR                                                  CENT STA   SETIABUDI G            496  
+17002487   1/20/2017    1356   BOX 72528/ SHERWIN WILLIAMS                                    STRAIGHT   GABRIEL A              495  
+17002488   1/20/2017    1456   COMMUNITY RESIDENCE / 515 WALNUT ST                            PSY/EVAL   LAU J                  AMB1 
+17002489   1/20/2017    1534   DAVIO'S CUCINA / 55 BOYLSTON ST                                SUSP PER   SOLOMAN A              496  
+17002491   1/20/2017    1604   COUNTRYSIDE SCHOOL / 191 DEDHAM ST                             INVEST-G   UMINA S                999  
+17002495   1/20/2017    1624   73 WALNUT ST #4                                                LOST/PER   ROSENBAUM E            999  
+17002498   1/20/2017    1703   1678 CENTRE                                                    DMV        TRAMONTOZZI B          494  
+17002499   1/20/2017    1710   NEVADA ST & WATERTOWN ST                                       POL-ASSI   SIEGAL D               491  
+17002502   1/20/2017    1723   COMMONWEALTH AVE & HAMMOND ST                                  DMV        TRAMONTOZZI B          494  
+17002506   1/20/2017    1802   NORUMBEGA GARDENS / 56 ASH ST #D                               LOCK OUT   SULLIVAN D             493  
+17002507   1/20/2017    1804   BOYLSTON ST & WALNUT PL                                        MVA        SOLOMAN A              496  
+17002510   1/20/2017    1857   QUINOBEQUIN RD & RADCLIFF RD                                   MVA/UNKN   SULLIVAN D             MED1 
+17002514   1/20/2017    1925   NEEDHAM ST & OAK ST                                            SUSP PER   SOLOMAN A              495  
+17002515   1/20/2017    1927   BOCCABELLA CAFE & BISTRO / 442 LEXINGTON ST                    CONV/SEI   SCHLEGEL J             MED2 
+17002516   1/20/2017    1936   SHING YEE'S REST / 1255 WASHINGTON ST                          LARCENY    BANNON T               492  
+17002518   1/20/2017    2009   APPLE / 199 BOYLSTON ST                                        FRAUD      HAGOPIAN M             DESK 
+17002519   1/20/2017    2015   WEST NEWTON DENTAL OFFICE / 1306 WASHINGTON ST                 MV/STOP    MCLEAN S               507  
+17002522   1/20/2017    2048   BOX 345/ KEYES ST & WALTHAM ST                                 STRAIGHT   POUTAS D               497  
+17002523   1/20/2017    2102   THE VILLAGE BANK / 307 AUBURN ST                               ALM/BANK   SULLIVAN D             493  
+17002524   1/20/2017    2113   AVALON AT CHESTNUT HILL BLDG 1 / 160 BOYLSTON ST               POL-ASSI   CICCONE, A             496  
+17002525   1/20/2017    2202   BOYLSTON ST & DUDLEY RD                                        MV/VIOL    SOLOMAN A              496  
+17002526   1/20/2017    2206   ANDOVER STURTEVANT HALL / 197 HERRICK RD                       DK         CICCONE, A             AMB2 
+17002527   1/20/2017    2209   MYRTLE ST & WASHINGTON ST                                      MV/STOP    BANNON T               492  
+17002528   1/20/2017    2212   SAW MILL BROOK PKWY & SPIERS RD                                SUSP PER   BERGDORF,J             496  
+17002529   1/20/2017    2222   HAMPTON PLACE CONDOMINIUMS / 79 FLORENCE ST #604               ALLERG/R   SOLOMAN A              MED1 
+17002530   1/20/2017    2251   223 MELROSE ST                                                 LOUD PAR   BANNON T               492  
+17002532   1/20/2017    2316   NEWTON HOUSING AUTHORITY / 52 WYMAN ST                         FA ACTV/   CHIEU R                493  
+17002533   1/20/2017    2318   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #1503N     CHECK PE   SOLOMAN A              MED1 
+17002534   1/20/2017    2344   LEXINGTON ST                                                   MV/VIOL    TRAMONTOZZI B          492  
+17002536   1/20/2017    2347   45 ALGONQUIN RD                                                LOUD PAR   FEROLITO B             494  

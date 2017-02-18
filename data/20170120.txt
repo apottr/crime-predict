@@ -1,0 +1,59 @@
+17002294   1/19/2017    6      LAS CAMPUS CENTER / 131 WOODLAND RD                            O/AGENCY   EMMANUEL S             493  
+17002299   1/19/2017    124    146 HAMMOND ST                                                 SUSP PER   FEROLITO B             494  
+17002301   1/19/2017    142    57 EDGEFIELD RD                                                ALM/BURG   GIARDINA S             493  
+17002316   1/19/2017    725    2310 WASHINGTON ST                                             ALM/BURG   PAGLIA RICH            493  
+17002318   1/19/2017    739    NEWTON NORTH BLDG #1 / 457 WALNUT ST                           INVEST-G   PANICA J               999  
+17002319   1/19/2017    811    FRANKLIN SCHOOL / 125 DERBY ST                                 ASSIST O   LAU J                  AMB1 
+17002320   1/19/2017    816    TREMONT ST & WAVERLEY AVE                                      MVA        WADE M                 499  
+17002321   1/19/2017    834    177 CONCORD ST                                                 ALM/BURG   PAGLIA RICH            493  
+17002322   1/19/2017    836    BETH ISRAEL DEACONESS HEALTH C / 200 BOYLSTON ST #4TH FLOOR    CHEST PA   BOUDROT E              AMB1 
+17002323   1/19/2017    840    CHESTNUT ST & MOFFAT RD                                        MV/VIOL    RAYMOND Z              498  
+17002324   1/19/2017    845    967 BOYLSTON ST                                                ALM/BURG   GABRIEL A              495  
+17002326   1/19/2017    853    WABAN HEALTH & REHAB / 20 KINMONTH RD #17A                     BREATH P   RAYMOND Z              AMB1 
+17002327   1/19/2017    910    COMMONWEALTH AVE & WASHINGTON ST                               STRUCT F   PAGLIA RICH            508  
+17002329   1/19/2017    915    15 BACON ST                                                    MVA/H&R    COTTENS S              491  
+17002330   1/19/2017    926    73 WALNUT ST #4                                                PSY/EVAL   LAU J                  AMB1 
+17002333   1/19/2017    950    BOX 1722/ 15 WALNUT PK                                         STRAIGHT   WALSH T                492  
+17002335   1/19/2017    1014   89 PINE ST                                                     BREATH P   WALSH T                MED2 
+17002337   1/19/2017    1025   BOX 43121/ NORUMBEGA GARDENS                                   STRAIGHT   PAGLIA RICH            493  
+17002338   1/19/2017    1032   THE FALLS AT CORDINGLY DAM / 2300 WASHINGTON ST #406           BREATH P   RAYMOND Z              AMB1 
+17002342   1/19/2017    1112   51 SHARPE RD                                                   FALL/BAC   WADE M                 AMB1 
+17002347   1/19/2017    1134   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        WARR/SER   ANDERSON N             999  
+17002348   1/19/2017    1140   TOWN HOUSES / 340 BOYLSTON ST #A                               ALM/BURG   PAGLIA ROBT            494  
+17002349   1/19/2017    1154   72 THURSTON RD #D                                              CHEST PA   GABRIEL A              AMB1 
+17002351   1/19/2017    1217   41 PEARL ST                                                    POL/TOW    NORCROSS M             526  
+17002353   1/19/2017    1241   BEACON ST & WASHINGTON ST                                      MVA        PAGLIA RICH            AMB2 
+17002355   1/19/2017    1246   NAHANTON PARK / 455 NAHANTON ST                                SP/INCD    BOUDROT E              496  
+17002357   1/19/2017    1313   OFFICE BUILDING / 313 WASHINGTON ST                            REST/ORD   LAU J                  491  
+17002360   1/19/2017    1319   JEWISH BIG BROTHERS / 333 NAHANTON ST                          INVEST-G   SAMPSON R              1314 
+17002362   1/19/2017    1325   BEACON ST & HAMMOND ST                                         UTIL/HAZ   PAGLIA ROBT            494  
+17002363   1/19/2017    1340   KAPUR THOLANDER SZYMA / 2345 WASHINGTON ST                     911 HANG   PAGLIA RICH            498  
+17002366   1/19/2017    1425   COMMONWEALTH AVE & LEXINGTON ST                                CHECK PE   PAGLIA RICH            493  
+17002367   1/19/2017    1431   EVANS PARK / 430 CENTRE ST #210                                FALL/BAC   COTTENS S              AMB1 
+17002368   1/19/2017    1435   75 WAYNE RD                                                    SICK/INJ   BOUDREAU J             496  
+17002369   1/19/2017    1445   RAVIOLIS / 1134 BEACON ST                                      POL-ASSI   GABRIEL A              495  
+17002371   1/19/2017    1508   MEMORIAL-SPAULDING SCHOOL / 250 BROOKLINE ST                   MVA/BIKE   DEVINE D               MED1 
+17002373   1/19/2017    1515   YMCA / 276 CHURCH ST                                           F.A. ACT   LAU J                  497  
+17002377   1/19/2017    1556   COMMONWEALTH AVE                                               MV/VIOL    GIARDINA S             493  
+17002385   1/19/2017    1701   234 ELLIOT ST                                                  MV/STOP    BERGDORF,J             495  
+17002386   1/19/2017    1703   8 SURREY RD                                                    FALL/BAC   TRAMONTOZZI B          AMB2 
+17002387   1/19/2017    1704   2066 COMMONWEALTH AVE                                          GROUP      FEROLITO B             494  
+17002391   1/19/2017    1717   218 CHURCH ST                                                  CHECK PE   BOUDREAU M             491  
+17002390   1/19/2017    1723   62 THURSTON RD #A                                              CHECK PE   EMMANUEL S             498  
+17002392   1/19/2017    1731   140 PLYMOUTH RD                                                B&E/PROG   POUTAS D               494  
+17002393   1/19/2017    1734   154 HERRICK RD #B                                              FA ACTV/   WILSON J               499  
+17002396   1/19/2017    1758   BOX 72282/ TOWN HOUSES                                         STRAIGHT   CICCONE, A             496  
+17002404   1/19/2017    1845   BOYLSTON & PARKER ST                                           SIGN/SIG   FEROLITO B             494  
+17002406   1/19/2017    1856   COMMONWEALTH AVE & RISLEY RD                                   CHECK PE   TRAMONTOZZI B          497  
+17002408   1/19/2017    1904   TEMPLE REYIM / 1860 WASHINGTON ST                              MV/STOP    GIARDINA S             493  
+17002410   1/19/2017    1925   LAKE AVE & WALNUT ST                                           MV/STOP    POUTAS D               504  
+17002411   1/19/2017    1925   PEARL ST & WATERTOWN ST                                        MV/VIOL    BOUDREAU M             491  
+17002418   1/19/2017    2021   STAR MARKET / 2040 COMMONWEALTH AVE                            SP/INCD    GIARDINA S             493  
+17002420   1/19/2017    2044   16 HARGRAVE CIR #A                                             RELINQUI   BERGDORF,J             495  
+17002423   1/19/2017    2126   BOX 7115/ WHOLE FOODS MARKET                                   STRAIGHT   BERGDORF,J             495  
+17002424   1/19/2017    2126   19 FREDETTE RD                                                 F.A. ACT   CICCONE, A             496  
+17002427   1/19/2017    2148   WALSINGHAM ST & WASHINGTON ST                                  MV/STOP    LARSON R               493  
+17002430   1/19/2017    2209   CVS / 978 BOYLSTON ST                                          MVA        BERGDORF,J             495  
+17002431   1/19/2017    2218   88 WALNUT PK                                                   BREATH P   BOUDREAU M             MED2 
+17002433   1/19/2017    2305   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   EMMANUEL S             505  
+17002434   1/19/2017    2309   139 ANDREW ST                                                  SP/INCD    CICCONE, A             496  

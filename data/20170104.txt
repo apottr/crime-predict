@@ -1,0 +1,54 @@
+17000214   1/3/2017     33     AVALON AT NEWTON HIGHLANDS 89C / 89 NEEDHAM ST #2248           SUSP PER   CALDERON D             495  
+17000225   1/3/2017     335    NEW ENGLAND PLASTIC SURGICAL AS / 29 CRAFTS ST #370            911 HANG   BOUDREAU M             491  
+17000226   1/3/2017     500    BOX 252/ SCHOOL ADM BUILD                                      STRAIGHT   BOUDREAU M             491  
+17000228   1/3/2017     740    203 SPIERS RD                                                  F.A. ACT   SCALTRETO F            496  
+17000229   1/3/2017     751    GROVE ST & SEMINARY AVE                                        DMV        CLAFLIN G              498  
+17000230   1/3/2017     800    WEBSTER BANK / 792 BEACON ST                                   ALM/BANK   VELLO A                506  
+17000233   1/3/2017     839    WALGREENS / 22 LANGLEY RD                                      MVA        VELLO A                494  
+17000234   1/3/2017     907    ROCKLAND TRUST / 40 AUSTIN ST                                  DIRECTED   BENES R                492  
+17000235   1/3/2017     917    WASHINGTON ST                                                  MVA/H&R    MCCARTHY T             991  
+17000236   1/3/2017     929    BOX 6242/ PARAGON TOWERS                                       STRAIGHT   SCALTRETO F            496  
+17000237   1/3/2017     956    BRIDGE ST & CALIFORNIA ST                                      MV/VIOL    GARCIA J               497  
+17000242   1/3/2017     1101   45 PONTIAC RD                                                  LF/PROP    PAGLIA RICH            493  
+17000243   1/3/2017     1108   47 CARLETON ST                                                 BREATH P   MANOUK K               AMB1 
+17000246   1/3/2017     1121   811 COMMONWEALTH AVE                                           CENT STA   WADE M                 499  
+17000250   1/3/2017     1148   NEW ENGLAND SCHOOL ACUPUNCTURE / 150 CALIFORNIA ST             REST/ORD   SIEGAL SC              502  
+17000257   1/3/2017     1239   CRAFTS ST & WATERTOWN ST                                       MVA/H&R    MANOUK K               491  
+17000258   1/3/2017     1244   NAHANTON WOODS CONDOMINIUMS / 210 NAHANTON ST #203             ALM/BURG   SCALTRETO F            496  
+17000259   1/3/2017     1255   49 HILLSIDE RD                                                 LF/PROP    SETIABUDI G            495  
+17000262   1/3/2017     1302   76 OLD FARM RD                                                 CBN MONO   CLAFLIN G              498  
+17000261   1/3/2017     1302   SAW MILL BROOK PKWY & VAN ROOSEN RD                            FND/PERS   SCALTRETO F            506  
+17000263   1/3/2017     1305   26 CHERRY ST                                                   911 HANG   BENES R                508  
+17000267   1/3/2017     1405   WALNUT ST & WATERTOWN ST                                       POL-ASSI   BENES R                492  
+17000269   1/3/2017     1412   50 DWHINDA RD                                                  FRAUD      MCCARTHY T             999  
+17000270   1/3/2017     1412   WINCHESTER PARK / 303 WINCHESTER ST                            LARCENY    MCCARTHY T             999  
+17000272   1/3/2017     1459   POLICE DEPT ANNEX / 25 CHESTNUT ST                             INVEST-G   DONAHUE K              999  
+17000273   1/3/2017     1501   WALLACE ST & WINCHESTER ST                                     RD/OBST    WADE M                 499  
+17000274   1/3/2017     1512   CENTRE ST & COMMONWEALTH AVE                                   MVA        FEROLITO B             494  
+17000275   1/3/2017     1519   27 DUNCKLEE ST                                                 PSY/EVAL   WALTON T               AMB1 
+17000277   1/3/2017     1552   35 FENWICK RD                                                  ALM/BURG   CHIEU R                493  
+17000278   1/3/2017     1556   1003 CHESTNUT ST                                               CEN STA/   EMMANUEL S             498  
+17000280   1/3/2017     1613   25 OLD ORCHARD RD                                              ALM/BURG   FEROLITO B             494  
+17000289   1/3/2017     1713   140 COMMONWEALTH AVE                                           MVA        FEROLITO B             494  
+17000290   1/3/2017     1713   227 WALNUT ST                                                  MVA/H&R    MIKOLEIT L             AMB2 
+17000292   1/3/2017     1743   NET VENTURES / 246 WALNUT ST #401                              ALM/BURG   BOUDREAU M             491  
+17000295   1/3/2017     1809   NAHANTON ST & WELLS AVE                                        MVA        CALDERON D             496  
+17000296   1/3/2017     1823   84 ADAMS AVE                                                   O/AGENCY   MIKOLEIT L             492  
+17000298   1/3/2017     1843   WOODLAND PARK APARTMENTS / 264 GROVE ST #7                     FA ACTV/   CHIEU R                493  
+17000299   1/3/2017     1849   BEACON ST & BEETHOVEN AVE                                      RD/OBST    WALTON T               495  
+17000301   1/3/2017     1920   CVS / 304 WALNUT ST                                            911 HANG   BERGDORF,J             502  
+17000302   1/3/2017     1921   CALYPSO / 33 BOYLSTON ST #3315                                 ALM/BURG   FEROLITO B             494  
+17000303   1/3/2017     1927   11 BRACKETT RD                                                 V/C/ORD    MARCH R                499  
+17000304   1/3/2017     1930   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           HEMOR/LA   MIKOLEIT L             AMB2 
+17000305   1/3/2017     1931   64 PARK ST                                                     NEIG/PRB   BOUDREAU M             491  
+17000307   1/3/2017     1956   WELLESLEY BANK / 776 BEACON ST                                 MVA        FEROLITO B             494  
+17000308   1/3/2017     2003   80 WEST ST                                                     HARASS     BOUDREAU M             491  
+17000309   1/3/2017     2003   60 LINCOLN RD #A                                               CHECK PE   TRAMONTOZZI B          MED2 
+17000310   1/3/2017     2025   ST JEANS HOUSING / 239 WATERTOWN ST                            DK         BOUDREAU M             491  
+17000311   1/3/2017     2104   STAR MARKET / 2040 COMMONWEALTH AVE                            LARCENY    LARSON R               500  
+17000314   1/3/2017     2113   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #1701S     ALM/BURG   FEROLITO B             494  
+17000319   1/3/2017     2151   70 BEACONWOOD RD #A                                            UNCONS/F   WALTON T               AMB2 
+17000321   1/3/2017     2228   79 RANDLETT PK                                                 CBN MONO   MIKOLEIT L             492  
+17000322   1/3/2017     2232   1652 CENTRE ST                                                 CHECK PE   FEROLITO B             494  
+17000323   1/3/2017     2307   RIVER ST & STAR RD                                             SUSP PER   HELMS G                491  
+17000327   1/3/2017     2348   GREGORIAN RUGS / 2284 WASHINGTON ST                            ALM/BURG   SULLIVAN D             493  

@@ -1,0 +1,133 @@
+17005678   2/13/2017    104    MORTON ST & VICTORIA CIR                                       POL-ASSI   MCNEIL R               495  
+17005682   2/13/2017    149    COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   MCNEIL R               495  
+17005683   2/13/2017    151    CITY HALL / 1000 COMMONWEALTH AVE                              UTIL/HAZ   BERGDORF,J             498  
+17005684   2/13/2017    206    50 IRVING ST                                                   CHECK PE   BOUDREAU C             494  
+17005686   2/13/2017    217    29 SOUTHGATE PK                                                UTIL/HAZ   BROOKS J               492  
+17005687   2/13/2017    321    75 FULLER ST                                                   UTIL/HAZ   MCNEIL R               495  
+17005688   2/13/2017    332    HENSHAW TER                                                    FORESTRY   BROOKS J               492  
+17005689   2/13/2017    355    BOX 93/ JEWISH COMMUNITY CENTER                                STRAIGHT   SOLOMAN A              496  
+17005691   2/13/2017    419    111 ELIOT AVE                                                  CBN MONO   BROOKS J               492  
+17005692   2/13/2017    426    SANTANDER BANK / 780 BEACON ST                                 V/C/ORD    SCHAEFER D             500  
+17005693   2/13/2017    509    NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   SOLOMAN A              496  
+17005694   2/13/2017    512    BALLARD ST & CENTRE ST                                         FORESTRY   COLETTI A              494  
+17005696   2/13/2017    607    118 AUSTIN ST                                                  FORESTRY   BROOKS J               492  
+17005697   2/13/2017    608    15 OAK AVE                                                     UTIL/HAZ   SPINNEY A              497  
+17005698   2/13/2017    616    10 LAUDHOLM RD                                                 FORESTRY   POUTAS D               502  
+17005699   2/13/2017    619    CENTRE ST & CHURCH ST                                          SNOW COM   CHISHOLM G             505  
+17005700   2/13/2017    630    HOLLY CLEANERS / 1314 CENTRE ST                                ALM/BURG   COLETTI A              494  
+17005701   2/13/2017    634    5 JAFFREY CIR                                                  UTIL/HAZ   MCNEIL R               495  
+17005702   2/13/2017    638    PRINCE ST                                                      FORESTRY   BROOKS J               492  
+17005703   2/13/2017    639    CASSELMAN HOUSE / 195 SUMNER ST #403                           LARCENY    COLETTI A              494  
+17005705   2/13/2017    656    29 RICHARDS CIR                                                FORESTRY   BROOKS J               492  
+17005706   2/13/2017    658    CHESTNUT ST & COMMONWEALTH AVE                                 RD/OBST    BROOKS J               492  
+17005707   2/13/2017    658    95 PARKER ST                                                   UTIL/HAZ   BOUDREAU C             499  
+17005708   2/13/2017    716    DERBY ST & WALTHAM ST                                          FORESTRY   MANOUK K               492  
+17005709   2/13/2017    721    JEFFERSON ST                                                   V/C/ORD    MCSWEENEY M            491  
+17005710   2/13/2017    726    47 CROSBY RD                                                   UTIL/HAZ   BENES R                494  
+17005711   2/13/2017    726    447 LOWELL AVE                                                 FORESTRY   MANOUK K               492  
+17005712   2/13/2017    728    CABOT SCHOOL / 229 CABOT ST                                    V/C/ORD    MCLEAN M               497  
+17005714   2/13/2017    749    117 WESTCHESTER RD                                             UTIL/HAZ   BENES R                494  
+17005715   2/13/2017    750    80 WOODCHESTER DR                                              V/C/ORD    COTTENS S              494  
+17005718   2/13/2017    758    120 FARLOW RD                                                  UTIL/HAZ   COLELLA M              497  
+17005719   2/13/2017    818    65 MARY ELLEN RD                                               F.A. ACT   GABRIEL A              495  
+17005722   2/13/2017    829    131 BISHOPSGATE RD                                             POL-ASSI   BENES R                494  
+17005724   2/13/2017    831    130 BERKELEY ST                                                UTIL/HAZ   MANOUK K               492  
+17005726   2/13/2017    840    SWARTZ TRUE VALUE HARDWARE / 353 WATERTOWN ST                  UTIL/HAZ   MCSWEENEY M            491  
+17005730   2/13/2017    920    61 BROOKLINE ST                                                UTIL/HAZ   SETIABUDI G            496  
+17005731   2/13/2017    921    11 JEPSEN CT                                                   UTIL/HAZ   MANOUK K               492  
+17005733   2/13/2017    933    414 WALNUT ST                                                  911 HANG   BENES R                494  
+17005734   2/13/2017    934    BEETHOVEN AVE                                                  SNOW COM   GABRIEL A              495  
+17005737   2/13/2017    1017   1599 WASHINGTON ST                                             POL-ASSI   MANOUK K               492  
+17005738   2/13/2017    1027   LEONARD H. STRAUSS DMD P.C. / 18 STATION AVE                   POL-ASSI   MARINI R               537  
+17005739   2/13/2017    1030   256 LOWELL AVE                                                 UTIL/HAZ   MANOUK K               492  
+17005741   2/13/2017    1031   93 FAIRWAY DR                                                  CBN MONO   COLELLA M              497  
+17005743   2/13/2017    1037   5 DWHINDA RD                                                   UTIL/HAZ   LAU J                  493  
+17005744   2/13/2017    1037   17 PLAINFIELD ST                                               FORESTRY   GARCIA J               498  
+17005747   2/13/2017    1044   FAIR OAKS AVE                                                  FORESTRY   COLELLA M              497  
+17005748   2/13/2017    1045   15 FREDANA RD                                                  OPEN DOO   LAU J                  493  
+17005749   2/13/2017    1053   CLOVERDALE RD & MILLER RD                                      FORESTRY   BENES R                494  
+17005751   2/13/2017    1058   GREEN TEA RESTAURANT / 24 ELLIOT ST                            UTIL/HAZ   GABRIEL A              495  
+17005752   2/13/2017    1059   378 CHERRY ST                                                  FORESTRY   COLELLA M              497  
+17005753   2/13/2017    1102   HALCYON RD & PARKER ST                                         FORESTRY   WADE M                 499  
+17005754   2/13/2017    1103   BEECH ST                                                       UTIL/HAZ   MCSWEENEY M            491  
+17005755   2/13/2017    1103   BLAKE ST & WITHINGTON RD                                       UTIL/HAZ   WADE M                 499  
+17005759   2/13/2017    1107   192 CHRISTINA ST                                               UTIL/HAZ   GAMBLE N               504  
+17005760   2/13/2017    1109   31 EAST QUINOBEQUIN RD                                         UTIL/HAZ   LAU J                  493  
+17005761   2/13/2017    1109   176 UPLAND AVE                                                 FORESTRY   GAMBLE N               504  
+17005765   2/13/2017    1119   SUNOCO SERVICE STATION / 325 BOYLSTON ST                       UNWANTED   OCONNELL J             495  
+17005766   2/13/2017    1131   BOSTON PSYCHOANALYTIC SOCIETY / 141 HERRICK RD                 OPEN DOO   BENES R                495  
+17005767   2/13/2017    1135   770 CHESTNUT ST                                                UTIL/HAZ   DANGELO K              IODX 
+17005768   2/13/2017    1142   16 DALBY ST                                                    UTIL/HAZ   MCSWEENEY M            491  
+17005769   2/13/2017    1144   26 CHERRY ST                                                   911 HANG   MCSWEENEY M            491  
+17005770   2/13/2017    1146   CENTRE SKI AND BIKE / 1239 WASHINGTON ST                       SNOW COM   MARINI R               537  
+17005771   2/13/2017    1152   AUSTIN ST                                                      FORESTRY   MANOUK K               492  
+17005772   2/13/2017    1152   AUSTIN ST & GREENWOOD AVE                                      FORESTRY   MANOUK K               492  
+17005773   2/13/2017    1153   CAPITAL ST & JACKSON RD                                        MVA/CITY   MARINI R               491  
+17005774   2/13/2017    1154   263 PEARL ST                                                   OUTSIDE    COLELLA M              497  
+17005775   2/13/2017    1159   70 WINDERMERE RD                                               FORESTRY   LAU J                  493  
+17005776   2/13/2017    1207   780 CHESTNUT ST                                                FORESTRY   GABRIEL A              495  
+17005777   2/13/2017    1211   4 BRIDGES AVE                                                  FORESTRY   COLELLA M              497  
+17005778   2/13/2017    1214   19 WYMAN ST                                                    ALM/BURG   GARCIA J               498  
+17005779   2/13/2017    1215   19 RICHARDSON RD                                               FORESTRY   GABRIEL A              495  
+17005780   2/13/2017    1235   93 CARLTON RD                                                  FORESTRY   LAU J                  493  
+17005781   2/13/2017    1239   94 CENTRAL ST                                                  UTIL/HAZ   LAU J                  493  
+17005783   2/13/2017    1242   112 CEDRIC RD                                                  UTIL/HAZ   BENES R                494  
+17005784   2/13/2017    1252   320 TREMONT ST                                                 FORESTRY   MCSWEENEY M            491  
+17005785   2/13/2017    1257   2280 COMMONWEALTH AVE                                          VAND/PRP   GAMBLE N               504  
+17005787   2/13/2017    1313   NWH HOSPITAL / 2014 WASHINGTON ST                              WARR/SER   COLELLA M              492  
+17005788   2/13/2017    1319   ST BERNARDS CHURCH / 1515 WASHINGTON ST                        UTIL/HAZ   GARCIA J               498  
+17005789   2/13/2017    1319   KENNETH WILDES HAIR SALON / 9 BEACON PL                        SNOW COM   MARINI R               537  
+17005794   2/13/2017    1337   133 DARTMOUTH ST                                               FORESTRY   SULLIVAN D             502  
+17005796   2/13/2017    1341   89 PURITAN RD                                                  UTIL/HAZ   GABRIEL A              495  
+17005798   2/13/2017    1351   93 HILLSIDE RD                                                 FORESTRY   GARCIA J               498  
+17005801   2/13/2017    1354   94 ELINOR RD                                                   FORESTRY   SETIABUDI G            496  
+17005802   2/13/2017    1354   COTTER RD & HELENE RD                                          FORESTRY   GARCIA J               498  
+17005803   2/13/2017    1356   26 MARSHALL ST                                                 ALM/BURG   BENES R                494  
+17005805   2/13/2017    1401   77 WEST ST                                                     UTIL/HAZ   MCSWEENEY M            491  
+17005806   2/13/2017    1414   MIDDLE ST                                                      UTIL/HAZ   SULLIVAN D             502  
+17005807   2/13/2017    1416   142 COTTON ST                                                  OUTSIDE    WADE M                 499  
+17005808   2/13/2017    1417   HIGHLAND ST & LOWELL AVE                                       UTIL/HAZ   LAU J                  492  
+17005809   2/13/2017    1418   116 MANDALAY RD                                                ALM/BURG   BENES R                494  
+17005811   2/13/2017    1442   5 MERRILL RD                                                   OUTSIDE    BENES R                494  
+17005812   2/13/2017    1450   MOM CENTRAL INC / 55 CHAPEL ST #3RD FL                         ALM/BURG   MCSWEENEY M            491  
+17005813   2/13/2017    1451   CVS / 1199 CENTRE ST                                           LARCENY    VELLO A                999  
+17005815   2/13/2017    1510   31 LLEWELLYN RD                                                FORESTRY   BROOKS J               492  
+17005817   2/13/2017    1545   116 WINSLOW RD                                                 UTIL/HAZ   MCNEIL R               495  
+17005819   2/13/2017    1600   33 GORDON RD                                                   ALM/BURG   MCNEIL R               495  
+17005820   2/13/2017    1605   TEMPLE BETH AVODAH / 45 PUDDING STONE LA                       ALM/BURG   POUTAS D               496  
+17005821   2/13/2017    1608   60 BOYD ST                                                     NEIG/PRB   BANNON T               491  
+17005822   2/13/2017    1609   15 OAK AVE                                                     UTIL/HAZ   MCNEIL R               492  
+17005823   2/13/2017    1620   FIXED ATTMO  / 100 CONCORD ST                                  911 HANG   SIEGAL D               493  
+17005824   2/13/2017    1626   88 CENTRAL ST                                                  FORESTRY   CROWE, J               498  
+17005827   2/13/2017    1636   NWH HOSPITAL / 2014 WASHINGTON ST                              GROUP      KOERBER P              501  
+17005828   2/13/2017    1643   LOS AMIGOS  / 324 WALNUT ST                                    CENT STA   BANNON T               492  
+17005830   2/13/2017    1657   LOWELL AVE & OTIS ST                                           UTIL/HAZ   BROOKS J               492  
+17005829   2/13/2017    1701   280 WOODCLIFF RD                                               UTIL/HAZ   POUTAS D               496  
+17005831   2/13/2017    1702   PANASONIC / 2 WELLS AVE                                        ALM/BURG   BOUDREAU C             496  
+17005833   2/13/2017    1705   BROOKLINE ST & DEDHAM ST                                       SIGN/SIG   POUTAS D               496  
+17005834   2/13/2017    1712   CARLTON RD & NEHOIDEN RD                                       UTIL/HAZ   SIEGAL D               493  
+17005837   2/13/2017    1726   SARGENT ST & WAVERLEY AVE                                      MV/STOP    LARSON R               500  
+17005843   2/13/2017    1742   ELIOT MEMORIAL RD & WAVERLEY AVE                               MV/STOP    LARSON R               500  
+17005845   2/13/2017    1749   60 COLBERT RD EAST                                             CBN MONO   BROOKS J               492  
+17005847   2/13/2017    1753   VINE ST                                                        GROUP      POUTAS D               496  
+17005849   2/13/2017    1807   133 FOREST AVE                                                 ALM/BURG   BROOKS J               492  
+17005855   2/13/2017    1840   28 EXMOOR RD                                                   FORESTRY   COLETTI A              494  
+17005858   2/13/2017    1901   CANCRO CHIROPRACTIC PC / 18 STATION AVE                        ALM/BURG   MCNEIL R               495  
+17005857   2/13/2017    1901   WEST NEWTON PIZZA & GRILL / 1288 WASHINGTON ST                 DMV        BROOKS J               492  
+17005859   2/13/2017    1912   24 WINDERMERE RD                                               CENT STA   BROOKS J               492  
+17005860   2/13/2017    1914   42 DONNA RD                                                    ALM/BURG   POUTAS D               496  
+17005861   2/13/2017    1916   86 VARICK RD                                                   UTIL/HAZ   SIEGAL D               493  
+17005862   2/13/2017    1922   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         POL-ASSI   MCNEIL R               495  
+17005864   2/13/2017    1950   HUNTINGTON TV  / 369 BOYLSTON ST                               ALM/BURG   COLETTI A              494  
+17005866   2/13/2017    2001   43 PENNSYLVANIA AVE                                            UTIL/HAZ   MCNEIL R               495  
+17005871   2/13/2017    2043   1930 WASHINGTON ST                                             ALM/BURG   SIEGAL D               493  
+17005872   2/13/2017    2053   19 BENCLIFFE CIR                                               SP/INCD    BROOKS J               492  
+17005873   2/13/2017    2057   36 WILLOW ST                                                   UTIL/HAZ   COLETTI A              494  
+17005874   2/13/2017    2112   COMMONWEALTH AVE & MELROSE ST                                  MV/STOP    BROOKS J               492  
+17005875   2/13/2017    2132   FOX NEWS / 1230 WASHINGTON ST                                  911 HANG   HEALY D                497  
+17005876   2/13/2017    2200   NORTH CROSSING / 47 PARK ST                                    FND/PERS   BANNON T               491  
+17005877   2/13/2017    2208   471 WASHINGTON ST                                              MV/STOP    LARSON R               500  
+17005878   2/13/2017    2213   RICE VALLEY / 821 WASHINGTON ST                                ALM/BURG   BANNON T               491  
+17005879   2/13/2017    2215   AVALON AT CHESTNUT HILL BLDG 1 / 160 BOYLSTON ST               ALM/BURG   POUTAS D               496  
+17005881   2/13/2017    2242   10 TANGLEWOOD RD                                               SNOW COM   POUTAS D               496  
+17005885   2/13/2017    2341   NEWTON DISTRICT COURT HOUSE / 1309 WASHINGTON ST               INVEST-G   KEEFE T                WN   

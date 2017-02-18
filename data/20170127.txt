@@ -1,0 +1,72 @@
+17003170   1/26/2017    19     THE LOCAL / 1391 WASHINGTON ST                                 SP/INCD    BROOKS J               492  
+17003173   1/26/2017    116    109 WOODCLIFF RD                                               L/NOISE    BANNON T               496  
+17003178   1/26/2017    224    11 CHURCH ST                                                   ALM-M/V    HEALY D                492  
+17003182   1/26/2017    247    UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   COLETTI A              494  
+17003183   1/26/2017    300    11 CHURCH ST                                                   ALM-M/V    CROWE, J               491  
+17003186   1/26/2017    522    EURO PRO / 1210 WASHINGTON ST                                  MVA / MI   BROOKS J               MED2 
+17003188   1/26/2017    531    KENNETH WILDES HAIR SALON / 9 BEACON PL                        ALM/BURG   MCNEIL R               495  
+17003189   1/26/2017    539    UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   COLETTI A              494  
+17003190   1/26/2017    542    THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #1208N     FALL/BAC   BOUDREAU C             MED2 
+17003193   1/26/2017    739    CENTRE ST & WASHINGTON ST                                      MVA        LARSON R               491  
+17003195   1/26/2017    749    BLOOMINGDALES MEN'S STORE / 175 BOYLSTON ST                    ALM/BURG   BENES R                494  
+17003196   1/26/2017    801    SEASONS 52 / 220 BOYLSTON ST #BLD C117                         ALM/BURG   SETIABUDI G            494  
+17003197   1/26/2017    817    BOYLSTON ST & FLORAL ST                                        MVA        GABRIEL A              495  
+17003203   1/26/2017    900    997 CHESTNUT ST #5                                             ALM/BURG   CLAFLIN G              498  
+17003206   1/26/2017    928    DUNKIN DONUTS / 401 WATERTOWN ST                               MVA        COLELLA M              497  
+17003208   1/26/2017    938    ALBEMARLE RD & BROOKSIDE AVE                                   V/C/ORD    MANOUK K               492  
+17003211   1/26/2017    1056   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           INVEST-G   PANICA J               999  
+17003212   1/26/2017    1108   11 BUNKER LA                                                   ALM/BURG   MANOUK K               492  
+17003214   1/26/2017    1117   135 HARTMAN RD                                                 UNKN ODO   WADE M                 499  
+17003216   1/26/2017    1120   WALGREENS / 22 LANGLEY RD                                      911 HANG   BENES R                494  
+17003217   1/26/2017    1125   177 OLIVER RD                                                  RELINQUI   CLAFLIN G              498  
+17003218   1/26/2017    1126   905 WATERTOWN ST                                               SICK/INJ   MANOUK K               492  
+17003222   1/26/2017    1151   COUNTRYSIDE SCHOOL / 191 DEDHAM ST                             FALL/BAC   WADE M                 AMB1 
+17003223   1/26/2017    1206   SOCIAL RESTAURANT AND BAR / 320 WASHINGTON ST                  UNWANTED   LARSON R               491  
+17003227   1/26/2017    1242   ARLINGTON ST & WAVERLEY AVE                                    SIGN/SIG   COLELLA M              497  
+17003228   1/26/2017    1245   BANK OF AMERICA / 808 BEACON ST                                ALM/BANK   BENES R                494  
+17003232   1/26/2017    1309   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #1604N     UNKN PRO   BENES R                AMB1 
+17003233   1/26/2017    1310   ARTHUR T. GREGORIA, INC / 2284 WASHINGTON ST                   MVA / MI   VELLO A                AMB2 
+17003234   1/26/2017    1316   BOYLSTON ST & ELLIOT ST                                        POL-ASSI   GABRIEL A              495  
+17003235   1/26/2017    1325   BANK OF AMERICA / 808 BEACON ST                                ALM/BANK   PAGLIA RICH            496  
+17003237   1/26/2017    1342   35 NORWOOD AVE                                                 ANIMAL P   GABRIEL A              495  
+17003238   1/26/2017    1343   BLOOMINGDALES FRONT UPPER MALL / 225 BOYLSTON ST               LARCENY    MCCARTHY T             999  
+17003240   1/26/2017    1400   FIRST  COMMON BANK / 718 BEACON ST                             UTIL/HAZ   BENES R                494  
+17003245   1/26/2017    1416   BOX 5215/ 1643 BEACON ST                                       STRAIGHT   PAGLIA RICH            500  
+17003246   1/26/2017    1419   146 LANGLEY RD                                                 PSY/EVAL   BENES R                AMB1 
+17003247   1/26/2017    1425   95 LEVBERT RD                                                  ALM/BURG   GABRIEL A              495  
+17003249   1/26/2017    1426   SUMNER ST & WARD ST                                            SUSP PER   GABRIEL A              495  
+17003248   1/26/2017    1426   39 UNDERWOOD AVE                                               LARCENY    COLELLA M              497  
+17003250   1/26/2017    1452   181 NEHOIDEN RD                                                CBN MONO   CLAFLIN G              498  
+17003253   1/26/2017    1506   CITY HALL / 1000 COMMONWEALTH AVE                              ALM/BURG   PAGLIA RICH            495  
+17003255   1/26/2017    1509   31 BUSWELL PK                                                  F.A. ACT   BOYLE P                500  
+17003256   1/26/2017    1513   30 SIMMS CT                                                    MVA/CITY   BROOKS J               492  
+17003259   1/26/2017    1535   BOX 6154/ ELDERLY HOUSING                                      STRAIGHT   MCNEIL R               495  
+17003260   1/26/2017    1554   80 FLORAL ST                                                   B&E PAST   MCNEIL R               495  
+17003261   1/26/2017    1557   30 SIMMS CT                                                    MVA        DEVINE D               AMB2 
+17003262   1/26/2017    1605   250 SPIERS RD                                                  INVEST-G   POUTAS D               502  
+17003263   1/26/2017    1605   1548 COMMONWEALTH AVE                                          ALM/BURG   SULLIVAN D             493  
+17003266   1/26/2017    1629   87 ROWE ST                                                     ILL/PARK   HAMANN,T               492  
+17003267   1/26/2017    1631   22 ELM ST                                                      SICK/INJ   HAMANN,T               497  
+17003268   1/26/2017    1632   19 PATTEN CIR                                                  MVA        BANNON T               496  
+17003272   1/26/2017    1641   J. CREW / 199 BOYLSTON ST                                      POL-ASSI   BOUDREAU C             499  
+17003271   1/26/2017    1654   WEGMANS / 200 BOYLSTON ST                                      LAR/SHOP   COLETTI A              494  
+17003273   1/26/2017    1735   CONCORD STREET APARTMENTS / 151 CONCORD ST #21                 STROKE-C   SULLIVAN D             MED2 
+17003274   1/26/2017    1736   NEWTON CEMETERY CORP / CHAPEL / 791 WALNUT ST                  ALM/BURG   MCNEIL R               495  
+17003276   1/26/2017    1749   KEYES ST & WALTHAM ST                                          MV/STOP    BROOKS J               492  
+17003278   1/26/2017    1757   7 WASHBURN ST                                                  CHECK PE   CROWE, J               MED2 
+17003280   1/26/2017    1803   MAIN LIBRARY / 330 HOMER ST FL 2                               SICK-D     BOYLE P                MED1 
+17003281   1/26/2017    1805   179 HIGHLAND AVE                                               CENT STA   BROOKS J               492  
+17003282   1/26/2017    1819   260 RIVER ST                                                   INVEST-G   BROOKS J               492  
+17003283   1/26/2017    1826   BEACON ST & HAMMOND POND PKWY                                  MVA        COLETTI A              494  
+17003284   1/26/2017    1827   CENTRE ST & PLEASANT ST                                        MVA/PED    BOUDREAU C             AMB2 
+17003286   1/26/2017    1835   CENTRE ST & FRANKLIN ST                                        MVA        HAMANN,T               497  
+17003287   1/26/2017    1855   BEACON ST & CRESCENT AVE                                       ILL/PARK   FERGUSON A             498  
+17003291   1/26/2017    2003   16 ADAMS AVE                                                   LOUD PAR   BROOKS J               492  
+17003294   1/26/2017    2134   LONGWOOD CRICKET CLUB / 564 HAMMOND ST                         ALM/BURG   COLETTI A              494  
+17003295   1/26/2017    2137   11 CHURCH ST                                                   ALM-M/V    CROWE, J               491  
+17003296   1/26/2017    2139   37 AUDUBON DR                                                  ALLERG/R   BANNON T               MED1 
+17003297   1/26/2017    2156   AVALON AT CHESTNUT HILL BLDG 1 / 160 BOYLSTON ST               ALM/BURG   BANNON T               496  
+17003299   1/26/2017    2216   80 LOUISE RD                                                   UNCONS/F   BANNON T               AMB2 
+17003300   1/26/2017    2220   NORTHLAND INVESTMENT CORP. / 2150 WASHINGTON ST                ALM/BURG   SULLIVAN D             493  
+17003301   1/26/2017    2231   4 CORNERS PIZZA / 1140 BEACON ST                               MV/STOP    MCNEIL R               495  
+17003302   1/26/2017    2237   PEARL ST & WATERTOWN ST                                        MV/STOP    BOYLE P                500  

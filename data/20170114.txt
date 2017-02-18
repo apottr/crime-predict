@@ -1,0 +1,71 @@
+17001601   1/13/2017    31     NEWTON CENTRE FIELD HOUSE / 69 TYLER TER                       ALM/BURG   FEROLITO B             494  
+17001602   1/13/2017    34     CLARK & WHITE INC / 777 WASHINGTON ST                          ALM/BURG   HELMS G                491  
+17001609   1/13/2017    132    FRED ZAYAS CPA PC / 185 CHARLESBANK RD                         ALM/BURG   HELMS G                491  
+17001608   1/13/2017    132    ASH ST & COMMONWEALTH AVE                                      MV/STOP    BROOKS J               493  
+17001610   1/13/2017    140    MARRIOTT HOTEL / 2345 COMMONWEALTH AVE                         MV/STOP    BROOKS J               493  
+17001611   1/13/2017    146    SHAKE SHACK / 49 BOYLSTON ST                                   911 HANG   FEROLITO B             494  
+17001612   1/13/2017    409    CLARK & WHITE INC / 777 WASHINGTON ST                          ALM/BURG   HELMS G                491  
+17001613   1/13/2017    435    7 LODGE RD                                                     SP/INCD    NARDELLI D             497  
+17001614   1/13/2017    505    242 FULLER ST                                                  CHEST PA   BROOKS J               MED1 
+17001615   1/13/2017    520    TD BANK  MA / 1197 CENTRE ST                                   ALM/BURG   SOLOMAN A              495  
+17001616   1/13/2017    607    LULULEMON ATHLETICA / 55 BOYLSTON ST #5530                     ALM/BURG   FEROLITO B             494  
+17001617   1/13/2017    610    190 FOREST AVE                                                 ALM/BURG   NARDELLI D             497  
+17001618   1/13/2017    654    68 STANIFORD ST                                                B&E PAST   NARDELLI D             492  
+17001619   1/13/2017    704    60 WELLS AVE #101                                              ALM/BURG   CALDERON D             496  
+17001620   1/13/2017    714    SCHOOL ADM BUILD / 100 WALNUT ST                               INVEST-G   ADAM R                 999  
+17001621   1/13/2017    736    225 VARICK RD                                                  ALM/BURG   GOURDEAU J             493  
+17001622   1/13/2017    737    NESHOBE RD & VARICK RD                                         UTIL/HAZ   GOURDEAU J             493  
+17001623   1/13/2017    750    BOX 5422/ NWH HOSPITAL                                         STRAIGHT   COLELLA M              498  
+17001625   1/13/2017    812    60 BROOKS AVE                                                  ILL/PARK   MCLAUGHLIN J           492  
+17001626   1/13/2017    813    CENTRAL ST & GROVE ST                                          MVA        GOURDEAU J             493  
+17001627   1/13/2017    821    WALNUT ST & WASHINGTON ST                                      SIGN/SIG   PAGLIA RICH            491  
+17001628   1/13/2017    833    COMMONWEALTH AVE & MT ALVERNIA RD                              SUSP PER   MCNEIL R               494  
+17001630   1/13/2017    846    25 CHESTNUT ST                                                 MVA        GAUDET M               525  
+17001631   1/13/2017    858    160 WOODCLIFF RD                                               CARD/RES   BOUDROT E              MED1 
+17001633   1/13/2017    918    GROVE ST & RTE 128                                             MVA        COLELLA M              498  
+17001636   1/13/2017    936    KIRKSTALL RD                                                   MV/STOP    MCNEIL R               494  
+17001639   1/13/2017    1008   FRANKLIN SCHOOL / 125 DERBY ST                                 MVA/PAST   MCCARTHY T             999  
+17001640   1/13/2017    1014   IMPERIAL TOWERS / 280 BOYLSTON ST #608                         BREATH P   BOUDROT E              AMB1 
+17001642   1/13/2017    1049   30 MONTVALE RD                                                 FRAUD      MCNEIL R               494  
+17001643   1/13/2017    1052   80 SELWYN RD                                                   BREATH P   BOUDROT E              MED1 
+17001645   1/13/2017    1128   NWH HOSPITAL / 2014 WASHINGTON ST                              COURTDOC   GOURDEAU J             493  
+17001650   1/13/2017    1159   COMMONWEALTH AVE & TEMPLE ST                                   MVA        MCLAUGHLIN J           492  
+17001656   1/13/2017    1235   HART LANDSCAPING INC / 32 COLONIAL AVE                         HARASS     MCCARTHY T             999  
+17001659   1/13/2017    1239   1414 CENTRE ST                                                 PUB/HAZ    CALDERON D             495  
+17001660   1/13/2017    1239   44 DOLPHIN RD                                                  CHECK PE   MCNEIL R               AMB2 
+17001661   1/13/2017    1245   NWH HOSPITAL / 2014 WASHINGTON ST                              HARASS     GOURDEAU J             493  
+17001662   1/13/2017    1250   LANGLEY RD                                                     RD/OBST    CALDERON D             495  
+17001664   1/13/2017    1331   LEGAL SEA FOOD / 43 BOYLSTON ST                                MVA/PED    DEVINE D               AMB1 
+17001665   1/13/2017    1342   MICHAEL AND COMPANY, INC. / 437 NEWTONVILLE AVE                LF/PROP    PAGLIA RICH            491  
+17001666   1/13/2017    1421   SILICON VALLEY BANK / 275 GROVE ST                             911 HANG   COLELLA M              498  
+17001667   1/13/2017    1426   12 RIDGE AVE                                                   SP/INCD    CALDERON D             495  
+17001668   1/13/2017    1439   JACOBS AUTO / 1232 WASHINGTON ST                               ROAD RAG   MCLAUGHLIN J           497  
+17001669   1/13/2017    1444   NAHANTON WOODS CONDOMINIUMS / 210 NAHANTON ST #501             FALL/BAC   BOUDROT E              AMB1 
+17001670   1/13/2017    1502   COUNTRYSIDE SCHOOL / 191 DEDHAM ST                             MVA        GUARINO C              499  
+17001671   1/13/2017    1515   CHESTNUT ST & HIGHLAND ST                                      DMV        NARDELLI D             491  
+17001672   1/13/2017    1537   NEWTON MONTESSORI SCHOOL / 80 CRESCENT AVE                     ALM/BURG   BERGDORF,J             495  
+17001673   1/13/2017    1611   16 HARGRAVE CIR #A                                             DEFAULT    BERGDORF,J             495  
+17001674   1/13/2017    1622   330 HARTMAN RD                                                 ALM/BURG   GUARINO C              496  
+17001676   1/13/2017    1626   79 PARKER AVE                                                  CHECK PE   GUARINO C              496  
+17001675   1/13/2017    1636   ELLIOT ST & PETTEE ST                                          ASSIST O   CICCONE, A             499  
+17001678   1/13/2017    1649   NEGOSHIANS TOWING(SUNOCO) / 14 ELLIOT ST                       MVA        CROWE, J               494  
+17001680   1/13/2017    1649   COMMONWEALTH AVE & HAMMOND ST                                  SIGN/SIG   CROWE, J               494  
+17001681   1/13/2017    1655   HAMILTON HOUSE / 541 GROVE ST                                  MV/STOP    BANNON T               493  
+17001682   1/13/2017    1709   86 LOS ANGELES ST                                              ILL/PARK   MIKOLEIT L             497  
+17001685   1/13/2017    1724   47 ROKEBY RD                                                   CENT STA   BANNON T               493  
+17001687   1/13/2017    1746   95 ELINOR RD                                                   911 HANG   GUARINO C              496  
+17001688   1/13/2017    1751   116 CHESTNUT HILL RD                                           ALM/BURG   CICCONE, A             499  
+17001689   1/13/2017    1809   GARDEN CITY AUTO BODY / 1207 WASHINGTON ST                     KEEP/PCE   MIKOLEIT L             497  
+17001693   1/13/2017    1836   UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   CROWE, J               494  
+17001694   1/13/2017    1851   46 HATFIELD RD                                                 LOST/PER   NARDELLI D             AMB2 
+17001695   1/13/2017    1858   BEACON ST & IRVINGTON ST                                       MV/STOP    BANNON T               493  
+17001696   1/13/2017    1900   LOCK BY DESIGN / 40 MILLER RD                                  COURTDOC   LARSON R               500  
+17001697   1/13/2017    1931   NEIGHBORHOOD CLUB / 24 BERKELEY ST                             CENT STA   MIKOLEIT L             497  
+17001699   1/13/2017    1943   GARDEN APTS / 336 BOYLSTON ST #302                             CHEST PA   GUARINO C              MED1 
+17001700   1/13/2017    2005   160 DARTMOUTH ST                                               CENT STA   BANNON T               493  
+17001701   1/13/2017    2034   ASPEN AVE & WASHINGTON ST                                      MV/STOP    BANNON T               493  
+17001702   1/13/2017    2040   83 WENDELL RD                                                  PSY/EVAL   BOUDREAU J             AMB2 
+17001703   1/13/2017    2043   WOODLAND GOLF CLUB / SONLEO WASHINGTON ST                      MV/STOP    BANNON T               493  
+17001707   1/13/2017    2125   IMPERIAL TOWERS / 280 BOYLSTON ST #901 FL 9                    DEFAULT    GUARINO C              496  
+17001709   1/13/2017    2225   THE FALLS AT CORDINGLY DAM / 2300 WASHINGTON ST #415           CARD/RES   BANNON T               MED2 
+17001711   1/13/2017    2321   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FND/PERS   POHLMAN, K             495  

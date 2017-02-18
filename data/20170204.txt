@@ -1,0 +1,58 @@
+17004197   2/3/2017     26     WALGREENS / 399 WASHINGTON ST                                  ALM/BURG   HELMS G                491  
+17004201   2/3/2017     106    WASHINGTON TER & WASHINGTON ST                                 MV/STOP    HELMS G                491  
+17004206   2/3/2017     118    WALGREENS / 399 WASHINGTON ST                                  POL-ASSI   HELMS G                491  
+17004209   2/3/2017     229    50 JANET RD                                                    SP/INCD    CROWE, J               508  
+17004211   2/3/2017     430    BLUE RIBBON BARBECUE INC / 45 KENNETH ST                       ALM/BURG   GAMBLE N               496  
+17004217   2/3/2017     656    CROSBY BENEFIT SYSTEMS / 27 CHRISTINA ST #200                  ALM/BURG   SETIABUDI G            496  
+17004218   2/3/2017     716    BANK OF AMERICA / 808 BEACON ST                                ALM/BANK   SETIABUDI G            495  
+17004220   2/3/2017     810    1611 COMMONWEALTH AVE                                          CENT STA   MANOUK K               497  
+17004223   2/3/2017     843    67 UNION ST                                                    ALM/BURG   BENES R                494  
+17004224   2/3/2017     848    64 CLIFTON RD                                                  MVA/PAST   SETIABUDI G            496  
+17004229   2/3/2017     924    1016 CENTRE ST                                                 CENT STA   BENES R                494  
+17004235   2/3/2017     1003   212 GREENWOOD ST                                               ALM/BURG   PAGLIA ROBT            499  
+17004237   2/3/2017     1012   176 HARTMAN RD                                                 INVEST-G   PAGLIA ROBT            499  
+17004246   2/3/2017     1051   BOX 4711/ GOLDA MEIR ELDERLY HOUSING                           STRAIGHT   GOURDEAU J             493  
+17004250   2/3/2017     1111   POOCH HOTEL / 285 NEWTONVILLE AVE                              CENT STA   COLELLA M              491  
+17004252   2/3/2017     1119   1057 WALNUT ST                                                 INVEST-G   CLAFLIN G              498  
+17004256   2/3/2017     1143   40 WHITE PINE RD                                               ALM/BURG   HILL R                 495  
+17004259   2/3/2017     1152   85 ALLISON ST                                                  ILL/PARK   COLELLA M              491  
+17004262   2/3/2017     1200   171 UPLAND AVE                                                 ALM/BURG   RAYMOND Z              501  
+17004263   2/3/2017     1208   DEPASQUALES GROCERY / 241 ADAMS ST                             LF/PROP    VELLO A                WN   
+17004266   2/3/2017     1214   BOX 5214/ WABAN HILL TRUST/89-97 WYMAN                         STRAIGHT   GOURDEAU J             493  
+17004267   2/3/2017     1234   LEARNING PREP CENTER / 1507 WASHINGTON ST                      INVEST-G   VELLO A                WN   
+17004270   2/3/2017     1307   MAIN LIBRARY / 330 HOMER ST                                    MVA        HILL R                 495  
+17004273   2/3/2017     1339   23 PERKINS ST                                                  ALM/BURG   WALSH T                492  
+17004276   2/3/2017     1419   MARATHON PHYSICAL THERAPY / 425 CENTRE ST                      MVA        GARCIA J               502  
+17004277   2/3/2017     1423   29 BRYON RD                                                    INVEST-G   VELLO A                WN   
+17004279   2/3/2017     1430   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           MVA        MANOUK K               497  
+17004281   2/3/2017     1455   37 VERNON ST                                                   HARASS     HELMS G                491  
+17004283   2/3/2017     1459   JARED / 200 BOYLSTON ST                                        ALM/BURG   SETIABUDI G            496  
+17004284   2/3/2017     1504   97 MORTON ST                                                   OUTSIDE    PAGLIA ROBT            499  
+17004285   2/3/2017     1511   WABAN LIBRARY / 1608 BEACON ST                                 ALM/BURG   SULLIVAN D             493  
+17004293   2/3/2017     1613   176 HARTMAN RD                                                 POL-ASSI   GAMBLE N               496  
+17004294   2/3/2017     1626   9 CHARLESBANK RD #1                                            COURTDOC   BROOKS J               500  
+17004297   2/3/2017     1650   LANGLEY RD & UNION ST                                          MVA        CROWE, J               494  
+17004298   2/3/2017     1702   BEACON ST & CRESCENT AVE                                       MVA        MCNEIL R               495  
+17004300   2/3/2017     1705   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #708N      LF/PROP    DURICKAS K             499  
+17004303   2/3/2017     1710   11 BAKER PL                                                    INVEST-G   SELIG, J               503  
+17004305   2/3/2017     1728   73 SMITH AVE                                                   COURTDOC   BROOKS J               500  
+17004306   2/3/2017     1743   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        HARASS     MCLEAN M               WN   
+17004307   2/3/2017     1747   252 AUBURNDALE AVE                                             REST/ORD   BROOKS J               500  
+17004311   2/3/2017     1808   11 MARSHALL ST                                                 PHONECAL   CROWE, J               494  
+17004312   2/3/2017     1819   DAVIS AVE & WATERTOWN ST                                       DETAIL     HEALY S                506  
+17004315   2/3/2017     1856   HOLLIS HOTEL / 540 CENTRE ST                                   COURTDOC   BROOKS J               500  
+17004316   2/3/2017     1900   12 DEXTER RD                                                   ILL/PARK   HOWES C                492  
+17004317   2/3/2017     1904   AREN / 11 JOHN ST                                              ALM/BURG   DURICKAS K             499  
+17004318   2/3/2017     1918   CVS / 999 WATERTOWN ST                                         MVA/H&R    LAZARAKIS Z            491  
+17004320   2/3/2017     1953   CENTRE ST & WALNUT ST                                          MVA        MCLEAN M               WN   
+17004322   2/3/2017     2028   NEW FALLS APARTMENTS / 2301 WASHINGTON ST #2                   CHECK PE   SULLIVAN D             493  
+17004326   2/3/2017     2150   18 CLAFLIN PL                                                  SUSP PER   CONLEY B               497  
+17004327   2/3/2017     2152   43 GRAYSON LA                                                  SP/INCD    FERGUSON A             493  
+17004328   2/3/2017     2155   ALBEMARLE RD & MAYNARD ST                                      GROUP      HOWES C                492  
+17004331   2/3/2017     2237   120 WABAN AVE                                                  ALM/BURG   FERGUSON A             498  
+17004333   2/3/2017     2332   WARREN HOUSE / 1600 WASHINGTON ST                              DMV        KANE A                 492  
+17004334   2/3/2017     2333   56 DANIEL ST                                                   FIREWORK   KEEFE T                494  
+17004335   2/3/2017     2334   159 NEHOIDEN RD                                                ALM/BURG   CHIEU R                493  
+17004336   2/3/2017     2335   46 CENTRAL AVE                                                 LOCK OUT   POHLMAN, K             491  
+17004339   2/3/2017     2351   PAUL STREET CONDO / 33 PAUL ST #33                             CHECK PE   KEEFE T                494  
+17004338   2/3/2017     2353   122 CLEVELAND ST                                               O/AGENCY   KANE A                 492  

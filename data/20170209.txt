@@ -1,0 +1,98 @@
+17004855   2/8/2017     54     VIDEOLINK, INC / 1230 WASHINGTON ST                            ALM/BURG   CICCONE, A             492  
+17004868   2/8/2017     210    COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   WALTON T               508  
+17004869   2/8/2017     243    199 OTIS ST                                                    INVEST-G   POHLMAN, K             497  
+17004871   2/8/2017     343    NSTAR / 374 HOMER ST                                           SP/INCD    WALTON T               495  
+17004873   2/8/2017     429    NORTH CROSSING / 47 PARK ST                                    FND/PERS   BOUDREAU M             491  
+17004874   2/8/2017     516    ADAMS STREET APARTMENTS / 175 ADAMS ST #15                     L/NOISE    BOUDREAU M             491  
+17004875   2/8/2017     538    AUBURN ST & GREENOUGH ST                                       MVA        CICCONE, A             492  
+17004878   2/8/2017     543    CONCORD ST & HAGAR ST                                          MVA        EMMANUEL S             498  
+17004882   2/8/2017     557    MARRIOTT HOTEL / 2345 COMMONWEALTH AVE                         MVA        SIEGAL D               503  
+17004883   2/8/2017     601    CONCORD ST & HAGAR ST                                          MVA        EMMANUEL S             999  
+17004885   2/8/2017     606    PARK AVE & SARGENT ST                                          MVA        FEROLITO B             494  
+17004884   2/8/2017     606    HIGHLAND ST & LOWELL AVE                                       MVA        BOUDREAU M             508  
+17004886   2/8/2017     628    GROVE ST & MYRTLE AVE                                          MVA        CHIEU R                493  
+17004889   2/8/2017     632    BEACON ST & HAMMOND ST                                         MVA        FEROLITO B             494  
+17004895   2/8/2017     651    LINWOOD AVE & WALNUT ST                                        MVA        CICCONE, A             492  
+17004896   2/8/2017     652    CALIFORNIA ST & NEVADA ST                                      MVA        KEEFE T                WN   
+17004897   2/8/2017     653    GRASMERE ST & WASHINGTON ST                                    DMV        KEEFE T                WN   
+17004898   2/8/2017     655    HIGHLAND ST & TEMPLE ST                                        MVA        BOUDREAU M             491  
+17004899   2/8/2017     659    73 HIGHLAND ST                                                 DMV        KEEFE T                WN   
+17004900   2/8/2017     712    HAMMOND ST & RESERVOIR AVE                                     MVA        CALDERON D             496  
+17004902   2/8/2017     715    16 CHAPEL ST                                                   MVA/H&R    LAU J                  527  
+17004903   2/8/2017     716    ELM ST & WEBSTER ST                                            MVA        EMMANUEL S             498  
+17004906   2/8/2017     724    MILL ST & WALNUT ST                                            MVA        VELLO A                530  
+17004910   2/8/2017     729    DERBY ST & WALTHAM ST                                          MVA        CLAFLIN G              601  
+17004909   2/8/2017     731    41 WASHINGTON ST                                               MVA        BENES R                502  
+17004912   2/8/2017     737    HIGHLAND ST & VALENTINE ST                                     MVA        GAUDET M               498  
+17004913   2/8/2017     738    7 LUCILLE PL                                                   DMV        CALDERON D             496  
+17004916   2/8/2017     741    DUDLEY RD & NARDELL RD                                         MVA        CALDERON D             496  
+17004915   2/8/2017     742    HIGHLAND ST & LOCKWOOD RD                                      MVA        BOUDREAU M             491  
+17004917   2/8/2017     744    181 BELLEVUE ST                                                MVA        CICCONE, A             WN   
+17004919   2/8/2017     745    GRANT AVE & MARSHALL ST                                        MVA        SCALTRETO F            504  
+17004918   2/8/2017     746    GROVE ST & WOODLAND RD                                         MVA        CHIEU R                493  
+17004921   2/8/2017     749    CHESTNUT HILL TER & GATE HOUSE RD                              MVA        FEROLITO B             494  
+17004920   2/8/2017     749    CHESTNUT HILL TER & GATE HOUSE RD                              MVA/CITY   GABRIEL A              495  
+17004923   2/8/2017     753    COMMONWEALTH AVE & TEMPLE ST                                   MVA        VELLO A                530  
+17004924   2/8/2017     759    SHEFFIELD RD                                                   MVA        POHLMAN, K             497  
+17004925   2/8/2017     800    CABOT PARK VILLAGE / 280 NEWTONVILLE AVE #312                  INVEST-G   ROSENBAUM E            991  
+17004926   2/8/2017     800    MINILUXE / 792 BEACON ST                                       ALM/BURG   WADE M                 499  
+17004930   2/8/2017     806    CRAFTS ST & LOTHROP ST                                         SUSP PER   BOUDREAU M             491  
+17004928   2/8/2017     807    DRUMLIN RD & DUDLEY RD                                         MVA        CALDERON D             496  
+17004931   2/8/2017     809    CABOT ST & EAST SIDE PKWY                                      MVA        KEEFE T                WN   
+17004932   2/8/2017     810    HANCOCK ST & WOODLAND RD                                       MVA        CHIEU R                493  
+17004934   2/8/2017     812    25 SHORNECLIFFE RD                                             MVA        MCSWEENEY M            491  
+17004935   2/8/2017     817    MELROSE ST & WEST PINE ST                                      MVA/CITY   GAUDET M               525  
+17004937   2/8/2017     822    BEACON ST & LAKE AVE                                           MVA/PAST   PAGLIA RICH            500  
+17004940   2/8/2017     826    DRUMLIN RD & DUDLEY RD                                         MVA        SETIABUDI G            496  
+17004941   2/8/2017     826    HAMMOND ST & RESERVOIR AVE                                     MVA        WADE M                 499  
+17004939   2/8/2017     827    SUMMIT ST                                                      MVA        GARCIA J               WN   
+17004943   2/8/2017     834    HAZELHURST AVE & TAFT AVE                                      MVA        GARCIA J               WN   
+17004944   2/8/2017     836    COUNTRY CLUB RD & MEADOWBROOK RD                               DMV        SETIABUDI G            496  
+17004945   2/8/2017     840    HOWARD ST & NEWTONVILLE AVE                                    FALL/BAC   POHLMAN, K             997  
+17004946   2/8/2017     841    25 SHORNECLIFFE RD                                             MVA        MCSWEENEY M            525  
+17004947   2/8/2017     842    24 LORING ST                                                   ALM/BURG   WADE M                 499  
+17004949   2/8/2017     846    GRANT AVE & MARSHALL ST                                        MVA        SCALTRETO F            504  
+17004950   2/8/2017     847    GRANT AVE & MARSHALL ST                                        MVA        SCALTRETO F            504  
+17004952   2/8/2017     901    ELDREDGE ST & FRANKLIN ST                                      MVA        GARCIA J               WN   
+17004953   2/8/2017     918    COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FND/PERS   GABRIEL A              495  
+17004954   2/8/2017     920    HAGEN RD & PHILBRICK RD                                        MVA        SETIABUDI G            499  
+17004955   2/8/2017     934    32 PAUL ST                                                     DMV        BENES R                494  
+17004956   2/8/2017     943    CARE ONE / 2101 WASHINGTON ST #243                             CHECK PE   LAU J                  493  
+17004958   2/8/2017     953    HOTEL INDIGO / 399 GROVE ST                                    O/AGENCY   MCLAUGHLIN J           517  
+17004959   2/8/2017     958    106 PINE ST                                                    CENT STA   MANOUK K               492  
+17004960   2/8/2017     1003   HARRIS CYCLERY / 1353 WASHINGTON ST                            ALM/BURG   VELLO A                497  
+17004961   2/8/2017     1005   BOYLSTON ST & CHESTNUT ST                                      MVA        WADE M                 499  
+17004962   2/8/2017     1006   BOYLSTON ST & RICHARDSON RD                                    MVA        WADE M                 499  
+17004967   2/8/2017     1052   LOWELL AVE & WALNUT ST                                         MVA        MCSWEENEY M            491  
+17004972   2/8/2017     1205   LEATHER WORLD / 50 NEEDHAM ST                                  UTIL/HAZ   SETIABUDI G            496  
+17004980   2/8/2017     1310   WABAN MBTA STATION / 84 WYMAN ST                               LARCENY    GARCIA J               WN   
+17004981   2/8/2017     1314   39 BELMORE PK                                                  MVA/CITY   CLAFLIN G              498  
+17004982   2/8/2017     1332   HOTEL INDIGO / 399 GROVE ST                                    O/AGENCY   MCLAUGHLIN J           998  
+17004983   2/8/2017     1332   T J MAXX / 260 NEEDHAM ST                                      LAR/SHOP   ANDERSON N             1315 
+17004985   2/8/2017     1343   NEWTON CENTRE POST OFFICE / 716 BEACON ST                      INVEST-G   ROSENBAUM E            998  
+17004986   2/8/2017     1402   252 JACKSON ST                                                 911 HANG   BENES R                494  
+17004988   2/8/2017     1414   SECOND CHURCH NURSERY SCHOOL / 60 HIGHLAND ST                  DPW        MANOUK K               492  
+17004989   2/8/2017     1431   25 PLEASANT ST                                                 MVA/H&R    GAUDET M               495  
+17004992   2/8/2017     1455   COMMONWEALTH AVE & LEXINGTON ST                                MVA        LAU J                  493  
+17004995   2/8/2017     1525   62 CHESTNUT HILL RD                                            911 HANG   MARCH R                499  
+17004998   2/8/2017     1544   CHESTNUT ST & COMMONWEALTH AVE                                 SP/INCD    CICCONE, A             492  
+17005002   2/8/2017     1619   WHOLE FOODS MARKET / 647 WASHINGTON ST                         MVA/H&R    KEEFE T                WN   
+17005015   2/8/2017     1749   A ROADWAY                                                      DPW        CALDERON D             496  
+17005021   2/8/2017     1830   VIDEOLINK / 1210 WASHINGTON ST FL 2                            ALM/BURG   CICCONE, A             492  
+17005023   2/8/2017     1846   1 WABAN ST                                                     RD/OBST    BOUDREAU M             491  
+17005025   2/8/2017     1906   439 LOWELL AVE                                                 CRUI/TRN   CICCONE, A             492  
+17005026   2/8/2017     1907   NORTH CROSSING / 47 PARK ST                                    LOST/PER   BOUDREAU M             491  
+17005028   2/8/2017     1910   NORTH CROSSING / 47 PARK ST                                    LOST/PER   BOUDREAU M             999  
+17005029   2/8/2017     1911   12 DEXTER RD                                                   ILL/PARK   CICCONE, A             492  
+17005031   2/8/2017     1923   1585 COMMONWEALTH AVE                                          ANIMAL R   TORRES R               538  
+17005036   2/8/2017     1949   CITY HALL / 1000 COMMONWEALTH AVE                              POL-ASSI   EMMANUEL S             498  
+17005038   2/8/2017     2105   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        CRUI/TRN   MARCH R                499  
+17005041   2/8/2017     2112   57 OAK AVE                                                     CT/ORD     KOERBER P              501  
+17005043   2/8/2017     2122   ARLINGTON ST & PEMBROKE ST                                     ILL/PARK   BOUDREAU M             491  
+17005045   2/8/2017     2126   DERBY ST & SHERIDAN ST                                         CT/ORD     KOERBER P              501  
+17005046   2/8/2017     2144   25 DEVON RD                                                    ALM/BURG   FEROLITO B             494  
+17005047   2/8/2017     2145   CENTRAL ST & GROVE ST                                          MVA        CONLEY B               493  
+17005050   2/8/2017     2238   CENTRE ST & WASHINGTON ST                                      RD/OBST    BOUDREAU M             491  
+17005051   2/8/2017     2241   AREN / 11 JOHN ST                                              ALM/BURG   FEROLITO B             499  
+17005055   2/8/2017     2314   PADDY'S PUB / 95 ELM ST                                        MVA        LARSON R               492  
+17005057   2/8/2017     2346   NORTH CROSSING / 47 PARK ST                                    LOST/PER   HELMS G                491  

@@ -1,0 +1,76 @@
+17002909   1/24/2017    39     46 WHITE PINE RD                                               ALM/BURG   KEEFE T                495  
+17002911   1/24/2017    43     BOX 119/ UNDERWOOD SCHOOL                                      STRAIGHT   HELMS G                491  
+17002914   1/24/2017    108    73 ELM RD                                                      STRUCT F   MCLEAN S               MED2 
+17002915   1/24/2017    115    40A CRESCENT ST                                                PREGNANC   HAMANN,T               MED2 
+17002920   1/24/2017    132    96 WASHINGTON PK                                               CBN MONO   HELMS G                491  
+17002922   1/24/2017    308    TZU-CHI FOUNDATION USA / 15 SUMMER ST                          CENT STA   KEEFE T                495  
+17002924   1/24/2017    340    THE FARMS CONDOS BUILDING #60 / 99 FLORENCE ST #2B & 2C        ALM/BURG   SOLOMAN A              496  
+17002925   1/24/2017    351    CRAFTS ST & WATERTOWN ST                                       UTIL/HAZ   HELMS G                491  
+17002926   1/24/2017    424    20 MELVILLE AVE                                                BREATH P   HELMS G                MED2 
+17002928   1/24/2017    520    12 SYLVESTER RD                                                DEFAULT    BANNON T               492  
+17002929   1/24/2017    539    237 SPIERS RD                                                  FORESTRY   SOLOMAN A              496  
+17002930   1/24/2017    545    40 HELENE RD                                                   FORESTRY   SULLIVAN D             495  
+17002933   1/24/2017    717    WALNUT ST & WASHINGTON ST                                      POL-ASSI   HELMS G                491  
+17002934   1/24/2017    718    49 PHILMORE RD                                                 FORESTRY   PAGLIA ROBT            494  
+17002935   1/24/2017    726    ALBEMARLE RD & CRAFTS ST                                       RD/OBST    LAU J                  492  
+17002939   1/24/2017    824    24 ESSEX RD                                                    FORESTRY   PAGLIA ROBT            494  
+17002940   1/24/2017    833    NEW ENGLAND OB-GYN ASSOCIATES / 200 BOYLSTON ST #SUITE 301     PREGNANC   BOUDREAU E             AMB1 
+17002941   1/24/2017    834    AVALON AT NEWTON HIGHLANDS D / 89 NEEDHAM ST #2321             ALM/BURG   GABRIEL A              495  
+17002944   1/24/2017    842    COMMUNITIES FOR PEOPLE / 985 BEACON ST                         WARR/SER   WADE M                 497  
+17002943   1/24/2017    843    41 SUMMIT ST                                                   ILL/PARK   LEITCH B               506  
+17002947   1/24/2017    932    712 WATERTOWN ST                                               911 HANG   LAU J                  492  
+17002948   1/24/2017    950    22 SIMPSON ST                                                  TRAUMATI   MCSWEENEY M            AMB1 
+17002952   1/24/2017    1037   BOSTON DEVELOPMENT GROUP / 53 LANGLEY RD                       CENT STA   PAGLIA ROBT            494  
+17002954   1/24/2017    1046   SHIFT COMMUNICATIONS / 275 WASHINGTON ST                       911 HANG   MCSWEENEY M            491  
+17002957   1/24/2017    1133   85 HUNTINGTON RD                                               GAS ODOR   LARSON R               491  
+17002958   1/24/2017    1139   BOX 8815/ RETAIL SHOPS                                         STRAIGHT   PAGLIA ROBT            494  
+17002960   1/24/2017    1154   80 RESERVOIR AVE                                               CENT STA   PAGLIA ROBT            494  
+17002961   1/24/2017    1201   BC MURRAY HOUSE / 292 HAMMOND ST                               FORESTRY   PAGLIA ROBT            494  
+17002962   1/24/2017    1203   CVS / 999 WATERTOWN ST                                         INVEST-G   LAU J                  492  
+17002963   1/24/2017    1206   CARE ONE / 2101 WASHINGTON ST                                  MVA        PAGLIA RICH            493  
+17002964   1/24/2017    1216   BOX 1153/ 275 WASHINGTON ST                                    STRAIGHT   SCALTRETO F            497  
+17002965   1/24/2017    1222   SPEEDWAY GAS / 2370 COMMONWEALTH AVE                           MVA/H&R    MCCARTHY T             999  
+17002969   1/24/2017    1253   CASSELMAN HOUSE / 195 SUMNER ST #106                           HEMOR/LA   PAGLIA ROBT            AMB1 
+17002972   1/24/2017    1306   19 ADELLA AVE                                                  FORESTRY   LAU J                  492  
+17002974   1/24/2017    1323   JIFFY LUBE INTERNATIONAL / 191 NEEDHAM ST                      911 HANG   GABRIEL A              495  
+17002977   1/24/2017    1457   3 LOCKSLEY RD                                                  ANIMAL P   TORRES R               494  
+17002978   1/24/2017    1500   CHESTNUT ST & SHORT ST                                         POL-ASSI   SELIG, J               495  
+17002979   1/24/2017    1534   1335 WALNUT ST                                                 SICK/INJ   TORRES R               538  
+17002980   1/24/2017    1538   BOX 2813/ APARTMENT BUILDING                                   STRAIGHT   SIEGAL SC              491  
+17002981   1/24/2017    1554   WHOLE FOODS MARKET / 916 WALNUT ST                             POL-ASSI   POUTAS D               495  
+17002984   1/24/2017    1624   34 LAUDHOLM RD                                                 ALM/BURG   BANNON T               491  
+17002985   1/24/2017    1633   8 BARTLETT TER                                                 ALM/BURG   COLETTI A              494  
+17002991   1/24/2017    1700   52 FULLER ST FL 2                                              UNCONS/F   POUTAS D               AMB1 
+17002992   1/24/2017    1702   15 SHERIDAN ST                                                 UTIL/HAZ   BANNON T               492  
+17002994   1/24/2017    1711   HOBART RD & INTERVALE RD                                       ANIMAL R   COLETTI A              494  
+17002996   1/24/2017    1716   20 MANET RD                                                    CHECK PE   COLETTI A              494  
+17002999   1/24/2017    1749   1077 WASHINGTON ST                                             CHECK PE   HEALY D                492  
+17003000   1/24/2017    1754   6 ROWENA RD                                                    ALM/BURG   BOUDREAU C             494  
+17003002   1/24/2017    1805   COMMONWEALTH AVE & EXETER ST                                   MVA/UNKN   HAMANN,T               MED2 
+17003004   1/24/2017    1807   BOYLSTON ST & FLORAL ST                                        DMV        POUTAS D               498  
+17003005   1/24/2017    1809   BEACON ST & LAWRENCE AVE                                       ILL/PARK   COLETTI A              494  
+17003006   1/24/2017    1814   82 MADISON AVE                                                 CT/ORD     HELMS G                500  
+17003007   1/24/2017    1816   BEACON ST & SAMOSET RD                                         MVA/H&R    TRAMONTOZZI B          MED2 
+17003008   1/24/2017    1827   JIFFY LUBE INTERNATIONAL / 191 NEEDHAM ST                      911 HANG   POUTAS D               498  
+17003009   1/24/2017    1830   47 LEXINGTON ST #1                                             SUSP PER   BANNON T               500  
+17003010   1/24/2017    1835   40 SUMMIT ST                                                   VAND/PRP   SIEGAL SC              491  
+17003011   1/24/2017    1837   KENNETH WILDES HAIR SALON / 9 BEACON PL                        ALM/BURG   POUTAS D               495  
+17003012   1/24/2017    1843   38 GRAYSON LA                                                  COURTDOC   HELMS G                500  
+17003013   1/24/2017    1852   66 WABAN HILL RD                                               FALL/BAC   COLETTI A              MED1 
+17003015   1/24/2017    1902   12 DEXTER RD                                                   ILL/PARK   BANNON T               492  
+17003016   1/24/2017    1930   396 CHESTNUT ST                                                RD/OBST    BANNON T               492  
+17003017   1/24/2017    1938   9 APPLETON CIR                                                 ALM/BURG   SOLOMAN A              496  
+17003021   1/24/2017    2015   102 MCCARTHY RD                                                LF/PROP    SOLOMAN A              495  
+17003023   1/24/2017    2039   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FND/PERS   POUTAS D               495  
+17003022   1/24/2017    2039   37 BEAUMONT AVE                                                UTIL/HAZ   BANNON T               492  
+17003025   1/24/2017    2049   204 SUMNER ST                                                  CHECK PE   COLETTI A              494  
+17003026   1/24/2017    2101   73 CHARLESBANK RD                                              STRUCT F   SIEGAL SC              MED1 
+17003027   1/24/2017    2132   CENTRE ST & WASHINGTON ST                                      SIGN/SIG   SIEGAL SC              491  
+17003028   1/24/2017    2137   25 RIPLEY TER                                                  STRUCT F   POUTAS D               MED1 
+17003030   1/24/2017    2145   DUNKIN DONUTS / 345 WASHINGTON ST                              SP/INCD    SIEGAL SC              491  
+17003029   1/24/2017    2147   64 DORCAR RD                                                   ALM/BURG   SOLOMAN A              496  
+17003031   1/24/2017    2206   NWH HOSPITAL / 2014 WASHINGTON ST                              THREATS    SELIG, J               493  
+17003032   1/24/2017    2218   AUBURNDALE AVE & LEXINGTON ST                                  DMV        HELMS G                500  
+17003033   1/24/2017    2251   36 WAMESIT RD                                                  THREATS    SELIG, J               MED1 
+17003034   1/24/2017    2300   CASSELMAN HOUSE / 195 SUMNER ST #405                           FALL/BAC   COLETTI A              AMB2 
+17003035   1/24/2017    2315   BERTUCCIS / 275 CENTRE ST                                      ALM/BURG   HEALY D                491  

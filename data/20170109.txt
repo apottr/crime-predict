@@ -1,0 +1,84 @@
+17000859   1/8/2017     0      ADAMS STREET APARTMENTS / 175 ADAMS ST #15                     L/NOISE    HEALY D                492  
+17000860   1/8/2017     4      BOTTEGA FIORENTINA / 1231 CENTRE ST                            ALM/BURG   MCSWEENEY M            494  
+17000862   1/8/2017     27     NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   SOLOMAN A              494  
+17000865   1/8/2017     35     APARTMENTS / 21 HERRICK RD                                     CEN STA/   MCSWEENEY M            498  
+17000864   1/8/2017     36     BOX 72524/ PANERA BREAD                                        STRAIGHT   MCNEIL R               495  
+17000868   1/8/2017     51     HARRIS CYCLERY / 1353 WASHINGTON ST                            ALM/BURG   BANNON T               497  
+17000869   1/8/2017     58     LORRAINE VILLAGE CLEANERS / 12 AUSTIN ST                       911 HANG   BOUDREAU M             491  
+17000870   1/8/2017     100    NEWTON NORTH BLDG #1 / 457 WALNUT ST                           V/C/ORD    DOWLING D              600  
+17000873   1/8/2017     104    LITTLE BIG DINER / 1247 CENTRE ST                              ALM/BURG   MCNEIL R               495  
+17000876   1/8/2017     128    STOP & SHOP PLAZA / 171 WATERTOWN ST                           MVA        BOUDREAU M             491  
+17000877   1/8/2017     148    BRIMMER MAY SCHOOL CHASE BUILD / 60 MIDDLESEX RD               ALM/BURG   COLETTI A              494  
+17000878   1/8/2017     149    ADAMS STREET APARTMENTS / 175 ADAMS ST #15                     L/NOISE    BROOKS J               497  
+17000879   1/8/2017     218    203 OLD FARM RD                                                ALM/BURG   SOLOMAN A              496  
+17000880   1/8/2017     221    93 ELDREDGE ST                                                 SUSP PER   HEALY D                497  
+17000881   1/8/2017     421    CLARK & WHITE INC / 777 WASHINGTON ST                          ALM/BURG   HEALY D                491  
+17000883   1/8/2017     634    NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   BOUDREAU M             491  
+17000884   1/8/2017     636    9 HILLCREST CIR                                                UNCONS/F   SULLIVAN D             AMB1 
+17000885   1/8/2017     733    62 WINDSOR RD                                                  MVA/H&R    SULLIVAN D             493  
+17000886   1/8/2017     747    TRADER JOES / 1121 WASHINGTON ST                               POL-ASSI   TRAMONTOZZI B          492  
+17000888   1/8/2017     805    106 FARWELL ST                                                 ALM/BURG   BENES R                491  
+17000889   1/8/2017     817    682 CHESTNUT ST                                                DPW        SETIABUDI G            495  
+17000890   1/8/2017     825    541 WARD ST                                                    ILL/PARK   CROWE, J               494  
+17000894   1/8/2017     920    55 MYRTLE ST                                                   ANIMAL P   TRAMONTOZZI B          492  
+17000896   1/8/2017     1005   742 COMMONWEALTH AVE                                           CENT STA   SETIABUDI G            495  
+17000897   1/8/2017     1008   1577 CENTRE ST                                                 ALM/BURG   SETIABUDI G            495  
+17000898   1/8/2017     1011   173 ADAMS AVE                                                  UNCONS/F   TRAMONTOZZI B          AMB1 
+17000901   1/8/2017     1023   44 MARSHALL ST                                                 UNCONS/F   CROWE, J               MED1 
+17000903   1/8/2017     1048   8 SYLVAN AVE                                                   ALM/BURG   TRAMONTOZZI B          492  
+17000904   1/8/2017     1059   240 WINSLOW RD                                                 F.A. ACT   SETIABUDI G            495  
+17000905   1/8/2017     1104   9 EDGEWATER PK                                                 CBN MONO   TRAMONTOZZI B          492  
+17000907   1/8/2017     1113   875 DEDHAM ST                                                  ALM/BURG   SCALTRETO F            496  
+17000909   1/8/2017     1131   132 HARVARD ST                                                 STRUCT F   WADE M                 MED2 
+17000911   1/8/2017     1136   40 WHITE PINE RD                                               STRUCT F   CLAFLIN G              MED1 
+17000913   1/8/2017     1140   DAY MIDDLE SCHOOL / 21 MINOT PL                                ALM/BURG   TRAMONTOZZI B          492  
+17000914   1/8/2017     1141   FRED V FOWLER CO. INC / 66 ROWE ST                             ALM/BURG   TRAMONTOZZI B          492  
+17000915   1/8/2017     1149   20 WHITTEMORE RD                                               DIABETIC   BENES R                MED2 
+17000917   1/8/2017     1205   12 DEXTER RD                                                   ILL/PARK   TRAMONTOZZI B          492  
+17000919   1/8/2017     1219   THE GABLES / 425 DEDHAM ST #C                                  F.A. ACT   SCALTRETO F            496  
+17000920   1/8/2017     1225   1537 WASHINGTON ST                                             INVEST-G   COTTENS S              WN   
+17000921   1/8/2017     1234   15 MOSMAN ST                                                   ALM/BURG   TRAMONTOZZI B          492  
+17000922   1/8/2017     1239   BOX 2419/ 295 ADAMS ST                                         STRAIGHT   BENES R                491  
+17000923   1/8/2017     1309   203 NEWTONVILLE AVE                                            CBN MONO   BENES R                491  
+17000924   1/8/2017     1331   COYNE RD INC. / 18 COYNE RD                                    UNCONS/F   SETIABUDI G            AMB2 
+17000925   1/8/2017     1344   28 HAMPDEN TER                                                 ALM/BURG   CROWE, J               494  
+17000926   1/8/2017     1414   LINWOOD AVE & WALNUT ST                                        ILL/PARK   BENES R                491  
+17000927   1/8/2017     1417   UNIQLO / 199 BOYLSTON ST                                       911 HANG   CROWE, J               494  
+17000928   1/8/2017     1422   35 HAMMOND POND PKWY                                           MVA        SCALTRETO F            494  
+17000930   1/8/2017     1439   26 OLD ORCHARD RD                                              RELINQUI   CROWE, J               494  
+17000931   1/8/2017     1505   COLEMAN HOUSE / 677 WINCHESTER ST #533                         CARD/RES   SCALTRETO F            AMB2 
+17000933   1/8/2017     1511   MORELAND AVE                                                   RD/OBST    MIKOLEIT L             501  
+17000932   1/8/2017     1515   401 DUDLEY RD                                                  ALM/BURG   MCNEIL R               495  
+17000934   1/8/2017     1522   15 ALLEN AVE                                                   DPW        FERGUSON A             498  
+17000936   1/8/2017     1527   CHARLESBANK RD                                                 SNOW COM   CROWE, J               491  
+17000937   1/8/2017     1537   10 WINTHROP AVE                                                ILL/PARK   HEALY D                497  
+17000938   1/8/2017     1544   CENTRE ST & WASHINGTON ST                                      MVA        HEALY D                497  
+17000939   1/8/2017     1547   BOX 6243/ BAZA GOURMET FOODS AND SPIRITS                       STRAIGHT   MCNEIL R               495  
+17000942   1/8/2017     1614   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         MVA        HEALY D                497  
+17000943   1/8/2017     1618   EVANS PARK / 430 CENTRE ST                                     ABDOMINA   HEALY D                AMB2 
+17000944   1/8/2017     1621   12 DEXTER RD                                                   ILL/PARK   BANNON T               492  
+17000946   1/8/2017     1640   NEWTON NORTH BLDG #2 / 457 WALNUT ST                           ILL/PARK   BANNON T               492  
+17000950   1/8/2017     1703   CARE ONE / 2101 WASHINGTON ST                                  911 HANG   TRAMONTOZZI B          493  
+17000951   1/8/2017     1714   115 WEST ST                                                    SP/INCD    CROWE, J               491  
+17000954   1/8/2017     1747   CHESTNUT ST & COMMONWEALTH AVE                                 MVA        BANNON T               492  
+17000957   1/8/2017     1837   WABAN HEALTH & REHAB / 20 KINMONTH RD FL 2                     UNCONS/F   TRAMONTOZZI B          MED2 
+17000965   1/8/2017     1916   246 WALNUT ST                                                  MV/STOP    CROWE, J               491  
+17000969   1/8/2017     1923   76 HYDE AVE                                                    ALM/BURG   CROWE, J               491  
+17000977   1/8/2017     1948   40 MILLER RD                                                   POL-ASSI   COLETTI A              494  
+17000975   1/8/2017     1957   VERIZON WIRELESS / 13 BOYLSTON ST                              INVEST-G   MARCH R                WN   
+17000978   1/8/2017     2002   FIRE STATION #7 / 144 ELLIOT ST                                CHECK PE   MCNEIL R               MED1 
+17000981   1/8/2017     2003   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #411S      UNKN PRO   POUTAS D               AMB2 
+17000980   1/8/2017     2004   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FND/PERS   FERGUSON A             498  
+17000982   1/8/2017     2024   BOX 29215/ ELDERLY HOUSING                                     STRAIGHT   BANNON T               492  
+17000983   1/8/2017     2026   607 WASHINGTON ST                                              LARCENY    CROWE, J               491  
+17000985   1/8/2017     2037   36 WALSH RD                                                    CENT STA   SOLOMAN A              496  
+17000986   1/8/2017     2044   AUBURN ST & GREENOUGH ST                                       MVA        BANNON T               492  
+17000990   1/8/2017     2105   FOR EYES OPTICAL / 88 NEEDHAM ST                               ALM/BURG   SOLOMAN A              496  
+17000991   1/8/2017     2111   115 ROWE ST                                                    ALM/BURG   BANNON T               492  
+17000992   1/8/2017     2128   44 PEREGRINE RD                                                UNKN ODO   SOLOMAN A              496  
+17000993   1/8/2017     2138   CITIZENS BANK / 1126 BEACON ST                                 SP/INCD    MCNEIL R               495  
+17000995   1/8/2017     2319   1038 CHESTNUT ST                                               UNKN PRO   SOLOMAN A              AMB2 
+17000997   1/8/2017     2331   ST JAMES ST & CHARLESBANK                                      DMV        POUTAS D               491  
+17000996   1/8/2017     2331   BOX 7262/ HELCO COIFFURES                                      STRAIGHT   BERGDORF,J             499  
+17000998   1/8/2017     2333   1977 BEACON ST                                                 CONV/SEI   CHIEU R                AMB2 
+17001000   1/8/2017     2353   AVALON AT NEWTON HIGHLANDS 99A / 99 NEEDHAM ST                 ALM/BURG   SIEGAL D               495  

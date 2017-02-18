@@ -1,0 +1,56 @@
+17003312   1/27/2017    27     BOYLSTON ST & LUCILLE PL                                       CHECK PE   SIEGAL D               503  
+17003327   1/27/2017    544    FARLOW RD & WAVERLEY AVE                                       MVA        BERGDORF,J             491  
+17003328   1/27/2017    547    DEL FRISCO GRILLE / 33 BOYLSTON ST #3370                       ALM/BURG   KEEFE T                494  
+17003333   1/27/2017    833    150 ADAMS ST                                                   MVA        MCSWEENEY M            491  
+17003334   1/27/2017    836    16 STAFFORD RD                                                 INVEST-G   MCCARTHY T             999  
+17003337   1/27/2017    853    1204 BOYLSTON ST                                               MVA / MI   GABRIEL A              AMB1 
+17003338   1/27/2017    854    NEWTON NORTH BLDG #1 / 457 WALNUT ST                           CRUI/TRN   PANICA J               1305 
+17003340   1/27/2017    911    40 PRISCILLA RD                                                SP/INCD    BENES R                494  
+17003339   1/27/2017    913    320 WASHINGTON ST                                              FIO        MCSWEENEY M            491  
+17003342   1/27/2017    919    GREENWOOD ST & HARTMAN RD                                      ILL/PARK   SETIABUDI G            496  
+17003343   1/27/2017    927    9 OLD ORCHARD RD                                               ALM/BURG   BENES R                494  
+17003352   1/27/2017    1027   208 PARKER ST                                                  FORESTRY   BENES R                494  
+17003357   1/27/2017    1101   HAMMOND POND PKWY                                              UNLEASHE   BENES R                494  
+17003360   1/27/2017    1112   BANK OF AMERICA / 233 NEEDHAM ST                               CONV/SEI   GABRIEL A              AMB1 
+17003362   1/27/2017    1120   APPLE / 199 BOYLSTON ST                                        911 HANG   BENES R                494  
+17003363   1/27/2017    1121   WEGMANS / 200 BOYLSTON ST                                      UNCONS/F   SETIABUDI G            AMB1 
+17003365   1/27/2017    1128   34 PEREGRINE RD                                                ALM/BURG   GABRIEL A              495  
+17003364   1/27/2017    1128   TODYS SERVICE CENTER / 1354 WASHINGTON ST                      POL-ASSI   PAGLIA RICH            492  
+17003367   1/27/2017    1145   16 MANCHESTER RD                                               IDENTITY   MCCARTHY T             999  
+17003369   1/27/2017    1235   GREENWOOD ST & HARTMAN RD                                      ILL/PARK   SETIABUDI G            496  
+17003370   1/27/2017    1238   LOWELL AVE & OTIS ST                                           MVA/UNKN   MARINI R               MED1 
+17003373   1/27/2017    1251   140 OLIVER RD                                                  CENT STA   CLAFLIN G              498  
+17003378   1/27/2017    1411   LINCOLN-ELIOT SCHOOL / 191 PEARL ST                            INVEST-G   DONAHUE K              999  
+17003379   1/27/2017    1429   COUNTRYSIDE SCHOOL / 191 DEDHAM ST                             INVEST-G   UMINA S                999  
+17003380   1/27/2017    1429   NEWTON COMMONWEALTH GOLF / 212 KENRICK ST                      ALM/BURG   BENES R                494  
+17003381   1/27/2017    1431   MAIN LIBRARY / 330 HOMER ST                                    INVEST-G   ROSENBAUM E            999  
+17003382   1/27/2017    1444   169 FRANKLIN ST                                                ALM/BURG   MCSWEENEY M            491  
+17003383   1/27/2017    1446   WASHINGTON ST                                                  RD/OBST    PAGLIA RICH            492  
+17003385   1/27/2017    1500   SEMINARY AVE & WOODLAND RD                                     MVA        SCALTRETO F            493  
+17003388   1/27/2017    1524   BROWN MIDDLE SCHOOL / 125 MEADOWBROOK RD                       INVEST-G   UMINA S                999  
+17003390   1/27/2017    1539   343 PARKER ST                                                  INVEST-G   CALDERON D             496  
+17003391   1/27/2017    1542   11 MANITOBA RD                                                 ILL/PARK   CHIEU R                498  
+17003393   1/27/2017    1549   1489 COMMONWEALTH AVE                                          ALM/BURG   CICCONE, A             492  
+17003396   1/27/2017    1635   157 NEWTONVILLE AVE                                            ALM/BURG   BOUDREAU M             491  
+17003398   1/27/2017    1646   CENTRE ST & WINCHESTER ST                                      CHECK PE   CALDERON D             496  
+17003399   1/27/2017    1703   NWH HOSPITAL / 2014 WASHINGTON ST                              O/AGENCY   SULLIVAN D             507  
+17003403   1/27/2017    1721   FRIEDMAN FACULTY BUILDING / 160 HERRICK RD                     ALM/BURG   FEROLITO B             494  
+17003405   1/27/2017    1751   BOX 64311/ 173 LINCOLN ST                                      STRAIGHT   WALTON T               495  
+17003406   1/27/2017    1802   NORTH CROSSING / 47 PARK ST                                    LOST/PER   BOUDREAU M             491  
+17003410   1/27/2017    1814   NWH HOSPITAL / 2014 WASHINGTON ST                              MVA/PAST   CHIEU R                493  
+17003408   1/27/2017    1815   22 WEST ST                                                     ILL/PARK   POHLMAN, K             502  
+17003415   1/27/2017    1901   MADISON AVE CONDOS / 100 MADISON AVE #1                        MVA/PAST   POHLMAN, K             491  
+17003416   1/27/2017    1922   PARKER HOUSE ELDERLEY HOUSING / 21 PARKER ST #7                HEART PR   MARCH R                MED1 
+17003417   1/27/2017    1924   14 ST JAMES TER                                                ILL/PARK   BOUDREAU M             491  
+17003419   1/27/2017    1947   SANTANDER BANK / 1314 WASHINGTON ST                            FALL/BAC   KOERBER P              AMB2 
+17003420   1/27/2017    1958   20 MURPHY CT                                                   LF/PROP    HAGOPIAN M             998  
+17003422   1/27/2017    2018   137 RIVER ST                                                   POL-ASSI   POHLMAN, K             502  
+17003423   1/27/2017    2025   NEWTON CENTRE MUNICIPAL LOT / 797 BEACON ST                    B&E M/V    FEROLITO B             494  
+17003426   1/27/2017    2059   28 BRISTOL RD                                                  ALM/BURG   CICCONE, A             492  
+17003428   1/27/2017    2125   NEW FALLS  APARTMENTS / 2251 WASHINGTON ST                     FIO        TRAMONTOZZI B          497  
+17003430   1/27/2017    2129   DUNSTAN ST & WASHINGTON ST                                     MV/STOP    POHLMAN, K             502  
+17003432   1/27/2017    2136   3 GLENWOOD AVE                                                 SHOTS/HD   MARCH R                494  
+17003433   1/27/2017    2202   MASON-RICE SCHOOL / 149 PLEASANT ST                            ALM/BURG   WALTON T               495  
+17003435   1/27/2017    2215   MANET RD & RESERVOIR DR                                        GROUP      MARCH R                494  
+17003439   1/27/2017    2244   NEWTONVILLE BOOKS / 10 LANGLEY RD                              ALM/BURG   FEROLITO B             494  
+17003440   1/27/2017    2340   WASHINGTON ST                                                  RD/OBST    BROOKS J               492  

@@ -1,0 +1,42 @@
+17004344   2/4/2017     16     68 MAPLEWOOD AVE                                               LOST/PER   KEEFE T                494  
+17004352   2/4/2017     42     29 KINGSBURY RD                                                BARKING    KEEFE T                494  
+17004358   2/4/2017     134    88 OTIS ST                                                     FARE EVA   KANE A                 492  
+17004369   2/4/2017     255    PUTNAM ST & WASHINGTON ST                                      MV/VIOL    KANE A                 492  
+17004372   2/4/2017     306    MANET RD & WARD ST                                             POL-ASSI   KEEFE T                494  
+17004373   2/4/2017     307    117 FULLER ST                                                  ALM/BURG   CHIEU R                493  
+17004378   2/4/2017     510    WILLIAM ST                                                     LF/PROP    MARCH R                498  
+17004379   2/4/2017     840    21 MAPLE PK                                                    ANIMAL P   TORRES R               538  
+17004381   2/4/2017     906    ICCD / 109 OAK ST FL GROUND                                    UNWANTED   HILL G                 495  
+17004384   2/4/2017     921    OLD AQUINAS CONVENT / 15 WALNUT PK                             ALM/BURG   COLELLA M              491  
+17004390   2/4/2017     1107   COMMONWEALTH AVE & LEXINGTON ST                                SIGN/SIG   CLAFLIN G              498  
+17004394   2/4/2017     1234   AT&T / 3 BOYLSTON ST #B                                        F.A. ACT   BENES R                494  
+17004395   2/4/2017     1234   NEFCO / 281 NEWTONVILLE AVE                                    ALM/BURG   COLELLA M              491  
+17004396   2/4/2017     1241   110 DUDLEY RD                                                  IDENTITY   GARCIA J               999  
+17004397   2/4/2017     1253   UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   BENES R                494  
+17004398   2/4/2017     1300   80 HAMMOND ST                                                  INVEST-G   GARCIA J               WN   
+17004399   2/4/2017     1310   DANCE FEVER / 200 WELLS AVE                                    MVA        SETIABUDI G            496  
+17004401   2/4/2017     1319   608 BEACON ST                                                  OUTSIDE    COTTENS S              499  
+17004403   2/4/2017     1336   25 KENMORE ST                                                  B&E PAST   HILL G                 495  
+17004404   2/4/2017     1348   NORTH CROSSING / 47 PARK ST                                    FND/PERS   COLELLA M              491  
+17004405   2/4/2017     1353   26 WHITE OAK RD                                                ALM/BURG   GOURDEAU J             493  
+17004406   2/4/2017     1408   83 COUNTRYSIDE RD                                              CENT STA   SETIABUDI G            496  
+17004407   2/4/2017     1426   WEEKS HOUSING / 7 HEREWARD RD #211                             LAR/MV     BENES R                494  
+17004410   2/4/2017     1511   WHOLE FOODS MARKET / 647 WASHINGTON ST                         MVA        RAYMOND Z              491  
+17004411   2/4/2017     1538   TD BANK  MA / 1197 CENTRE ST                                   ALM/BANK   WALTON T               495  
+17004412   2/4/2017     1549   FOREST ST & WALNUT ST                                          MV/STOP    MARCH R                498  
+17004415   2/4/2017     1609   36 ROWE ST                                                     CHECK PE   KANE A                 492  
+17004416   2/4/2017     1618   1545 BEACON ST                                                 MVA        CHIEU R                493  
+17004418   2/4/2017     1626   CARE ONE / 2101 WASHINGTON ST #243                             LARCENY    MARCH R                498  
+17004420   2/4/2017     1633   WEGMANS / 200 BOYLSTON ST                                      LAR/SHOP   CALDERON D             496  
+17004429   2/4/2017     1741   MAIN LIBRARY / 330 HOMER ST                                    ALM/BURG   MCLEAN M               494  
+17004432   2/4/2017     1812   NEWTON ARTS CENTER / 61 WASHINGTON PK                          ALM/BURG   VALENTE D              502  
+17004434   2/4/2017     1828   CHARLES ST                                                     ILL/PARK   CHIEU R                493  
+17004437   2/4/2017     1942   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        LF/PROP    GUARINO C              999  
+17004442   2/4/2017     2029   34 NORTH ST                                                    ILL/PARK   WALTON T               495  
+17004445   2/4/2017     2043   76 ADAMS ST                                                    CHECK PE   VALENTE D              491  
+17004444   2/4/2017     2043   44 SWALLOW DR                                                  LF/PROP    CHIEU R                493  
+17004446   2/4/2017     2056   LEE'S PLACE BURGER'S / 216 SUMNER ST                           B&E M/V    MARCH R                494  
+17004454   2/4/2017     2238   WASHINGTON ST                                                  DMV        KANE A                 492  
+17004455   2/4/2017     2321   15 FORDHAM RD                                                  F.A. ACT   BOYLE P                492  
+17004456   2/4/2017     2322   ST JEANS HOUSING / 239 WATERTOWN ST                            CHECK PE   HOWES C                491  
+17004458   2/4/2017     2333   32 COMMONWEALTH AVE                                            O/AGENCY   MCLEAN M               494  

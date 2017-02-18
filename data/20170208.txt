@@ -1,0 +1,65 @@
+17004696   2/7/2017     46     COTTAGE PL & RIVER ST                                          B&E M/V    BROOKS J               491  
+17004705   2/7/2017     152    TEMPLE REYIM / 1860 WASHINGTON ST                              MV/STOP    BROOKS J               492  
+17004707   2/7/2017     203    78 BEACON ST                                                   L/NOISE    GAMBLE N               494  
+17004706   2/7/2017     209    DAVID & COMPANY INC / 232 BOYLSTON ST                          ALM/BURG   SOLOMAN A              496  
+17004709   2/7/2017     230    81 LOS ANGELES ST                                              L/NOISE    BROOKS J               491  
+17004713   2/7/2017     532    ELAINE CONSTRUCTION COMPANY / 1037 CHESTNUT ST                 ALM/BURG   BANNON T               495  
+17004714   2/7/2017     553    EDDY ST & WASHINGTON ST                                        RD/OBST    BROOKS J               492  
+17004717   2/7/2017     741    DUNKIN DONUTS / 345 WASHINGTON ST                              REST/ORD   LAU J                  503  
+17004723   2/7/2017     826    RICHARDSON ST MUNICIPAL LOT / 25 RICHARDSON ST                 CHECK PE   MCSWEENEY M            491  
+17004725   2/7/2017     833    BEMIS ST & FAIR OAKS AVE                                       SP/INCD    COLELLA M              492  
+17004727   2/7/2017     835    CENTRE ST & PLEASANT ST                                        MVA        GABRIEL A              495  
+17004728   2/7/2017     836    370 DEDHAM ST                                                  ABAND MV   DEVINE D               526  
+17004729   2/7/2017     851    ELIOT MBTA STATION / 244 LINCOLN ST                            SUSPICIO   GABRIEL A              495  
+17004730   2/7/2017     855    DEDHAM ST & PARKER ST                                          DMV        SETIABUDI G            496  
+17004732   2/7/2017     857    APPLE / 199 BOYLSTON ST                                        911 HANG   BENES R                494  
+17004731   2/7/2017     857    CENTRE ST & CRESCENT AVE                                       POL/TOW    DEVINE D               526  
+17004734   2/7/2017     912    412 LANGLEY RD #3                                              HARASS     MCCARTHY T             999  
+17004741   2/7/2017     955    80 CREHORE DR                                                  POL/TOW    LAU J                  503  
+17004742   2/7/2017     1001   BARRIEAU CT                                                    MVA/CITY   GAUDET M               491  
+17004745   2/7/2017     1011   60 BROOKSIDE AVE                                               CHECK PE   MANOUK K               WN   
+17004746   2/7/2017     1033   53 PIERREPONT RD                                               ILL/PARK   VELLO A                502  
+17004747   2/7/2017     1040   CABOT ST & CENTRE ST                                           DMV        COLELLA M              497  
+17004748   2/7/2017     1044   MAIN LIBRARY / 330 HOMER ST                                    UTIL/HAZ   GABRIEL A              495  
+17004749   2/7/2017     1053   29 LOVETT RD                                                   ALM/BURG   GABRIEL A              495  
+17004750   2/7/2017     1058   29 BROADWAY                                                    FRAUD      MCSWEENEY M            491  
+17004751   2/7/2017     1103   T J MAXX / 260 NEEDHAM ST                                      UNKN ODO   SCALTRETO F            504  
+17004752   2/7/2017     1105   5 PICKWICK RD                                                  ALM/BURG   MACE J                 493  
+17004753   2/7/2017     1112   3 GLENMORE TER #2                                              ALM/HOLD   GABRIEL A              495  
+17004756   2/7/2017     1142   33 CREHORE DR                                                  ILL/PARK   MACE J                 493  
+17004758   2/7/2017     1219   39 WABAN AVE                                                   ILL/PARK   MACE J                 493  
+17004759   2/7/2017     1243   80 OLDE FIELD RD                                               ALM/BURG   SETIABUDI G            496  
+17004761   2/7/2017     1304   MAX & LEO'S ARTISAN PIZZA / 325 WASHINGTON ST                  MVA/H&R    MCSWEENEY M            491  
+17004765   2/7/2017     1335   BOX 9341/ 150 WELLS AVE                                        STRAIGHT   SETIABUDI G            496  
+17004767   2/7/2017     1341   27 LORNA RD                                                    ALM/BURG   BENES R                494  
+17004771   2/7/2017     1353   274 NEWTONVILLE AVE                                            ILL/DUMP   MCSWEENEY M            491  
+17004773   2/7/2017     1426   111 ELGIN ST                                                   ALM/BURG   BENES R                494  
+17004774   2/7/2017     1427   LEXINGTON STREET APARTMENTS / 125 LEXINGTON ST #33             DEFAULT    MANOUK K               492  
+17004777   2/7/2017     1434   431 DEDHAM ST #B                                               ALM/BURG   WADE M                 499  
+17004778   2/7/2017     1444   396 LANGLEY RD #6                                              LOCK OUT   GABRIEL A              495  
+17004780   2/7/2017     1459   PRUDENTIAL EDNA KRANZ / 626 COMMONWEALTH AVE                   MVA/CITY   MARINI R               503  
+17004782   2/7/2017     1513   30 SALISBURY RD                                                UTIL/HAZ   CROWE, J               491  
+17004783   2/7/2017     1516   NORTH CROSSING / 47 PARK ST                                    LOST/PER   CROWE, J               491  
+17004784   2/7/2017     1517   NORTH CROSSING / 47 PARK ST                                    LOST/PER   CROWE, J               502  
+17004786   2/7/2017     1521   63 PIERREPONT RD                                               POL-ASSI   BANNON T               493  
+17004787   2/7/2017     1549   NEWTON CENTRE MBTA STATION / 70 UNION ST                       FGT/DISO   CLAFLIN JR J           494  
+17004788   2/7/2017     1558   PELHAM ST MUNICIPAL LOT / 0 PELHAM ST                          POL/TOW    NORCROSS M             503  
+17004792   2/7/2017     1627   1359 CENTRE ST                                                 CO DETEC   MCNEIL R               495  
+17004796   2/7/2017     1644   129 NORTH ST #D                                                WARR/SER   LARSON R               492  
+17004797   2/7/2017     1646   NORTH CROSSING / 47 PARK ST                                    FND/PERS   BERGDORF,J             502  
+17004802   2/7/2017     1653   CHURCH STREET  APARTMENTS / 182 CHURCH ST #2                   LARCENY    HEALY D                497  
+17004803   2/7/2017     1700   WASHINGTON ST & WATERTOWN ST                                   DMV        BERGDORF,J             502  
+17004807   2/7/2017     1742   70 HELENE RD                                                   911 HANG   FERGUSON A             498  
+17004813   2/7/2017     1832   216 LOWELL AVE                                                 MV/STOP    LARSON R               492  
+17004815   2/7/2017     1846   CLARK & WHITE INC / 777 WASHINGTON ST                          MV/STOP    HEALY D                492  
+17004816   2/7/2017     1850   11 KIMBALL TER                                                 CHIMNEY    HEALY D                492  
+17004821   2/7/2017     1914   37 RADCLIFF RD                                                 SP/INCD    BANNON T               493  
+17004824   2/7/2017     1937   GROVE ST & GROVELAND ST                                        DMV        BANNON T               493  
+17004828   2/7/2017     2000   BOX 9341/ 150 WELLS AVE                                        STRAIGHT   SOLOMAN A              496  
+17004829   2/7/2017     2000   BOYLSTON ST & ELLIOT ST                                        MV/STOP    MCNEIL R               495  
+17004833   2/7/2017     2040   155 JACKSON RD                                                 911 HANG   CROWE, J               491  
+17004834   2/7/2017     2041   137 WALNUT ST                                                  MV/STOP    LARSON R               492  
+17004835   2/7/2017     2041   35 KODAYA RD                                                   SHOTS/HD   FERGUSON A             495  
+17004839   2/7/2017     2107   777 WATERTOWN ST                                               MV/STOP    LARSON R               492  
+17004841   2/7/2017     2152   KIEHLS / 199 BOYLSTON ST                                       ALM/BURG   BOUDREAU C             494  
+17004843   2/7/2017     2322   31 BROKEN TREE RD                                              OPEN DOO   CALDERON D             496  

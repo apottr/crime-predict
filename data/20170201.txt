@@ -1,0 +1,53 @@
+17003814   1/31/2017    111    108 JOHN F KENNEDY CIR #B                                      BREATH P   BOUDREAU M             MED2 
+17003826   1/31/2017    438    COMMUNITIES FOR PEOPLE / 985 BEACON ST                         CHEST PA   BERGDORF,J             MED1 
+17003828   1/31/2017    537    LAW OFFICE OF WILLIAM J BRISK / 1340 CENTRE ST                 V/C/ORD    FEROLITO B             494  
+17003829   1/31/2017    639    ENCHOMAX / 49 BORDER ST                                        ALM/BURG   SPINNEY A              492  
+17003831   1/31/2017    753    22 MELBOURNE AVE                                               CHECK PE   COTTENS S              497  
+17003834   1/31/2017    813    DUNSTER RD & MIDDLESEX RD                                      MVA        PAGLIA ROBT            494  
+17003835   1/31/2017    816    12 CHARLES ST                                                  ALM/BURG   GABRIEL A              506  
+17003838   1/31/2017    854    295 WALTHAM ST                                                 MVA/UNKN   WALSH T                AMB1 
+17003839   1/31/2017    856    53 MAPLE ST                                                    UTIL/HAZ   GOURDEAU J             493  
+17003840   1/31/2017    859    40 WHITE PINE RD                                               ALM/BURG   GABRIEL A              495  
+17003841   1/31/2017    904    57 SILVER LAKE AVE                                             MVA/PAST   MCSWEENEY M            491  
+17003845   1/31/2017    934    54 ASHMONT AVE #1                                              911 HANG   MCSWEENEY M            MED2 
+17003847   1/31/2017    956    GOLDA MEIR ELDERLY HOUSING / 160 STANTON AVE #252              HEMOR/LA   GOURDEAU J             MED1 
+17003848   1/31/2017    957    BOX 1153/ 275 WASHINGTON ST                                    STRAIGHT   MCSWEENEY M            491  
+17003851   1/31/2017    1032   HAWTHORN ST & MURPHY CT                                        ILL/PARK   MCSWEENEY M            491  
+17003853   1/31/2017    1049   OAK HILL SCHOOL / 130 WHEELER RD                               FALL/BAC   BOUDROT E              MED1 
+17003858   1/31/2017    1116   CABOT PARK VILLAGE / 280 NEWTONVILLE AVE #511                  MVA/H&R    MCSWEENEY M            491  
+17003859   1/31/2017    1123   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     PSY/EVAL   ADAM R                 AMB1 
+17003861   1/31/2017    1155   CENTRE ST & WASHINGTON ST                                      SIGN/SIG   MCSWEENEY M            491  
+17003865   1/31/2017    1232   STARBUCKS COFFEE / 244 NEEDHAM ST                              MVA/PAST   SCALTRETO F            504  
+17003866   1/31/2017    1244   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        INVEST-G   ANDERSON N             1315 
+17003871   1/31/2017    1339   RIVERSIDE CENTER / 275 GROVE ST                                POL-ASSI   GOURDEAU J             493  
+17003874   1/31/2017    1358   60 LEVBERT RD                                                  UNKN PRO   BOUDROT E              AMB1 
+17003875   1/31/2017    1402   431 DEDHAM ST #D                                               ALM/BURG   SCALTRETO F            499  
+17003877   1/31/2017    1431   435 BOYLSTON ST                                                MVA        PAGLIA ROBT            494  
+17003878   1/31/2017    1434   NEWTON COMMUNITY CENTER / 492 WALTHAM ST                       911 HANG   COTTENS S              497  
+17003879   1/31/2017    1443   692 BEACON ST                                                  MVA        PAGLIA ROBT            494  
+17003880   1/31/2017    1450   60 LEVBERT RD                                                  POL-ASSI   GUARINO C              496  
+17003883   1/31/2017    1517   NEEDHAM ST & OAK ST                                            MVA        WILSON J               495  
+17003884   1/31/2017    1529   435 DEDHAM ST #C                                               ALM/BURG   BOUDROT E              496  
+17003885   1/31/2017    1539   64 GRAY CLIFF RD                                               LOCK OUT   FEROLITO B             494  
+17003886   1/31/2017    1543   NORTH CROSSING / 47 PARK ST                                    LOST/PER   BOUDREAU M             491  
+17003887   1/31/2017    1549   EVERGREEN AVE & OAKLAND AVE                                    SP/INCD    CICCONE, A             493  
+17003891   1/31/2017    1617   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         LARCENY    TRAMONTOZZI B          497  
+17003894   1/31/2017    1632   340 PARKER ST                                                  MVA / MI   GUARINO C              AMB2 
+17003895   1/31/2017    1640   39 WOODWARD ST                                                 IDENTITY   CICCONE, A             495  
+17003896   1/31/2017    1645   14 NONANTUM PL                                                 B&E PAST   TRAMONTOZZI B          497  
+17003899   1/31/2017    1656   CHARLES RIVER BIKE PATH.. / 22 ALBEMARLE RD                    SP/INCD    NARDELLI D             502  
+17003901   1/31/2017    1720   NORTH CROSSING / 47 PARK ST                                    LOST/PER   BOUDREAU M             491  
+17003902   1/31/2017    1729   WHOLE FOODS MARKET / 916 WALNUT ST                             MV/STOP    LARSON R               501  
+17003903   1/31/2017    1731   65 HANCOCK AVE                                                 LARCENY    BERGDORF,J             495  
+17003907   1/31/2017    1755   COMMONWEALTH AVE & LEXINGTON ST                                MVA/PED    GIARDINA S             MED2 
+17003908   1/31/2017    1755   303 RIVER ST                                                   CHECK PE   SPINNEY A              AMB2 
+17003912   1/31/2017    1816   NEWTON HOUSING AUTHORITY / 82 LINCOLN ST #205                  LOCK OUT   LARSON R               495  
+17003915   1/31/2017    1859   20 ARLINGTON ST                                                LARCENY    HEALY D                503  
+17003916   1/31/2017    1915   17 DREW RD                                                     KEEP/PCE   GUARINO C              496  
+17003917   1/31/2017    1925   CHRISTINA ST & NEEDHAM ST                                      UNWANTED   VALENTE D              499  
+17003918   1/31/2017    1937   BOX 2321/ CITIZENS BANK                                        STRAIGHT   TRAMONTOZZI B          497  
+17003923   1/31/2017    2031   171 LOWELL AVE                                                 CT/ORD     NARDELLI D             502  
+17003924   1/31/2017    2031   303 GREENWOOD ST                                               HEART PR   GUARINO C              MED1 
+17003927   1/31/2017    2110   BEACON ST & COUSENS CIR                                        MV/STOP    LARSON R               501  
+17003928   1/31/2017    2118   CROWNE PLAZA HOTEL / 320 WASHINGTON ST                         MVA        BOUDREAU M             491  
+17003938   1/31/2017    2353   GOLDEN LIVING CENTERS / 188 FLORENCE ST #212                   BREATH P   BOUDREAU C             MED1 

@@ -1,0 +1,64 @@
+17002647   1/22/2017    2      NEWTON POLICE DEPT / 1321 WASHINGTON ST                        PSYCH/SU   SELIG, J               MED2 
+17002649   1/22/2017    31     24 FOSTER ST                                                   DPW        SIEGAL SC              492  
+17002650   1/22/2017    39     CHARLESBANK RD & NONANTUM RD                                   O/AGENCY   CICCONE, A             497  
+17002651   1/22/2017    50     AMERICAN LEGION POST 440 / 295 CALIFORNIA ST                   L/NOISE    BOUDREAU J             508  
+17002652   1/22/2017    103    505 CENTRE ST #1                                               DIABETIC   CICCONE, A             MED2 
+17002655   1/22/2017    209    24 PICKWICK RD                                                 ALM/BURG   SULLIVAN D             497  
+17002656   1/22/2017    228    82 BEACON ST                                                   L/NOISE    CROWE, J               494  
+17002662   1/22/2017    324    26 PRINCETON ST                                                CBN MONO   BOUDREAU M             491  
+17002663   1/22/2017    443    84 MANCHESTER RD                                               PSYCH/SU   MCNEIL R               MED1 
+17002664   1/22/2017    459    LITTLE BIG DINER / 1247 CENTRE ST                              ALM/BURG   CROWE, J               494  
+17002665   1/22/2017    615    70 JAMES ST                                                    BREATH P   SIEGAL SC              AMB1 
+17002666   1/22/2017    734    45 SHORNECLIFFE RD                                             FORESTRY   RAYMOND Z              491  
+17002669   1/22/2017    758    BERTUCCIS / 275 CENTRE ST                                      ALM/BURG   IAROSSI M              497  
+17002670   1/22/2017    825    157 DUDLEY RD                                                  ALM/BURG   BOUDROT E              496  
+17002673   1/22/2017    944    WALGREENS / 22 LANGLEY RD                                      SP/INCD    GABRIEL A              494  
+17002674   1/22/2017    1004   83 ELDREDGE ST                                                 FRAUD      RAYMOND Z              491  
+17002676   1/22/2017    1040   11 TRAVIS DR                                                   ILL/PARK   GABRIEL A              494  
+17002677   1/22/2017    1056   CASSELMAN HOUSE / 195 SUMNER ST #306                           CHECK PE   GABRIEL A              494  
+17002678   1/22/2017    1112   CREATE-A-COOK / 53 WINCHESTER ST                               MVA        HILL R                 495  
+17002680   1/22/2017    1122   93 HANSON RD                                                   INVEST-G   RAYMOND Z              999  
+17002682   1/22/2017    1131   CENTRE ST & CHURCH ST                                          MVA        IAROSSI M              491  
+17002684   1/22/2017    1148   25 SHUTE PATH                                                  SPILL LV   BOUDROT E              496  
+17002686   1/22/2017    1219   12 DEXTER RD                                                   ILL/PARK   WALSH T                492  
+17002687   1/22/2017    1248   12 EVERGREEN AVE                                               B&E PAST   GOURDEAU J             493  
+17002689   1/22/2017    1257   DEWIRE BROS INC / 2240 COMMONWEALTH AVE                        MV/VIOL    SETIABUDI G            498  
+17002688   1/22/2017    1258   HONDA VILLAGE / 371 WASHINGTON ST                              CONV/SEI   RAYMOND Z              MED2 
+17002691   1/22/2017    1304   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #1408N     INVEST-G   PAGLIA ROBT            494  
+17002690   1/22/2017    1305   INDEPENTENT MORTGAGE LLC / 118 NEEDHAM ST                      ALM/BURG   BOUDROT E              494  
+17002693   1/22/2017    1336   34 OTIS ST                                                     CHECK PE   WALSH T                492  
+17002695   1/22/2017    1416   149 JACKSON RD                                                 INVEST-G   SETIABUDI G            498  
+17002696   1/22/2017    1442   SAPERS & WALLACK / 275 WASHINGTON ST                           MVA        RAYMOND Z              491  
+17002697   1/22/2017    1455   82 PAULSON RD                                                  MVA        MCNEIL R               AMB1 
+17002698   1/22/2017    1502   1767 BEACON ST                                                 UTIL/HAZ   MCNEIL R               495  
+17002699   1/22/2017    1505   CHESTNUT HILL MALL - UPPER / 199 BOYLSTON ST                   MV/VIOL    HOWES C                496  
+17002700   1/22/2017    1519   AUBURN ST & MELROSE ST                                         MVA/PAST   SIEGAL SC              493  
+17002701   1/22/2017    1542   BOYLSTON ST & HAMMOND POND PKWY                                MVA / MI   HOWES C                AMB1 
+17002702   1/22/2017    1547   CENTRE ST & WARD ST                                            SIGN/SIG   CROWE, J               494  
+17002709   1/22/2017    1640   103 MADISON AVE                                                ILL/PARK   SPINNEY A              491  
+17002727   1/22/2017    1900   WOODLAND PARK APARTMENTS / 288 GROVE ST                        IDENTITY   KANE A                 WN   
+17002730   1/22/2017    1909   GOLDEN LIVING CENTER / 25 ARMORY ST                            PSYCH/SU   SELIG, J               AMB2 
+17002731   1/22/2017    1926   BROOKLINE BANK / 323 WALNUT ST                                 911 HANG   SPINNEY A              491  
+17002732   1/22/2017    1930   17 BROADLAWN DR                                                911 HANG   HOWES C                496  
+17002733   1/22/2017    1932   PANERA BREAD / 1241 CENTRE ST                                  UNKN ODO   CROWE, J               494  
+17002734   1/22/2017    1942   DUNKIN DONUTS / 940 BOYLSTON ST                                BREATH P   MCNEIL R               MED1 
+17002735   1/22/2017    1954   BK REALTY TRUST / 41 COMMONWEALTH AVE #1                       HEMOR/LA   CROWE, J               MED2 
+17002736   1/22/2017    1957   NEWTON HOUSING AUTHORITY / 82 LINCOLN ST                       ALM/BURG   POHLMAN, K             501  
+17002737   1/22/2017    2007   BROOKLINE BANK / 323 WALNUT ST                                 911 HANG   SPINNEY A              492  
+17002738   1/22/2017    2009   3 PROCTOR ST                                                   MVA/CITY   HEALY S                506  
+17002740   1/22/2017    2023   DUNKIN DONUTS / 1148 BEACON ST                                 ALM/BURG   GIARDINA S             498  
+17002742   1/22/2017    2101   BOX 28121/ FIORELLAS                                           STRAIGHT   SPINNEY A              MED2 
+17002746   1/22/2017    2135   GRANDVIEW APARTMENTS / 209 RIVERVIEW AVE #22                   NEIG/PRB   GOURDEAU J             500  
+17002745   1/22/2017    2138   FARWELL ST & NORTH ST                                          O/AGENCY   SPINNEY A              492  
+17002748   1/22/2017    2139   NORTH CROSSING / 47 PARK ST                                    LOST/PER   SPINNEY A              506  
+17002747   1/22/2017    2140   61 BEACONWOOD RD                                               UNLEASHE   POHLMAN, K             498  
+17002749   1/22/2017    2154   128 OLD FARM RD                                                LAR/MV     HOWES C                496  
+17002750   1/22/2017    2212   EASTERN BANK / 188 NEEDHAM ST                                  911 HANG   HOWES C                496  
+17002752   1/22/2017    2215   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         FGT/DISO   POHLMAN, K             508  
+17002753   1/22/2017    2220   BOX 252/ SCHOOL ADM BUILD                                      STRAIGHT   SELIG, J               492  
+17002754   1/22/2017    2223   607 WASHINGTON ST #B                                           LARCENY    SELIG, J               492  
+17002755   1/22/2017    2234   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         GROUP      GIARDINA S             498  
+17002756   1/22/2017    2247   COMMUNITIES FOR PEOPLE / 985 BEACON ST                         GROUP      GIARDINA S             498  
+17002757   1/22/2017    2257   LONGWOOD CRICKET CLUB / 564 HAMMOND ST                         RD/OBST    CROWE, J               494  
+17002759   1/22/2017    2310   MCDONALDS RESTAURANT / 6 CIRCUMFERENTIAL HWY                   SUSP PER   CHIEU R                493  
+17002760   1/22/2017    2348   FRANKLIN SCHOOL / 125 DERBY ST                                 SUSP PER   SELIG, J               492  

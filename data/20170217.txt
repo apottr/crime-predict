@@ -1,0 +1,65 @@
+17006208   2/16/2017    103    COMMUNITIES FOR PEOPLE / 985 BEACON ST                         LOST/PER   WALTON T               508  
+17006220   2/16/2017    255    496 AUBURN ST                                                  OPEN DOO   MARCH R                498  
+17006222   2/16/2017    332    LAW OFFICE OF PATRICE L. SIMON / 29 CRAFTS ST #SUITE #200      911 HANG   GUARINO C              491  
+17006225   2/16/2017    419    NEWTON TECHNOLOGY PARK BLD #3 / 153 NEEDHAM ST                 911 HANG   WALTON T               495  
+17006226   2/16/2017    437    1299 BEACON ST                                                 ALM/BURG   WALTON T               495  
+17006229   2/16/2017    725    120 OLDE FIELD RD                                              ILL/PARK   BOUDROT E              496  
+17006231   2/16/2017    740    FIRST UNITARIAN SOCIETY / 1326 WASHINGTON ST                   MVA        IAROSSI M              497  
+17006232   2/16/2017    743    68 DAVIS AVE                                                   CBN MONO   COTTENS S              502  
+17006233   2/16/2017    804    AVALON AT NEWTON HIGHLANDS / 99 NEEDHAM ST                     ALM/BURG   SETIABUDI G            495  
+17006234   2/16/2017    808    CARE ONE / 2101 WASHINGTON ST                                  DMV        GOURDEAU J             493  
+17006235   2/16/2017    814    CENTRE ST & SARGENT ST                                         POL-ASSI   MANOUK K               491  
+17006237   2/16/2017    818    CARLSON AVE & DEDHAM ST                                        MVA        PAGLIA ROBT            499  
+17006239   2/16/2017    825    CENTRE ST & LYMAN ST                                           DMV        SETIABUDI G            495  
+17006240   2/16/2017    850    BOX 1192/ EVANS PARK                                           STRAIGHT   MANOUK K               491  
+17006243   2/16/2017    920    120 OLDE FIELD RD                                              ILL/PARK   BOUDROT E              496  
+17006244   2/16/2017    926    393 FULLER ST                                                  INVEST-G   COTTENS S              999  
+17006245   2/16/2017    928    FESSENDEN SCHOOL / 250 WALTHAM ST                              911 HANG   WALSH T                492  
+17006246   2/16/2017    932    BOYLSTON ST & ELLIOT ST                                        CHECK PE   SETIABUDI G            495  
+17006249   2/16/2017    940    770 DEDHAM ST                                                  CHECK PE   BOUDROT E              496  
+17006248   2/16/2017    940    NEWTON TECHNOLOGY PARK BLD #3 / 153 NEEDHAM ST                 911 HANG   CLAFLIN G              498  
+17006250   2/16/2017    942    LAS BUTTERWORTH HALL / 23 SEMINARY AVE                         MVA/H&R    SCHLEGEL J             491  
+17006254   2/16/2017    1026   NEWTON HIGHLANDS PET AND GROOM / 9 WOODWARD ST                 OUTSIDE    SETIABUDI G            495  
+17006255   2/16/2017    1045   AVALON AT NEWTON HIGHLANDS 89C / 89 NEEDHAM ST #2446           ALM/BURG   CLAFLIN G              498  
+17006256   2/16/2017    1111   NORTH CROSSING / 47 PARK ST                                    LOST/PER   DONAHUE K              491  
+17006264   2/16/2017    1154   NORTH CROSSING / 47 PARK ST                                    LOST/PER   DONAHUE K              604  
+17006265   2/16/2017    1154   APARTMENTS / 21 HERRICK RD                                     CEN STA/   BENES R                494  
+17006271   2/16/2017    1246   CONTAINER STORE(THE) / 27 BOYLSTON ST                          UNWANTED   BENES R                494  
+17006272   2/16/2017    1301   18 WESTFIELD RD                                                ALM/BURG   WALSH T                492  
+17006275   2/16/2017    1321   96 FREEMAN ST                                                  SICK/INJ   TORRES R               538  
+17006279   2/16/2017    1348   AVALON AT CHESTNUT HILL BLDG 1 / 160 BOYLSTON ST               SUSP PER   BOUDROT E              494  
+17006283   2/16/2017    1437   WEEKS HOUSING / 7 HEREWARD RD #13                              WARR/SER   DONAHUE K              604  
+17006285   2/16/2017    1453   39 DOLPHIN RD                                                  UTIL/HAZ   KEEFE T                494  
+17006290   2/16/2017    1543   MARRIOTT HOTEL / 2345 COMMONWEALTH AVE                         MVA        GIARDINA S             497  
+17006291   2/16/2017    1546   NORTH CROSSING / 47 PARK ST                                    FND/PERS   POHLMAN, K             491  
+17006293   2/16/2017    1548   156 COUNTRY CLUB RD                                            ALM/BURG   CALDERON D             496  
+17006294   2/16/2017    1604   RIVERSIDE MBTA / 355 GROVE ST                                  CHECK PE   VALENTE D              493  
+17006295   2/16/2017    1607   RTE 128                                                        CHECK PE   MARCH R                498  
+17006296   2/16/2017    1611   354 KENRICK ST                                                 911 HANG   KEEFE T                494  
+17006297   2/16/2017    1612   WOODLAND MBTA STATION / 1950 WASHINGTON ST                     MVA        NARDELLI D             999  
+17006298   2/16/2017    1623   THE LOCAL / 1391 WASHINGTON ST                                 MV/STOP    BOYLE P                500  
+17006299   2/16/2017    1628   THE TOWERS OF CHESTNUT HILL / 250 HAMMOND POND PKWY #513N      IDENTITY   SPINNEY A              999  
+17006306   2/16/2017    1648   44 TRAVIS DR                                                   SICK/INJ   KEEFE T                494  
+17006309   2/16/2017    1701   THE GABLES / 439 DEDHAM ST                                     MVA        CALDERON D             496  
+17006310   2/16/2017    1704   COMMONWEALTH AVE & GRANT AVE                                   MV/STOP    KEEFE T                494  
+17006316   2/16/2017    1759   TRI ANGLES / 132 RIVER ST                                      MVA        LARSON R               492  
+17006317   2/16/2017    1802   12 DEXTER RD                                                   ILL/PARK   GIARDINA S             497  
+17006318   2/16/2017    1804   SECOND STEP HOME / 21 FOSTER ST                                CT/ORD     SPINNEY A              492  
+17006323   2/16/2017    1825   MCDONALDS RESTAURANT / 111 NEEDHAM ST                          CHECK PE   MARCH R                498  
+17006324   2/16/2017    1836   46 RIPLEY ST                                                   DMV        KEEFE T                494  
+17006325   2/16/2017    1838   275 HARTMAN RD                                                 911 HANG   CALDERON D             496  
+17006326   2/16/2017    1844   314 ELLIOT ST                                                  ILL/PARK   MARCH R                498  
+17006328   2/16/2017    1849   85 ESSEX RD                                                    ALM/BURG   WILSON J               499  
+17006329   2/16/2017    1857   12 DEXTER RD                                                   ILL/PARK   SPINNEY A              492  
+17006330   2/16/2017    1857   CHESTNUT GROVE CONDOS / 1175 CHESTNUT ST #7                    HARASS     MARCH R                498  
+17006332   2/16/2017    1926   60 NATHAN RD                                                   ALM/BURG   CALDERON D             494  
+17006333   2/16/2017    1941   BEACON ST & LAWRENCE AVE                                       ILL/PARK   KEEFE T                494  
+17006337   2/16/2017    2004   STARBUCKS COFFEE / 474 WOODWARD ST                             RD/OBST    VALENTE D              493  
+17006338   2/16/2017    2004   AUBURNDALE AVE & LEXINGTON ST                                  UTIL/HAZ   SPINNEY A              492  
+17006339   2/16/2017    2008   BROOKLINE ST                                                   MV/VIOL    BOYLE P                500  
+17006345   2/16/2017    2109   NEWTON NORTH BLDG #1 / 457 WALNUT ST                           POL/TOW    MARZILLI C             514  
+17006349   2/16/2017    2147   760 DEDHAM ST                                                  LOST/PER   CALDERON D             494  
+17006350   2/16/2017    2234   85 POND BROOK RD                                               F.A. ACT   WILSON J               499  
+17006352   2/16/2017    2252   KU DE TA / 33 BOYLSTON ST                                      ALM/BURG   KEEFE T                494  
+17006353   2/16/2017    2328   437 NEWTONVILLE AVE                                            FGT/DISO   HELMS G                497  
+17006354   2/16/2017    2355   CABOTS ICE CREAM INC / 743 WASHINGTON ST                       MV/STOP    HELMS G                492  

@@ -1,0 +1,82 @@
+17001282   1/11/2017    45     780 BOYLSTON ST                                                MV/STOP    WALTON T               495  
+17001290   1/11/2017    201    1819 WASHINGTON ST                                             POL-ASSI   CHIEU R                493  
+17001297   1/11/2017    334    BLOOMINGDALES MEN'S STORE / 175 BOYLSTON ST                    ALM/BURG   KEEFE T                494  
+17001299   1/11/2017    519    THE VILLAGE BANK / 1369 WASHINGTON ST                          ALM/BANK   KANE A                 492  
+17001300   1/11/2017    522    TEMPLE REYIM / 1860 WASHINGTON ST                              ALM/BURG   MARCH R                498  
+17001302   1/11/2017    534    MANET RD & RESERVOIR DR                                        OUTSIDE    KEEFE T                494  
+17001303   1/11/2017    536    62 LORNA RD                                                    ALM/BURG   WILSON J               495  
+17001304   1/11/2017    537    BIGELOW MIDDLE SCHOOL / 42 VERNON ST                           ALM/BURG   GUARINO C              491  
+17001305   1/11/2017    538    UNDERWOOD SCHOOL / 101 VERNON ST                               ALM/BURG   GUARINO C              491  
+17001306   1/11/2017    550    3 GARRISON ST                                                  ALM/BURG   MARCH R                494  
+17001307   1/11/2017    623    NEWTON POLICE DEPT / 1321 WASHINGTON ST                        POL-ASSI   POHLMAN, K             WN   
+17001308   1/11/2017    625    ROCHESTER RD & WESTCHESTER RD                                  FORESTRY   WILSON J               499  
+17001310   1/11/2017    640    HOMER ST & WALNUT ST                                           SIGN/SIG   WALTON T               495  
+17001309   1/11/2017    640    43 HIGH ST                                                     ALM/BURG   MARCH R                498  
+17001312   1/11/2017    657    NAHANTON ST & WELLS AVE                                        DPW        BOUDROT E              495  
+17001313   1/11/2017    711    SALON FABIO / 37 KENNETH ST                                    ALM/BURG   SETIABUDI G            495  
+17001315   1/11/2017    747    NEWTON PIZZA HOUSE / 57 LINCOLN ST                             ALM/BURG   SETIABUDI G            495  
+17001316   1/11/2017    748    OAK HILL SCHOOL / 130 WHEELER RD                               MVA/UNKN   SETIABUDI G            AMB1 
+17001317   1/11/2017    806    133 BROOKLINE ST                                               ALM/BURG   IAROSSI M              495  
+17001320   1/11/2017    837    BROOKLINE ST & HARTMAN RD                                      INVEST-G   SETIABUDI G            495  
+17001322   1/11/2017    845    300 HARTMAN RD                                                 FORESTRY   SETIABUDI G            495  
+17001324   1/11/2017    924    BOX 36111/ BRAE BURN COUNTRY CLUB                              STRAIGHT   VELLO A                493  
+17001325   1/11/2017    941    UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   BENES R                494  
+17001326   1/11/2017    944    GREAT HARVEST BREAD CO / 316 WALNUT ST                         UNCONS/F   GARCIA J               AMB1 
+17001330   1/11/2017    946    43 OBER RD                                                     OUTSIDE    PAGLIA ROBT            499  
+17001331   1/11/2017    947    2300 WASHINGTON ST                                             LF/PROP    VELLO A                493  
+17001334   1/11/2017    1006   RTE 128                                                        MV FIRE    GARCIA J               492  
+17001336   1/11/2017    1110   84 TOLMAN ST                                                   SICK-D     GARCIA J               AMB1 
+17001337   1/11/2017    1111   BOX 44295/ LAS VILLAGE / BLOOM                                 STRAIGHT   VELLO A                493  
+17001338   1/11/2017    1113   306 WALNUT ST                                                  LARCENY    MANOUK K               WN   
+17001340   1/11/2017    1117   BUSWELL PK                                                     ALM/BURG   IAROSSI M              497  
+17001344   1/11/2017    1216   203 WALNUT ST                                                  ILL/PARK   GARCIA J               492  
+17001346   1/11/2017    1225   58 KENNETH ST                                                  UTIL/HAZ   RAYMOND Z              504  
+17001347   1/11/2017    1225   BOYLSTON ST & HAMMOND POND PKWY                                DMV        PAGLIA ROBT            499  
+17001348   1/11/2017    1229   BOX 2325/ 323 WALNUT ST                                        STRAIGHT   IAROSSI M              497  
+17001349   1/11/2017    1234   27 NOBLE ST FL 1                                               POL-ASSI   IAROSSI M              497  
+17001350   1/11/2017    1244   MDC SPECIAL SERVICES / 107 CHARLES ST                          ALM/BURG   VELLO A                493  
+17001351   1/11/2017    1253   CENTRE AVE & WASHINGTON ST                                     POL-ASSI   SCHLEGEL J             500  
+17001352   1/11/2017    1302   102 LOUISE RD                                                  DK         RAYMOND Z              495  
+17001353   1/11/2017    1310   800 CHESTNUT ST                                                V/C/ORD    CLAFLIN G              498  
+17001356   1/11/2017    1320   MAIN LIBRARY / 330 HOMER ST                                    VAND/CTY   ROSENBAUM E            608  
+17001358   1/11/2017    1333   ADAMS AVE & CHERRY ST                                          INVEST-G   GARCIA J               492  
+17001359   1/11/2017    1348   NEW ENGLAND OB-GYN ASSOCIATES / 200 BOYLSTON ST #SUITE 301     PREGNANC   PAGLIA ROBT            MED1 
+17001360   1/11/2017    1353   WINCHESTER ST OFFICES / 49 WINCHESTER ST                       KEEP/PCE   CLAFLIN G              495  
+17001361   1/11/2017    1354   NEWTON POLICE DEPT / 1321 WASHINGTON ST                        DRUG KIO   MANOUK K               WN   
+17001362   1/11/2017    1359   22 HAZELHURST AVE                                              INVEST-G   GIARDINA S             AMB2 
+17001363   1/11/2017    1419   BOX 8813/ 43 BOYLSTON ST                                       STRAIGHT   BENES R                494  
+17001365   1/11/2017    1420   SCHOOL ADM BUILD / 100 WALNUT ST                               INVEST-G   FONTANO S              999  
+17001366   1/11/2017    1453   GOLDEN LIVING CENTERS / 188 FLORENCE ST                        911 HANG   PAGLIA ROBT            499  
+17001368   1/11/2017    1455   GOLDEN SCISSORS / 20 AUSTIN ST                                 911 HANG   HENRICKSON A           505  
+17001367   1/11/2017    1455   CABOT PARK VILLAGE / 280 NEWTONVILLE AVE #118                  CARD/RES   SCHLEGEL J             AMB1 
+17001369   1/11/2017    1516   39 BOYLSTON RD                                                 INVEST-G   DONAHUE K              999  
+17001370   1/11/2017    1518   CARTER ST                                                      MVA        SIEGAL D               503  
+17001375   1/11/2017    1546   LOWELL AVE & OTIS ST                                           MVA        KANE A                 492  
+17001377   1/11/2017    1612   310 LAGRANGE ST                                                ALM/BURG   CALDERON D             496  
+17001380   1/11/2017    1616   INDEPENTENT MORTGAGE LLC / 118 NEEDHAM ST                      ALM/BURG   KEEFE T                495  
+17001381   1/11/2017    1623   GOLDA MEIR ELDERLY HOUSING / 160 STANTON AVE #522              911 HANG   CHIEU R                493  
+17001383   1/11/2017    1627   PAUL ST CONDOS / 53 PAUL ST #14                                FALL/BAC   KEEFE T                AMB1 
+17001391   1/11/2017    1657   34 FOSTER ST                                                   MV/VIOL    KANE A                 492  
+17001390   1/11/2017    1657   CENTRE ST & WINCHESTER ST                                      MVA / MI   LARSON R               AMB1 
+17001392   1/11/2017    1706   OHARAS / 1185 WALNUT ST                                        CONV/SEI   SIEGAL D               AMB1 
+17001398   1/11/2017    1719   BROWN MIDDLE SCHOOL / 125 MEADOWBROOK RD                       INVEST-G   DONAHUE K              999  
+17001400   1/11/2017    1725   PARKER ST & WHEELER RD                                         MVA        CONLEY B               496  
+17001403   1/11/2017    1736   PARK ST & WASHINGTON ST                                        MVA        NARDELLI D             502  
+17001405   1/11/2017    1743   NEWTONVILLE AVE & WALNUT ST                                    MV/STOP    KANE A                 492  
+17001407   1/11/2017    1750   48 SILVER LAKE AVE                                             ILL/PARK   NARDELLI D             502  
+17001414   1/11/2017    1833   41 BEECHER PL                                                  KEEP/PCE   CONLEY B               494  
+17001417   1/11/2017    1906   219 CHESTNUT ST                                                ALM/BURG   KANE A                 492  
+17001419   1/11/2017    1931   CONCORD STREET APARTMENTS / 153 CONCORD ST #14                 POL-ASSI   CHIEU R                493  
+17001420   1/11/2017    1951   7 PLAYSTEAD RD #1                                              IDENTITY   POHLMAN, K             999  
+17001421   1/11/2017    1954   COMMONWEALTH AVE & HOBART RD                                   MV/STOP    KEEFE T                494  
+17001422   1/11/2017    1954   1094 CHESTNUT ST                                               CHECK PE   CONLEY B               499  
+17001423   1/11/2017    1957   GREEN VALLEY OIL (BP) / 964 BOYLSTON ST                        MVA        WALTON T               495  
+17001425   1/11/2017    2030   80 WESTLAND AVE                                                B&E/ATT    KANE A                 492  
+17001424   1/11/2017    2031   BOX 7813/ ATRIUM MALL                                          STRAIGHT   CALDERON D             496  
+17001426   1/11/2017    2101   85 SEVLAND RD                                                  MV/VIOL    GUARINO C              494  
+17001428   1/11/2017    2118   384 DUDLEY RD                                                  ILL/PARK   LARSON R               501  
+17001427   1/11/2017    2118   37 WHITTIER RD                                                 UNCONS/F   SIEGAL D               AMB2 
+17001429   1/11/2017    2122   CVS / 999 WATERTOWN ST                                         MVA/PAST   POHLMAN, K             999  
+17001430   1/11/2017    2136   82 WAYNE RD                                                    WATER PR   LARSON R               501  
+17001434   1/11/2017    2220   12 INDIAN RIDGE RD                                             CRUI/TRN   POHLMAN, K             WN   
+17001436   1/11/2017    2336   DUNKIN DONUTS / 401 WATERTOWN ST                               ALM/BURG   BANNON T               491  

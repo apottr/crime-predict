@@ -1,0 +1,60 @@
+17000091   1/2/2017     11     1015 WASHINGTON ST #2                                          CHECK PE   BROOKS J               492  
+17000092   1/2/2017     35     NEWTON CENTRE FIELD HOUSE / 69 TYLER TER                       ALM/BURG   FERGUSON A             494  
+17000094   1/2/2017     56     NEWTON POLICE DEPT / 1321 WASHINGTON ST                        O/AGENCY   FERGUSON A             498  
+17000099   1/2/2017     143    12 PEMBROKE ST                                                 POL-ASSI   CROWE, J               491  
+17000106   1/2/2017     426    15 VINE ST                                                     CARD/RES   SOLOMAN A              MED1 
+17000111   1/2/2017     724    TEMPLE REYIM / 1860 WASHINGTON ST                              ALM/BURG   CLAFLIN G              493  
+17000112   1/2/2017     728    30 NOD HILL RD                                                 V/C/ORD    LEITCH B               496  
+17000113   1/2/2017     748    TEMPLE REYIM / 1860 WASHINGTON ST                              CRUI/TRN   CLAFLIN G              498  
+17000115   1/2/2017     807    THE FARMS CONDOS BUILDING #60 / 99 FLORENCE ST #2B 2C          ALM/BURG   SCALTRETO F            496  
+17000117   1/2/2017     838    115 DARTMOUTH ST                                               V/C/ORD    PAGLIA RICH            493  
+17000118   1/2/2017     842    GOLDSTEIN AND BILODEAU PC  / 246 WALNUT ST                     ALM/BURG   GARCIA J               491  
+17000121   1/2/2017     925    NORUMBEGA GARDENS / 36 ASH ST #B                               CHECK PE   PAGLIA RICH            493  
+17000123   1/2/2017     941    ADAMS ST & WASHINGTON ST                                       MV/STOP    SIEGAL SC              497  
+17000124   1/2/2017     949    214 PEARL ST                                                   ANIMAL P   GARCIA J               491  
+17000125   1/2/2017     1002   42 MCCARTHY RD                                                 ANIMAL P   SCALTRETO F            496  
+17000127   1/2/2017     1015   10 MYRTLE ST                                                   SPILL LV   BENES R                AMB1 
+17000130   1/2/2017     1043   CABOT WOODS / 0 BLAKE ST                                       LF/PROP    MCCARTHY T             999  
+17000131   1/2/2017     1043   RICE VALLEY / 821 WASHINGTON ST                                ALM/BURG   GARCIA J               491  
+17000132   1/2/2017     1112   110 FOREST AVE                                                 B&E M/V    BENES R                492  
+17000134   1/2/2017     1133   381 NEWTONVILLE AVE                                            DPW        BENES R                999  
+17000136   1/2/2017     1142   102 FOREST AVE                                                 B&E M/V    BENES R                999  
+17000137   1/2/2017     1145   BOX 3131/ PADDY'S PUB                                          STRAIGHT   PAGLIA RICH            493  
+17000140   1/2/2017     1207   30 PERKINS ST                                                  WARR/SER   SIEGAL SC              497  
+17000142   1/2/2017     1237   CONCORD STREET APARTMENTS / 153 CONCORD ST #14                 SICK-A     PAGLIA RICH            AMB2 
+17000143   1/2/2017     1251   29 PUTNAM ST                                                   WARR/SER   SIEGAL SC              497  
+17000144   1/2/2017     1254   BAZA GOURMET FOODS AND SPIRITS / 30 TOWER RD                   MVA/H&R    SETIABUDI G            494  
+17000147   1/2/2017     1258   934 COMMONWEALTH AVE                                           LF/PROP    CLAFLIN G              498  
+17000148   1/2/2017     1300   ZDOROVIC SENIOR SERVICES / 149 CALIFORNIA ST #A                UNCONS/F   GARCIA J               MED2 
+17000150   1/2/2017     1322   46 HEATHERLAND RD                                              PUB/HAZ    SCALTRETO F            496  
+17000151   1/2/2017     1331   HAMPSHIRE ST                                                   CHECK PE   BENES R                492  
+17000153   1/2/2017     1347   ELMWOOD ST & PARK ST                                           MVA        GARCIA J               491  
+17000155   1/2/2017     1433   NORUMBEGA GARDENS / 36 ASH ST #B                               CHECK PE   PAGLIA RICH            493  
+17000156   1/2/2017     1433   OAK HILL SCHOOL / 130 WHEELER RD                               ALM/BURG   SCALTRETO F            496  
+17000157   1/2/2017     1446   5 SHUMAN CIR                                                   SP/INCD    SCALTRETO F            496  
+17000160   1/2/2017     1505   CRYSTAL LAKE / 44 ROGERS ST                                    CHECK PE   SETIABUDI G            495  
+17000161   1/2/2017     1507   14 CLAFLIN PL                                                  UNKN ODO   GARCIA J               491  
+17000162   1/2/2017     1510   AVALON AT NEWTON HIGHLANDS E / 89 NEEDHAM ST #2158             STRUCT F   SETIABUDI G            MED1 
+17000163   1/2/2017     1521   160 DARTMOUTH ST                                               ALM/BURG   SULLIVAN D             493  
+17000164   1/2/2017     1606   NWH HOSPITAL / 2014 WASHINGTON ST                              MV/STOP    SULLIVAN D             493  
+17000165   1/2/2017     1609   BORDER ST & ELM ST                                             MV/STOP    CICCONE, A             492  
+17000167   1/2/2017     1622   176 RIVER ST                                                   KEEP/PCE   CICCONE, A             492  
+17000168   1/2/2017     1634   170 PINE RIDGE RD                                              CENT STA   SULLIVAN D             493  
+17000171   1/2/2017     1653   ROWE ST & WEBSTER ST                                           MV/STOP    CICCONE, A             492  
+17000172   1/2/2017     1655   WEGMANS / 200 BOYLSTON ST                                      FRAUD      POUTAS D               496  
+17000173   1/2/2017     1701   ANGIER CIR & WASHINGTON ST                                     MVA        SULLIVAN D             493  
+17000174   1/2/2017     1714   315 ALBEMARLE RD                                               LF/PROP    CICCONE, A             492  
+17000177   1/2/2017     1729   NEWTON CENTRE FIELD HOUSE / 69 TYLER TER                       ALM/BURG   BOUDREAU C             495  
+17000181   1/2/2017     1817   NEWTON SOUTH HIGH SCHOOL / 140 BRANDEIS RD                     ALM/BURG   GAMBLE N               504  
+17000182   1/2/2017     1818   BOYLSTON ST & MARGARET RD                                      CHECK PE   MCNEIL R               495  
+17000183   1/2/2017     1820   BEACON ST & UNION ST                                           MVA        COLETTI A              494  
+17000188   1/2/2017     1901   212 MILL ST                                                    CENT STA   COLETTI A              494  
+17000190   1/2/2017     1915   35 KINGSTON RD                                                 911 HANG   MCNEIL R               495  
+17000192   1/2/2017     1939   LONGFELLOW RD                                                  ILL/PARK   SULLIVAN D             493  
+17000194   1/2/2017     2014   THE LOCAL / 1391 WASHINGTON ST                                 MV/STOP    CICCONE, A             492  
+17000197   1/2/2017     2036   238 AUSTIN ST                                                  ANIMAL P   MIKOLEIT L             502  
+17000199   1/2/2017     2136   LEGAL SEA FOOD / 43 BOYLSTON ST                                LARCENY    COLETTI A              494  
+17000201   1/2/2017     2204   28 BRISTOL RD                                                  ALM/BURG   CICCONE, A             492  
+17000203   1/2/2017     2252   150 ADAMS ST #2                                                SUSP PER   HEALY D                497  
+17000206   1/2/2017     2343   29 KENSINGTON ST                                               CBN MONO   BERGDORF,J             492  
+17000207   1/2/2017     2344   73 WILLISTON RD                                                F.A. ACT   CHIEU R                493  

@@ -1,0 +1,82 @@
+17002764   1/23/2017    8      STAR MARKET / 1 BOYLSTON ST                                    RD/OBST    KANE A                 494  
+17002771   1/23/2017    46     BOYLSTON ST & ELLIS ST                                         O/AGENCY   DOWLING D              508  
+17002772   1/23/2017    53     BOYLSTON ST                                                    FND/PERS   POHLMAN, K             508  
+17002778   1/23/2017    158    216 VALENTINE ST                                               CBN MONO   SELIG, J               492  
+17002780   1/23/2017    216    NEWTON POLICE DEPT / 1321 WASHINGTON ST                        CRUI/TRN   POHLMAN, K             491  
+17002783   1/23/2017    249    NORTH CROSSING / 47 PARK ST                                    FND/PERS   GIARDINA S             497  
+17002784   1/23/2017    249    WALTHAM POLICE DEPT. / 155 LEXINGTON ST                        O/AGENCY   KANE A                 494  
+17002786   1/23/2017    310    TEMPLE REYIM / 1860 WASHINGTON ST                              ALM/BURG   CHIEU R                493  
+17002787   1/23/2017    327    305 FULLER ST                                                  PREGNANC   CHIEU R                MED2 
+17002789   1/23/2017    348    26 WASHINGTON PK                                               HEMOR/LA   POHLMAN, K             MED1 
+17002790   1/23/2017    353    NWH HOSPITAL / 2014 WASHINGTON ST                              DRUGS      CHIEU R                507  
+17002791   1/23/2017    554    JIFFY LUBE INTERNATIONAL / 191 NEEDHAM ST                      911 HANG   WALTON T               495  
+17002793   1/23/2017    704    20 COYNE RD                                                    CONV/SEI   DEMPSEY S              AMB1 
+17002794   1/23/2017    758    BOX 424/ WILLIAMS SCHOOL                                       STRAIGHT   GOURDEAU J             493  
+17002795   1/23/2017    812    WABAN LIBRARY / 1608 BEACON ST                                 ALM/BURG   GOURDEAU J             493  
+17002796   1/23/2017    818    UNIQLO USA / 199 BOYLSTON ST                                   911 HANG   BENES R                494  
+17002797   1/23/2017    826    161 PARMENTER RD                                               HEMOR/LA   GARCIA J               AMB1 
+17002798   1/23/2017    830    12 CARTER ST                                                   VAND/PRP   COLELLA M              491  
+17002799   1/23/2017    845    1741 WASHINGTON ST                                             UTIL/HAZ   GOURDEAU J             493  
+17002800   1/23/2017    855    POLICE DEPT ANNEX / 25 CHESTNUT ST                             ANIMAL P   TORRES R               999  
+17002801   1/23/2017    910    PANERA BREAD / 1241 CENTRE ST                                  MVA        SETIABUDI G            495  
+17002802   1/23/2017    913    85 CHRISTINA ST                                                VAND/PRP   BOUDROT E              496  
+17002803   1/23/2017    914    16 MORTON RD                                                   ANIMAL R   TORRES R               538  
+17002804   1/23/2017    922    BOX 81831/ BRIMMER MAY SCHOOL CHASE BUILD                      STRAIGHT   BENES R                494  
+17002806   1/23/2017    938    42 COTTON ST                                                   ALM/BURG   BENES R                494  
+17002808   1/23/2017    1008   TROWBRIDGE AVE & WALNUT ST                                     MVA/UNKN   GARCIA J               AMB1 
+17002809   1/23/2017    1010   STARCK INC / 160 CHARLEMONT ST                                 LF/PROP    BOUDROT E              496  
+17002810   1/23/2017    1016   WABAN LIBRARY / 1608 BEACON ST                                 ALM/BURG   GOURDEAU J             493  
+17002811   1/23/2017    1039   70 JAMES ST                                                    FRAUD      VELLO A                999  
+17002812   1/23/2017    1046   KARYOPHARM THERAPEUTICS / 85 WELLS AVE                         911 HANG   PAGLIA ROBT            499  
+17002813   1/23/2017    1056   NWH HOSPITAL / 2014 WASHINGTON ST                              COURTDOC   GOURDEAU J             493  
+17002814   1/23/2017    1059   NEWTON DISTRICT COURT HOUSE / 1309 WASHINGTON ST               BREATH P   VELLO A                MED2 
+17002815   1/23/2017    1108   28 EXMOOR RD                                                   ALM/BURG   BENES R                494  
+17002819   1/23/2017    1140   44 BRUSH HILL RD                                               CENT STA   BOUDROT E              496  
+17002821   1/23/2017    1210   35 LOCKWOOD RD                                                 ALM/BURG   MANOUK K               491  
+17002823   1/23/2017    1244   371 WASHINGTON ST                                              LAR/MVPL   VELLO A                WN   
+17002824   1/23/2017    1245   HONDA VILLAGE / 371 WASHINGTON ST                              LAR/MVPL   VELLO A                WN   
+17002828   1/23/2017    1318   22 FAXON ST                                                    CARD/RES   COLELLA M              MED2 
+17002829   1/23/2017    1325   21 LINDBERGH AVE                                               ABAND MV   GAUDET M               525  
+17002831   1/23/2017    1340   SOLOMON SCHECHTER DAY SCHOOL / 60 STEIN CIR                    ALM/BURG   PAGLIA ROBT            496  
+17002832   1/23/2017    1353   307 WINCHESTER ST #C                                           BREATH P   PAGLIA ROBT            AMB1 
+17002833   1/23/2017    1357   BOX 2334/ 823 WASHINGTON ST                                    STRAIGHT   GARCIA J               497  
+17002835   1/23/2017    1413   TOKYO  JAPENESE STEAKHOUSE / 199 BOYLSTON ST                   LF/PROP    BENES R                494  
+17002836   1/23/2017    1416   CIRCUIT AVE & ELLIOT ST                                        MV/VIOL    SETIABUDI G            495  
+17002837   1/23/2017    1433   CENTRE ST & WARD ST                                            SIGN/SIG   PAGLIA ROBT            499  
+17002838   1/23/2017    1523   KENNETH WILDES HAIR SALON / 9 BEACON PL                        ALM/BURG   WILSON J               496  
+17002839   1/23/2017    1537   BULLOUGH PK & DEXTER RD                                        SICK/INJ   TORRES R               538  
+17002840   1/23/2017    1556   CHESTNUT ST & WASHINGTON ST                                    MV/STOP    POUTAS D               503  
+17002843   1/23/2017    1627   44 JUDKINS ST                                                  UNKN PRO   POHLMAN, K             AMB2 
+17002845   1/23/2017    1638   NAHANTON ST & WINCHESTER ST                                    MVA        CALDERON D             496  
+17002849   1/23/2017    1649   ELKS HALL / 429 CENTRE ST                                      MVA        POHLMAN, K             491  
+17002852   1/23/2017    1706   WABAN LIBRARY / 1608 BEACON ST                                 ALM/BURG   GUARINO C              493  
+17002853   1/23/2017    1709   VINO DIVINO / 899 WALNUT ST                                    MV/STOP    POUTAS D               503  
+17002856   1/23/2017    1722   CABOTS ICE CREAM INC / 743 WASHINGTON ST                       MV/VIOL    GIARDINA S             492  
+17002859   1/23/2017    1736   RTE 128 & WASHINGTON ST                                        CHECK PE   GUARINO C              493  
+17002861   1/23/2017    1741   25 SKY VIEW CIR                                                ALM/BURG   WILSON J               499  
+17002865   1/23/2017    1751   PAGE RD & WALNUT ST                                            OUTSIDE    KANE A                 492  
+17002866   1/23/2017    1751   THURSTON RD                                                    CHECK PE   WALTON T               495  
+17002869   1/23/2017    1811   3 CARL ST                                                      UNKN PRO   WILSON J               AMB2 
+17002868   1/23/2017    1811   928 CHESTNUT ST                                                MVA        MARCH R                498  
+17002871   1/23/2017    1823   24 VILLAGE RD                                                  COURTDOC   NARDELLI D             502  
+17002876   1/23/2017    1838   12 DEXTER RD                                                   ILL/PARK   KEEFE T                492  
+17002877   1/23/2017    1841   DEDHAM ST & OAK HILL ST                                        FORESTRY   CALDERON D             496  
+17002880   1/23/2017    1855   LYME RD & PLEASANT ST                                          MVA        GIARDINA S             AMB2 
+17002881   1/23/2017    1856   11 MAPLEWOOD AVE                                               DEFAULT    KEEFE T                494  
+17002882   1/23/2017    1858   35 KODAYA RD                                                   DEFAULT    WALTON T               495  
+17002883   1/23/2017    1900   12 DEXTER RD                                                   ILL/PARK   KANE A                 492  
+17002884   1/23/2017    1902   JIFFY LUBE INTERNATIONAL / 191 NEEDHAM ST                      911 HANG   POUTAS D               503  
+17002885   1/23/2017    1915   COMMONWEALTH AVE & WALNUT ST                                   MV/STOP    POHLMAN, K             491  
+17002887   1/23/2017    1930   55 POND ST                                                     UTIL/HAZ   POHLMAN, K             491  
+17002888   1/23/2017    1935   12 TRUMAN RD                                                   FORESTRY   CALDERON D             496  
+17002889   1/23/2017    1942   COMMONWEALTH AVE & GRANT AVE                                   SIGN/SIG   WILSON J               494  
+17002890   1/23/2017    1955   15 WILSON CIR                                                  CARD/RES   WALTON T               MED1 
+17002892   1/23/2017    2032   15 PLACID RD                                                   FORESTRY   CALDERON D             496  
+17002893   1/23/2017    2040   117 FULLER ST                                                  CHECK PE   MARCH R                493  
+17002894   1/23/2017    2040   226 KENRICK ST                                                 FORESTRY   KEEFE T                494  
+17002895   1/23/2017    2048   56 ELDREDGE ST                                                 MVA        POHLMAN, K             491  
+17002897   1/23/2017    2121   34 ROUNDWOOD RD                                                FORESTRY   SULLIVAN D             498  
+17002898   1/23/2017    2141   155 JACKSON ST                                                 FORESTRY   WILSON J               499  
+17002899   1/23/2017    2200   RONSKYS  / 3 BOYLSTON ST #A                                    ALM/BURG   WILSON J               499  
+17002900   1/23/2017    2204   TRANSMITTER TOWER / 750 SAW MILL BROOK PKWY                    911 HANG   CALDERON D             496  
+17002904   1/23/2017    2357   394 KENRICK ST                                                 DEFAULT    KEEFE T                999  
